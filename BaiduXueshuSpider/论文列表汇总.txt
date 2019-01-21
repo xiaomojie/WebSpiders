@@ -1,0 +1,1632 @@
+Efficiency bounds for missing data models with semiparametric restrictions
+Efficient Estimation of Population-Level Summaries in General Semiparametric Regression Models 
+Partially linear models with missing response variables and error-prone covariables
+Empirical likelihood for estimating equations with missing values
+Empirical likelihood confidence intervals for response mean with data missing at random
+Empirical Likelihood Inference in Nonlinear Errors-in-Covariables Models With Validation Data 
+Robust techniques for measurement error correction: a review
+High-dimensional semi-supervised learning via a fusion-refinement procedure
+Flowing maps to minimal surfaces
+Flowing maps to minimal surfaces: Existence and uniqueness of solutions
+Energy concentration for almost harmonic maps and the Willmore functional
+Decay estimates for Rivi¨¨re's equation, with applications to regularity and compactnes
+Geometry and nonlinear analysis
+Topological Degree for a Mean Field Equation on Riemann Surfaces
+Existence of conformal metrics with constant Q-curvature
+Kobayashi-Hitchin correspondence for tame harmonic bundles and an application
+The Finite Element Method and Its Reliability
+ReALE: A reconnection-based arbitrary-Lagrangian-Eulerian method
+Function, Gradient and Hessian Recovery Using Quadratic Edge-Bump Functions
+A two-grid discretization method for decoupling systems of partial differential equation
+Is 2k-Conjecture Valid for Finite Volume Methods?
+An Hp-Version Discontinuous Galerkin Method for Intergro- Differential Equations of Parabolic Type
+Robust Numerical Methods for Singularly Perturbed Differential Equations
+A unifying theory of a posteriori error control for nonconforming finite element methods
+On CIS circulants 
+On the parameterized intractability of motif search problems
+Combinatorial Optimization: Polyhedra and Efficiency
+On the equivalence between the primal-dual schema and the local ratio technique
+A comparative analysis of biclustering algorithms for gene expression data
+Partition decoupling for multi-gene analysis of gene expression profiling data
+A new method of finding groups of coexpressed genes and conditions of coexpression
+cMonkey2: Automated, systematic, integrated detection of co-regulated gene modules for any organism
+A fast direct solver for high frequency scattering from a large cavity in two dimensions
+Increasing stability in an inverse problem for the acoustic equation
+Zbmath review
+A mathematical theory of super-resolution by using a system of sub-wavelength Helmholtz resonators
+Adaptive eigenspace method for inverse scattering problems in the frequency domain
+h - p finite element approximation for full-potential electronic structure calculations
+Locally refined multigrid solution of the all-electron Kohn–Sham equation
+Utilization of inverse approach in the design of materials over nano- to macro-scale
+Wave packet analysis of Schr?dinger equations inanalytic function spaces
+Estimates on modulation spaces for Schr?dinger evolution operators with quadratic and sub-quadratic potential
+Functions operating on modulation spaces and nonlinear dispersive equations
+Phase space analysis of semilinear parabolic equations
+Navier–Stokes equations and nonlinear heat equations in modulation spaces with negative derivative indices
+Inclusion relations between L p  -Sobolev and Wiener amalgam spaces
+Changes of variables in modulation and Wiener amalgam spaces
+Multiplication and Composition in Weighted Modulation Spaces
+Math Review MR2775628
+Advances in algebraic geometry codes
+Extract correlations
+Non malleable codes
+Finite Fields: Theory and Computation
+Sparse-graph codes for quantum error correction
+The art of signaling: Fifty years of coding theory
+Rational Homotopy Theory
+Backward Stochastic Differential Equations, Nonlinear Expectaion and Their Applications
+Mathematical Reviews Item Number MR1982735 (2004d:49072)
+Well posedness of operator valued backward stochastic Riccati equations in infinite dimensional spaces 
+Backward stochastic differential equations and integral-partial differential equations
+Mathematical Reviews Item Number MR2550365 (2011f:60110)
+Mathematical Reviews Item Number MR1972529 (2004a:93095)
+Mean-Variance Hedging and Stochastic Control: Beyond the Brownian Setting
+A stochastic linear–quadratic problem with L′evyprocesses and its application to finance 
+Statistical Analysis of Profile Monitoring
+A Least Angle Regression Control Chart for Multidimensional Data
+Profile Control Charts Based on Nonparametric L-1 Regression Methods
+A Variable-Selection-Based Multivariate EWMA Chart for Process Monitoring and Diagnosis
+Surveillance of Nonhomogeneous Poisson Processes
+A Nonparametric Change-Point Control Chart
+Nonparametric (Distribution-Free) Quality Control Charts
+Some Current Directions in the Theory and Application of Statistical Process Monitoring
+LU-factorization versus Wiener-Hopf factorization for Markov chains
+Performance-based contracts for outpatient medical services
+Decay rates for quasi-birth-and-death processes with countably many phases and tridiagonal block generators
+Second-order Markov reward models driven by QBD processes
+Strategic customers in a transportation station: When is it optimal to wait?
+Product-line competition: Customization vs. proliferation
+Mathematical model for low-rate DoS attacks against application servers
+Retrial Queueing Systems: A Computational Approach
+Polynomials having leading terms over C^2 in the Fock space
+Operator theory in the Hardy space over the bidisk, III
+Unitary invariants for Hilbert modules of finite rank
+Quotients of standard Hilbert modules
+Essential normality of polynomial-generated submodules: Hardy space and beyond
+The mathematical legacy of William Arveson
+Essential normality and the decomposability of homogeneous submodules
+Properties of Beurling-type submodules via Agler decompositions
+Singularity formation in chemotaxis— a conjecture of Nagai
+On Gevrey solutions of threefold singular nonlinear partial differential equations
+Anisotropic hypoelliptic estimates for Landau-type operators
+Entropy dissipation estimates for the Landau equation  in the Coulomb case and application
+Hypoelliptic estimates for a linear model of the Boltzmann equation without angular cutoff
+Regularity of traveling periodic stratified water waves with vorticity
+Existence result for a class of semilinear totally characteristic hypoelliptic equations with conical degeneration
+Capillary-gravity water waves with discontinuous vorticity: existence and regularity results
+Candidates for Twin Chiral Bands in 102Rh
+Attempt to produce element 120 in the 244Pu + 58Fe reaction
+Giant neutron halos in the non-relativistic mean field approach
+Relativistic Hartree-Fock-Bogoliubov model for deformed nuclei
+Microscopic Calculations of Isospin-Breaking Corrections to Superallowed Beta Decay
+CKM unitarity normalization tests, present and future
+Isospin Asymmetry in the Pseudospin Dynamical Symmetry
+Relativistic symmetries in nuclei and hadrons
+Physical Properties and Environments of Nearby Galaxies
+The fossil phase in the life of a galaxy group
+Constraints on intragroup stellar mass from hostless Type Ia supernovae
+PRIMUS: Galaxy Clustering as a Function of Luminosity and Color at 0.2 < z < 1
+Galaxy Downsizing Evidenced by Hybrid Evolutionary Tracks
+Astrophysics in 2006
+Galaxy And Mass Assembly (GAMA): testing galaxy formation models through the most massive galaxies in the Universe
+Cross-Correlation Lensing: Determining Galaxy and Cluster Mass Profiles from Statistical Weak-Lensing Measurements
+Half-Quantum Vortices in an Antiferromagnetic Spinor Bose-Einstein Condensate
+Collisional Dynamics of Half-Quantum Vortices in a Spinor Bose-Einstein Condensate
+Spinor Bose–Einstein condensates
+Motional Dressed States in a Bose-Einstein Condensate: Superfluidity at Supersonic Speed
+Interferences in the density of two Bose-Einstein Condensates consisting of identical or different atoms
+Solitons in nonlinear lattices
+Propagation Dynamics of a Light Beam in a Fractional Schr?dinger Equation
+Coherent delocalization of atomic wave packets in driven lattice potentials
+Flat optics with designer metasurfaces
+Controlled steering of Cherenkov surface plasmon wakes with a one-dimensional metamaterial
+Terahertz metamaterials for linear polarization conversion and anomalous refraction
+Diodelike asymmetric transmission of linearly polarized waves using magnetoelectric coupling and electromagnetic wave tunneling
+Broadband Focusing Flat Mirrors Based on Plasmonic Gradient Metasurfaces
+Analog Computing Using Reflective Plasmonic Metasurfaces
+Robust multispectral transparency in continuous metal film structures via multiple near-field plasmon coupling by a finite-difference time-domain method
+Wave–matter interactions in epsilon-and-mu-near-zero structures
+Synopsis: Dirt and geometry insulate electrons
+Theory of the Topological Anderson Insulator
+The birth of topological insulators
+Interplay between ferromagnetism, surface states, and quantum corrections in a magnetically doped topological insulator
+Manifestation of Topological Protection in Transport Properties of Epitaxial Bi2Se3 Thin Films
+Competing Weak Localization and Weak Antilocalization in Ultrathin Topological Insulators
+Unexpected mass acquisition of Dirac fermions at the quantum phase transition of a topological
+Detection of Berry’s Phase in a Bulk Rashba Semiconductor
+Folding Alphabets
+Designing Protein Energy Landscapes
+Coordination Properties of Zinc Finger Peptides Revisited: Ligand Competition Studies Reveal Higher Affinities for Zinc and Cobalt
+Are Classical Molecular Mechanics Calculations Still useful in Bioinorganic Simulations?
+DNA Damage and the Balance between Survival and Death in Cancer  Biology
+Another Fork in the Road -- Life or Death Decisions by the Tumour Suppressor p53
+Local Homology Recognition and Distance Measure in Linear Time using Compressed Amino Acid Alphabets
+Folding of a Heterogeneous Beta-Hairpin Peptide from Temperature-Jump 2D IR Spectroscopy
+The puzzle of high temperature superconductivity in layered iron pnictides and chalcogenides
+In-plane electronic anisotropy of underdoped ‘122’ Fe- arsenide superconductors revealed by measurements of detwinned single crystals
+Fermi Surface Topology and Low-Lying Quasiparticle Dynamics of Parent Fe1+xTe/Se Superconductor
+Superconductivity in iron compounds
+Neutron-Diffraction Measurements of an Antiferromagnetic Semiconducting Phase in the Vicinity of the High- Temperature Superconducting State of KxFe2ySe2
+Iron superconductivity weathers another storm
+Colloquium: The unexpected properties of alkali metal iron selenide superconductors
+Spectroscopic scanning tunneling microscopy insights into Fe- based superconductors
+Memristive devices for computing
+Physical aspects of ferroelectric semiconductors for photovoltaic solar energy conversion
+Multiferroic oxide thin films and heterostructures
+Atomic layer deposition of perovskite oxides and their epitaxial integration with Si, Ge, and other semiconductors
+Ferroelectric Instability Under Screened Coulomb Interactions
+Spintronic Functionality of BiFeO3 Domain Walls
+Direct Probing of Nanodimensioned Oxide Multilayers with the Aid of Focused Ion Beam Milling
+Unusual thermodynamic properties and nonergodicity in ferroelectric superlattices
+Triangulating the Galaxy
+Understanding our Galaxy - key contributions from the Parkes telescope
+The Spiral Structure of the Outer Milky Way in Hydrogen
+New Velocimetry and Revised Cartography of the Spiral Arms in the Milky Way---A Consistent Symbiosis
+Resolving distance ambiguities towards 6.7 GHz methanol masers
+A New Mechanism for Radial Migration in Galactic Disks: Spiral-Bar Resonance Overlap
+The Milky Way spiral structure parameters from data on masers
+The Milky Way disk
+New concepts and modeling strategies to design and evaluate photo-electro-catalysts based on transition metal oxides
+Magnetism in C- or N-doped MgO and ZnO: A Density Functional Study of Impurity Pairs
+Evidence of oxygen vacancy induced room temperature ferromagnetism in solvothermally synthesized undoped TiO2 nanoribbons
+Heavily Doped Semiconductor Nanocrystal Quantum Dots
+Light-emitting diodes by band-structure engineering in van der Waals heterostructures
+Broad Family of Carbon Nanoallotropes：Classification, Chemistry, and Applications of Fullerenes, Carbon Dots, Nanotubes, Graphene, Nanodiamonds, and Combined Superstructures
+Graphdiyne and graphyne: from theoretical predictions to practical construction
+Pressure-induced semiconducting to metallic transition in multilayered molybdenum disulphide
+Photochromic organic–inorganic hybrid materials
+Novel Tb-MOF Embedded with Viologen Species for Multi- Photofunctionality: Photochromism, Photomodulated Fluorescence, and Luminescent pH Sensing
+Methylviologen-templated layered bimetal phosphate: a multifunctional X-ray-induced photochromic material
+Luminescent Functional Metal-Organic Frameworks
+《Metal-Organic Frameworks for Photonics Applications》
+Defect-related luminescent materials: synthesis, emission properties and applications
+Efficient and tunable white-light emission of metal–organic frameworks by iridium-complex encapsulation
+Emerging Multifunctional Metal–Organic Framework Materials
+Thermodynamic Correlation Analysis:? Hydration and Perturbation Sensitivity of RNA Secondary Structures
+Effect of Hydrogen Bonds on pKa Values: Importance of Networking
+One-Electron and Two-Electron Transfers in Electrochemistry and Homogeneous Solution Reactions
+Computational Studies of Synthetically Relevant Homogeneous Organometallic Catalysis Involving Ni, Pd, Ir, and Rh: An Overview of Commonly Employed DFT Methods and Mechanistic Insights
+The role of organometallic copper(III) complexes in homogeneous catalysis
+A Free-Radical-Promoted Stereospecific Decarboxylative Silylation of α,β-Unsaturated Acids with Silanes
+Decarboxylative coupling reactions: a modern strategy for C–C-bond formation
+Copper-Catalyzed Oxytrifluoromethylation of Unactivated Alkenes
+Highly Emissive Platinum(II) Metallacages
+Glycodynamers: dynamic polymers bearing oligosaccharides residues-generation, structure, pohysicochemical, component exchange, and Lectin binding properties
+Ruthenium-catalyzed azide alkyne cycloaddition reactions: scope, mechanism, and applications
+Biological applications of supramolecular assemblies designed for excitation energy transfer
+Design Amphiphilic Dipolar Pi-System for Stimuli-responsive Luminescent Materials Using Metastable States
+Optical Chemosensors and Reagents to Detect Explosives
+A Mechanically Controlled Indicator Displacement Assay
+Fluorescence Turn-On Chemosensor for Highly Selective and Sensitive Detection and Bioimaging of Al3+ in Living Cells Based on Ion-Induced Aggregation
+Imaging Mobile Zinc in Biology
+Fluorescent Chemosensors for Zn2+
+Chemical Probes for Molecular Imaging and Detection of Hydrogen Sulfide and Reactive Sulfur Species in Biological Systems
+Metal-Organic Framework Materials as Chemical Sensors
+Chemical Sensors Based on Polymer Composites with Carbon Nanotubes and Graphene: the Role of the Polymer
+Ferritin: A Versatile Building Block for Bionanotechnology
+In vitro Cancer Chemotherapeutic Activity of 1,10-Phenanthroline (phen), [Ag2(phen)3(mal)].2H2O, [Cu(phen)2(mal)].2H2O and [Mn(phen)2(mal)].2H2O (malH2 = malonic acid) Using Human Cancer Cells
+Multinuclear Non-Heme Iron Complexes for Double-Strand DNA Cleavage
+Grains and grain boundaries in single-layer graphene atomic patchwork quilts
+Molecularly-mediated assemblies of plasmonic nanoparticles for Surface-Enhanced Raman Spectroscopy applications
+Controlled synthesis of single-chirality carbon nanotubes
+Nano-Bioelectronics
+Carbon Nanomaterials for Biological Imaging and Nanomedicinal Therapy
+Graphene oxide as a chemically tunable platform for optical applications
+Graphene-based semiconductor photocatalysts
+Graphene-Supported Nanoelectrocatalysts for Fuel Cells: Synthesis, Properties, and Applications
+Iron (III) Corroles and Porphyrins as Superior Catalysts for the Reactions of Diazoacetates with Nitrogen- or Sulfur-Containing Nucleophilic Substrates: Synthetic Uses and Mechanistic Insights
+Synthesis and Applications of tert-Butanesulfinamide
+Multicomponent reactions: advanced tools for sustainable organic synthesis
+Complete Field Guide to Asymmetric BINOL-Phosphate Derived Br?sted Acid and Metal Catalysis: History and Classification by Mode of Activation
+Synergistic catalysis: A powerful synthetic strategy for new reaction development
+C2-Symmetric Chiral Bis(oxazoline) Ligands in Asymmetric Catalysis
+Modern Organic Synthesis with α.Diazocarbonyl Compounds
+Importance of Ligand Exchanges in Pd(II)-Br?nsted Acid Cooperative Catalytic Approach to Spirocyclic Rings
+New Reactivity of the Uranyl(VI) Ion
+Giant Regular Polyhedra from Calixarene Carboxylates and Uranyl
+Hollow Nanocrystals through the Nanoscale Kirkendall Effect
+Hollow Micro-/Nanostructures: Synthesis and Applications
+Decamethyldizincocene, a Stable Compound of Zn(I) with a Zn–Zn Bond
+Zinc-Zinc Bonds: A New Frontier
+Strong Correlations in Highly Electron-Doped Zn(II)-DNA Complexes
+Au@TiO2 Yolk–shell Hollow Spheres for Plasmon Induced Photocatalytic Reduction of CO2 to Solar Fuel via a Local Electromagnetic Field
+Chiral recognition at the air–water
+Interfacial molecular recognition of non-surface-active species at Langmuir monolayers
+Spontaneous resolution, whence and whither: from enantiomorphic solids to chiral liquid crystals, monolayers and macro- and supra-molecular polymers and assemblies
+All Wound Up
+Molecular recognition in chiral and non-chiral amphiphilic self-assemblies at interfaces
+Optical chirality sensing using macrocycles,synthetic and supramolecular oligomers/polymers, and nanoparticle based sensors
+Nanotubes Self-Assembled from Amphiphilic Molecules via Helical Intermediates
+Self-assembling yarn shows its strength
+Measuring Single Small Molecule Binding via Rupture Force of a Split Aptamer
+Fluorescent DNA-based enzyme sensors
+Functional Nucleic Acid Sensors
+Temperature-Induced Structural Phase Transitions in a Two- Dimensional Self-Assembled Network/
+Molecularly Resolved Images of Peptide-Functionalized Gold Surfaces by Scanning Tunneling Microscopy
+Spatiotemporal Dynamics of the BRI1 Receptor and its Regulation by Membrane Microdomains in Living Arabidopsis Cells
+Plant Nanobionics Approach to Augment Photosynthesis and Biochemical Sensing
+The Living Scar - Cardiac Fibroblasts and the Injured Heart
+Magnetic Iron Oxide Nanoparticles: Synthesis, Stabilization, Vectorization, Physicochemical Characterizations, and Biological Applications
+Magnetic Nanoparticles: Synthesis, Protection, Functionalization, and Application
+PEGylated Inorganic Nanoparticles
+Inorganic Nanoparticles for MRI Contrast Agents
+Chemical Design of Nanoparticle Probes for High-Performance Magnetic Resonance Imaging
+Aqueous Synthesis of Glutathione-Capped ZnSe and Zn1–xCdxSe Alloyed Quantum Dots
+Recent Progress on Silica Coating of Nanoparticles and Related Nanomaterials
+Designer Polymer–Quantum Dot Architectures
+Highly Enantioselective Hydrogenation of Quinolines Using Phosphine-Free Chiral Cationic Ruthenium Catalysts: Scope, Mechanism, and Origin of Enantioselectivity
+Asymmetric Hydrogenation of Isoquinolinium Salts Catalyzed by Chiral Iridium Complexes: Direct Synthesis for Optically Active 1,2,3,4-Tetrahydroisoquinolines
+Enantioselective Hydrogenation of Isoquinolines
+Sequential C-H Arylation and Enantioselective Hydrogenation Enables Ideal Asymmetric Entry to the Indenopiperidine Core of an 11β-HSD?1 Inhibitor
+Highly Diastereo- and Enantioselective CuH-Catalyzed Synthesis of 2,3-Disubstituted Indolines
+Transfer Hydrogenation with Hantzsch Esters and Related Organic Hydride Donors
+Relay Catalysis Enables Hydrogen Gas to Participate in Asymmetric Organocatalytic Hydrogenation
+The Coordination Chemistry of Organo-hydride Donors: New Prospects for Efficient Multi-electron Reduction
+Asymmetric Dearomatization of Indoles through a Michael/Friedel-Crafts-Type Cascade To Construct Polycyclic Spiroindolines
+Synthesis of Spirocyclic Indolenines
+Asymmetric synthesis of N,O-heterocycles via enantioselective iridium-catalysed intramolecular allylic amidation
+Cu(I)-Catalyzed Asymmetric Multicomponent Cascade Inverse Electron-Demand Aza-Diels?Alder/Nucleophilic Addition/Ring-Opening Reaction Involving 2?Methoxyfurans as Efficient Dienophiles
+Chiral Bronsted acids in enantioselective carbonyl activations - activation modes and applications
+Chiral Sulfonimide as a Bronsted Acid Organocatalyst for Asymmetric Friedel-Crafts Alkylation of Indoles with Imines
+Enantioselective[4+2]Cycloadditions of 2Vinyl1Hindoles with 3Nitro2Hchromenes Catalyzed by a Zn(OTf)2/Bis(oxazoline) Complex: An Efficient Approach to Fused Heterocycles with a Quaternary Stereocenter
+Tandem Catalysis Utilizing Olefin Metathesis Reactions
+Upconversion Nanoparticles: Design, Nanochemistry, and Applications in Theranostics
+Paradigms and Challenges for Bioapplication of Rare Earth Upconversion Luminescent Nanoparticles: Small Size and Tunable Emission/Excitation Spectra
+Inorganic Nanosystems for Therapeutic Delivery: Status and Prospects
+Lanthanide Luminescence for Biomedical Analyses and Imaging
+A fluorescein-based probe with high selectivity to cysteine over homocysteine and glutathione
+Organometallics Roundtable 2011
+Luminescent Biodetection Based on Lanthanide-Doped Inorganic Nanoprobes
+Luminescent Nanoprobes for in-Vivo Bioimaging
+Surface Functionalization of Biomaterials by Radical Polymerization
+Surface-Initiated Polymer Brushes in the Biomedical Field: Applications in Membrane Science, Biosensing, Cell Culture, Regenerative Medicine and Antibacterial Coatings
+Structure–activity relationships of Candida rugosa lipase immobilized on polylactic acid nanoparticles
+Strategies for controlling biofouling in membrane filtration systems: challenges and opportunities
+Biofouling resistance of reverse osmosis membrane modified with polydopamine
+Synthesis and Characterization of Aminopropyltriethoxysilane-Polydopamine Coatings
+Isoporous Micro/Nanoengineered Membranes
+Towards hierarchically ordered functional porous polymeric surfaces prepared by the breath figures approach
+Semiconductor-based Photocatalytic Hydrogen Generation
+Graphitic carbon nitride materials: controllable synthesis and applications in fuel cells and photocatalysis
+Graphitic Carbon Nitride (g-C3N4)-Based Photocatalysts for Artificial Photosynthesis and Environmental Remediation: Are We a Step Closer To Achieving Sustainability?
+Polymeric Photocatalysts Based on Graphitic Carbon Nitride
+Synthesis, Properties, and Applications of Hollow Micro-/Nanostructures
+Phosphorus-Doped Graphitic Carbon Nitrides Grown In Situ on Carbon-Fiber Paper: Flexible and Reversible Oxygen Electrodes
+A fantastic graphitic carbon nitride (g-C3N4) materials: Electronic structure, photocatalytic and photoelectronic properties
+Heterogeneous visible light photocatalysis for selective organic transformations
+Isolated fluid polyhedral vesicles
+Polymer–vesicle association
+Supercritical or compressed CO2 as a stimulus for tuning surfacatnt aggregates
+Ionic liquids as amphiphile self-assembly media
+Zero-dimensional, one-dimensional, two-dimensional and
+Softening of pore and Interior properties of a metal-oxide-based capsule: substituting 60 oxide by 60 sulfide ligands
+Isorecticular synthesis of dissectible molecular bamboo tubes of hexarhenium (I) benzene-1,2,3,4,5,6-hexaolate complexes
+The use of nanoparticles in electroanalysis: a review
+A Diazirine-Based Nucleoside Analogue for Efficient DNA Interstrand Photocross-Linking 
+From Cascaded Catalytic Nucleic Acids to Enzyme?DNA Nanostructures: Controlling Reactivity, Sensing, Logic Operations, and Assembly of Complex Structures
+Photogeneration and reactivity of naphthoquinone methides as purine selective DNA alkylating agents
+Daniela Verga, Matteo Nadai, Filippo Doria, Claudia Percivalle, Marco Di Antonio, Manlio Palumbo, Sara N. Richter , and Mauro Freccero*
+Platinum(II) complexes with dipyridophenazine ligands as human telomerase inhibitors and luminescent probes for G-quadruplex DNA
+Finding the end: recruitment of telomerase to telomeres
+Interplay between Metabolism and Epigenetics: A Nuclear Adaptation to Environmental Changes
+Cancer as a dysregulated epigenome allowing cellular growth advantage at the expense of the host
+Formation of Bismuth(V) Thiolates: Protolysis and Oxidation of Triphenylbismuth(III) with Heterocyclic Thiols
+Bismuth(V)-Mediated Thioglycoside Activation
+Structural basis of a Ni acquisition cycle for NiFe hydrogenase by Ni-metallochaperone HypA and its enhancer
+Crystal structures of the carbamoylated and cyanated forms of HypE for NiFe hydrogenase maturation
+Evolution of Helicobacter: Acquisition by Gastric Species of Two Histidine-Rich Proteins Essential for Colonization
+Nickel Homeostasis and Nickel Regulation: An Overview
+Metal–Organic Frameworks in Biomedicine
+Bridging the divide between human and environmental nanotoxicology
+A Chemist's Guide to Valence Bond Theory
+How valence bond theory can help you understand
+The essential role of charge-shift bonding in hypervalent prototype XeF2
+The rational design of helium bonds
+Topology maps of bond descriptors based on the kinetic energy density and the essence of chemical bonding
+An Experimental Charge Density Study of Two Isomers of Hexasilabenzene
+Do the Structural Changes Defined by the Electron Density Topology Necessarily Affect the Picture of the Bonding?
+The Physical Origin of Saytzeff s Rule
+Supramolecular ferroelectrics
+Statics and Dynamics of Ferroelectric Domains in Diisopropylammonium Bromide
+Ferroelectric Organic Materials Catch Up with Oxides 
+Tuning Molecular Solids
+Flexible ferroelectric organic crystals
+There’s Room in the Middle
+Collective In-Plane Molecular Rotator Based on Dibromoiodomesitylene π?Stacks
+Crystal Fluidity Reflected by Fast Rotational Motion at the Core, Branches, and Peripheral Aromatic Groups of a Dendrimeric Molecular Rotor
+Materials-based approaches to minimizing solvent usage in analytical sample preparation
+Metal-organic framework growth at functional interfaces: thin films and composites for diverse applications
+Separation of Hexane Isomers in a Metal-Organic Framework with Triangular Channels
+Porous Nanosized Particles: Preparation, Properties, and Applications
+Polymeric nanoparticles for optical sensing
+Mn-doped ZnS quantum dots for the determination of acetone by phosphorescence attenuation
+The in vivo activation of persistent nanophosphors for optical imaging of vascularization, tumours and grafted cells
+Nanochemistry and Nanomedicine for Nanoparticle-based Diagnostics and Therapy
+Arylation of Rhodium(II) Azavinyl Carbenes with Boronic Acids
+Copper-Catalyzed Aerobic Oxidative Transformation of Ketone-Derived N-Tosyl Hydrazones: An Entry to Alkynes
+Tosylhydrazones: New Uses for Classic Reagents in Palladium-Catalyzed Cross-Coupling and Metal-Free Reactions
+Acyl-Carbene and Methyl-Carbene Coupling via Migratory Insertion in Palladium Complexes
+Copper-Catalyzed Direct Benzylation or Allylation of 1,3-Azoles with N-Tosylhydrazones
+A Facile Parallel Synthesis of Trifluoroethyl-Substituted Alkynes
+Versatile Room-Temperature Route to Di- and Trisubstituted Allenes Using Flow-Generated Diazo Compounds
+2-Alkenyl Furans from a Palladium-Catalyzed Cyclization and Coupling of Ene-Yne-Ketones
+Progress in enzyme immobilization in ordered mesoporous materials and related applications
+Gold nanoparticles in chemical and biological sensing
+Semiconductor quantum dots for bioanalysis
+Graphene oxide as a chemically tunable platform for optical applications
+Design, synthesis, and characterization of graphene?nanoparticle hybrid materials for bioapplications
+Cell surface-based sensing with metallic nanoparticles
+Rationally designed molecular beacons for bioanalytical and biomedical applications
+A genetically targetable near-infrared photosensitizer
+Giant negative thermal expansion in bonded MnCoGe-based compounds with Ni2In-type hexagonal structure
+Negative poisson's ratio in modern functional materials
+Mesoscopic-scale structure and dynamics near the morphotropic phase boundary of (1-x)PbTiO3-xBiScO3
+A highly thermally stable ferroelectric metal–organic framework and its thin film with substrate surface nature dependent morphology
+True negative thermal expansion in Mn-doped LaCu3Fe4O12 perovskite oxides
+Hydrothermal synthetic strategies of inorganic semiconducting nanostructures
+One-dimensional nanostructures of ferroelectric perovskites
+Hexahedron prism-anchored octahedronal CeO2: Crystal facet-based homojunction promoting efficient solar fuel synthesis
+Role of polygeneration in sustainable energy system development challenges and opportunities from optimization viewpoints
+Combining coal gasification, natural gas reforming, and external carbonless heat for efficient production of gasoline and diesel with CO2 capture and sequestration
+Multi-Scale Systems Engineering for Energy and the Environment: Challenges and Opportunities
+Thermodynamic and economic analysis of polygeneration system integrating atmospheric pressure coal pyrolysis technology with circulating fluidized bed power plant
+Catalytic steam reforming of biomass tar: Prospects and challenges
+Effect of pyrolysis temperature on lignite char properties and slurrying ability
+Fuel flexibility, stability and emissions in premixed hydrogen-rich gas turbine combustion: Technology, fundamentals, and numerical simulations
+Framework for advanced exergoeconomic performance analysis and optimization of an oil shale retorting process
+Conjugated polyelectrolytes as fluorescent sensors
+The help of epigenetics in differential diagnosis
+Chemical Sensors Based on Amplifying Fluorescent Conjugated Polymers
+Optical Detection of DNA and Proteins with Cationic Polythiophenes
+Conjugated Polyelectrolytes: Synthesis, Photophysics, and Applications
+Polymeric materials with antimicrobial activity
+The power of light: photosensitive tools for chemical biology
+Small conjugate-based theranostic agents: an encouraging approach for cancer therapy
+DNA and carbon nanotube as medicine
+Stabilization and Induction of Oligonucleotide i?Motif Structure via Graphene Quantum Dots
+Chemical Basis of Interactions Between Engineered Nanoparticles and Biological Systems
+Optically pure, water-stable metallo-helical ‘flexicate’ assemblies with antibiotic activity
+Ruthenium(II) polypyridyl complexes and DNA—from structural probes to cellular imaging and therapeutics
+Interaction of Metal Complexes with G-Quadruplex DNA
+Recent advances on polyoxometalate-based molecular and composite materials
+Graphene nanosheet: synthesis, molecular engineering, thin film, hybrids, and energy and analytical applications
+Periodic Mesoporous Organosilica Hollow Spheres with Tunable Wall Thickness
+Mesoporous Materials for Drug Delivery
+Functionalized mesoporous silica materials for controlled drug delivery
+Spherical silica micro/nanomaterials with hierarchical strucutures: Synthesis and applications
+From Molecules to Systems: Sol-Gel Microencapsulation in Silica-Based Materials
+Hollow Micro-/Nanostructures: Synthesis and Applications
+Extension of the Stober Method to Construct Mesoporous SiO2 and TiO2 Shells for Uniform Multifunctional Core-Shell Structures
+Magnetic mesoporous silica-based core/shell nanoparticles for biomedical appilcations
+Structural Stability and Bronsted Acidity of Thermally Treated AlPW12O40 in Comparison with H3PW12O40
+Highly Active Mesoporous Nb-W Oxide Solid-Acid Catalyst
+Superacidity in Sulfated Metal–Organic Framework-808
+Trimethylphosphine-Assisted Surface Fingerprinting of Metal Oxide Nanoparticle by 31P Solid-State NMR: A Zinc Oxide Case Study
+Diphosphine probe molecules and solid-state NMR investigations of proximity between acidic sites in zeolite HY
+Synergy between Bronsted acid sites and Lewis acid sites
+Structural Characterization of Zeolites by Advanced Solid State NMR Spectroscopic Methods
+Siting and Distribution of Framework Aluminium Atoms in Silicon-Rich Zeolites and Impact on Catalysis
+Dissolved organic matter: biogeochemistry, dynamics, and environmental significance in soils
+An agronomic assessment of greenhouse gas emissions from major cereal crops
+Effects of straw carbon input on carbon dynamics in agricultural soils: a meta-analysis
+Soil organic carbon stocks in China and changes from 1980s to 2000s
+Predicting methanogenesis from rice paddies using the DAYCENT ecosystem model
+Responses of CO2, N2O and CH4 fluxes between atmosphere and forest soils to changes in multiple environmental conditions
+Greenhouse gas emissions and global warming potential of traditional and diversified tropical rice rotation systems
+Soil carbon sequestration to mitigate climate change: a critical re-examination to identify the true and the false
+Organochlorinated pesticide multiresidues in surface sediments from Beijing Guanting reservoir
+Adsorption of 1-Butyl-3-Methylimidazolium Chloride Ionic Liquid by Functional Carbon Microspheres from Hydrothermal Carbonization of Cellulose
+Spray Pyrolysis Deposition and Photoelectrochemical Properties of n- Type BiOI Nanoplatelet Thin Films
+Molecular imprinting for removing highly toxic organic pollutants
+Perfluorooctanoic Acid Degradation Using UV-Persulfate Process: Modeling of the Degradation and Chlorate Formation
+Structure Sensitivity Study of Waterborne Contaminant Hydrogenation Using Shape- and Size-Controlled Pd Nanoparticles
+Identification of Novel Polyfluorinated Ether Sulfonates as PFOS Alternatives in Municipal Sewage Sludge in China
+Molecular mechanisms of dust-induced toxicity in human corneal epithelial cells: Water and organic extract of office and house dust
+Rainfall-runoff relations for karstic springs. Part I: convolution and spectral analyses
+A simple water balance modelling approach for determining water availability in an irrigation tank cascade system
+A non-linear rainfall-runoff model using an artificial neural network
+A nonlinear perturbation model based on artificial neural network
+Toward improved identification of hydrological models: A diagnostic evaluation of the “abcd” monthly water balance model for the conterminous United States
+Partitioning of evapotranspiration and its controls in four grassland ecosystems: Application of a two-source model
+A review on reflective remote sensing and data assimilation techniques for enhanced agroecosystem modeling
+A novel dispersal algorithm in individual-based, spatially-explicit Population Viability Analysis: A new role for genetic measures in model testing
+Carbon burial by shallow lakes on the Yangtze floodplain and its relevance to regional carbon sequestration
+Contrasting effects of rising CO2 on primary production and ecological stoichiometry at different nutrient levels
+Ammonia may play an important role in the succession of cyanobacterial blooms and the distribution of common algal species in shallow freshwater lakes
+Record-setting algal bloom in Lake Erie caused by agricultural and meteorological trends consistent with expected future conditions
+Intensification of phosphorus cycling in China since the 1600s
+Rapid adaptation of harmful cyanobacteria to rising CO2
+Solar disinfection is an augmentable, in situ-generated photo-Fenton reaction—Part 1: A review of the mechanisms and the fundamental aspects of the process
+Cyanobacteria blooms produce teratogenic retinoic acids
+The effect of pressure on sulphur speciation in mid-to deep-crustal arc magmas and implications for the formation of porphyry copper deposits
+Geology, mineralogy, and geochemistry of magnetite-associated Au mineralization of the ultramafic-basalt greenstone hosted Crusader Complex, Agnew Gold Camp, Eastern Yilgarn Craton, Western Australia
+The relationship between subduction zone redox budget and arc magma fertility
+Crustal and uppermost mantle velocity structure and its relationship with the formation of ore districts in the Middle-Lower Yangtze River region
+High abundances of noble gas and chlorine delivered to the mantle by serpentinite subduction
+The Fate of Sulfur During Fluid-Present Melting of Subducting Basaltic Crust at Variable Oxygen Fugacity
+Global continental and ocean basin reconstructions since 200 Ma
+Intracontinental Porphyry and Porphyry-Skarn Mineral Systems in Eastern China: Scrutiny of a Special Case "Made-in-China"
+Methyldibenzothiophene isomers ratio in crude oils: Gas chromatography tandem mass spectrometry anlaysis/
+Limited waterborne acute toxicity of native polycyclic aromatic compounds from coals of different types compared to their total hazard potential
+Advances in mass spectrometric characterization of naphthenic acids fraction compounds in oil sands environmental samples and crude oil-a review
+Developments in FT-ICR MS instrumentation, ionization techniques, and data interpretation methods for petroleomics.
+Uncommon steranes in Brazilian marginal crude oils: Dinoflagellate molecular fossils in the Sergipe-Alagoas Basin, Brazil
+Organic geochemistry of the early Toarcian oceanic anoxic event in Hawsker Bottoms, Yorkshire, England
+An overview of Pre-Devonian petroleum systems – unique characteristics and elevated risks
+Molecular fossils extracted from the Early Cambrian section in the Three Gorges area, South China
+Diurnal variations of summer precipitation over the Asian monsoon region as revealed by TRMM satellite data
+A planetary-scale land-sea breeze circulation in East Asia and the western North Pacific
+Influence of summer monsoon diurnal cycle on moisture transport and precipitation over eastern China
+Future changes to the intensity and frequency of short-duration extreme rainfall
+Linkage Between Hourly Precipitation Events and Atmospheric Temperature Changes over China during the Warm Season
+Observations: Surface and Atmospheric Climate Change
+Dirtier air from a weaker monsoon
+Drying of Indian subcontinent by rapid Indian Ocean warming and a weakening land-sea thermal gradient
+Observations of the Mindanao Current during the western equatorial Pacific Ocean circulation study
+The mean structure and variability of the Mindanao Current at 8N
+Activities of 50-80 day subthermocline eddies near the Philippine coast
+Quasi-stationary North Equatorial Undercurrent jets across the tropical North Pacific Ocean
+A new paradigm for the North Pacific subthermocline low-latitude western boundary current system
+Energetic subthermocline currents observed east of Mindanao
+On the western boundary currents in the Philippine Sea
+The relation between the Mindanao Current and Mindanao Undercurrent on seasonal scale
+Subtleties of human exposure and response to chemical mixtures from spills
+The importance of evaluating the physicochemical and toxicological properties of a contaminant for remediating environments affected by chemical incidents
+A review of current knowledge on toxic benthic freshwater cyanobacteria-Ecology, toxin production and risk management
+Water analysis: Emerging contaminants and current issues
+Characterization of disinfection by-products from chromatographically isolated NOM through high-resolution mass spectrometry
+Minimizing residual aluminum concentration in treated water by tailoring properties of polyaluminum coagulants
+Dual-enhanced photocatalytic activity of Fe-deposited titanate nanotubes used for simultaneous removal of As(III) and As(V)
+Fluoride removal from water by adsorption—A review
+Gold and silver metallogeny of the South China Fold Belt: a consequence of multiple mineralizing events?
+Shear wave tomography of China using joint inversion of body and surface wave constrains 
+Origin and time evolution of subduction polarity reversal from plate kinematics of Southeast Asia 
+Detrital zircons from the Tananao metamorphic complex of Taiwan: Implications for sediment provenance and Mesozoic tectonics
+Microprobe Monazite Geochronology: Understanding Geologic Processes by Integrating Composition and Chronology
+Trace-element composition of hydrothermal zircon and the alteration of Hadean zircon from the Jack Hills, Australia
+Comparative Studies of the Petrochemistry of Sn–W-Mineralized Granitoids: Continent vs. Island Arc 
+Old continental zircons from a young oceanic arc, eastern Taiwan: Implications for Luzon subduction initiation and Asian accretionary orogeny
+Discover the possibilities: microbial bioelectrochemical systems and the revival of a 100-year–old discovery
+Harvest and utilization of chemical energy in wastes by microbial fuel cells
+Optimal Set Anode Potentials Vary in Bioelectrochemical Systems
+Simultaneous organic carbon, nutrients removal and energy production in a photomicrobial fuel cell (PFC）
+Cathode catalysts in bioelectrochemical systems for energy recovery from wastewater
+Towards sustainable wastewater treatment by using microbial fuel cells-centered technologies
+Applications and perspectives of phototrophic microorganisms for electricity generation from organic compounds in microbial fuel cells
+A review of the substrates used in microbial fuel cells (MFCs) for sustainable energy production
+Titanium Oxide Nanosheets: Graphene Analogues with Versatile Functionalities
+Titanium Dioxide-Based Nanomaterials for Photocatalytic Fuel Generations/
+Photocatalytic Reduction of CO2 on TiO2 and Other Semiconductors
+Strongly Enhanced Water Splitting Performance of Ta3N5 Nanotube Photoanodes with Subnitrides
+Cobalt phosphate-modified barium-doped tantalum nitride nanorod photoanode with 1.5% solar energy conversion efficiency
+Progress in bismuth vanadate photoanodes for use in solar water oxidation
+Electrochemical Synthesis of Photoelectrodes and Catalysts for Use in Solar Water Splitting 
+Efficient solar water splitting by enhanced charge separation in a bismuth vanadate-silicon tandem photoelectrode
+The global cryosphere: past, present and future
+Science and technology for water purification in the coming decades
+The impacts of climate change on water resources and agriculture in China
+Rapid runoff via shallow throughflow and deeper preferential flow in a boreal catchment underlain by frozen silt 
+Observed changes in pan-arctic cold-season minimum monthly river discharge
+Evidence of the impact of urbanization on the hydrological regime of a medium-sized periurban catchment in France 
+The State and Fate of Himalayan Glaciers
+Empirical models for estimating global solar radiation: A review and case study
+The Geological Evolution of the Tibetan Plateau 
+Continental collision slowing due to viscous mantle lithosphere rather than topography
+Funding Earth Science in China
+Late Miocene upward and outward growth of eastern Tibet and decreasing monsoon rainfall over the northwestern Indian subcontinent since ~10 Ma
+Testing models of Tibetan Plateau formation with Cenozoic shortening esGeospheretimates across the Qilian Shan–Nan Shan thrust belt
+Growth of the Qaidam basin during Cenozoic exhumation in the northern Tibetan Plateau: Inferences from depositional patterns and multiproxy detrital provenance signatures
+Rapid Glacial Erosion at 1.8 Ma Revealed by 4He/3He Thermochronometry
+渐新世以来的南海沉积量及其分布
+A review of the challenges in the chemical analysis of the polybrominated diphenyl ethers 
+The status of soil contamination by semivolatile organic chemicals (SVOCs) in China: A review
+Acidification, heavy metal mobility and nutrient accumulation in the soil–plant system of a revegetated acid mine wasteland
+Typha latifolia (broadleaf cattail) as bioindicator of different types of pollution in aquatic ecosystems—application of self-organizing feature map (neural network)
+Dioxins and Cardiovascular Disease Mortality
+Water Analysis: Emerging Contaminants and Current Issues
+A systematic review of the human body burden of e-waste exposure in China
+Materials-based approaches to minimizing solvent usage in analytical sample preparation
+Potential escalation of heat-related working costs with climate and socioeconomic changes in China
+The impacts of climate change on water resources and agriculture in China
+Climate extremes: Observations, modeling, and impacts
+Exploring the Interplay between Natural Decadal Variability and Anthropogenic Climate Change in Summer Rainfall over China. Part I: Observational Evidence
+Trends in intense precipitation in the climate record
+Exposure, instrumentation, and observing practice effects on land temperature measurements
+Global-to-regional nested grid climate simulations in the GFDL high resolution atmospheric model
+Contribution of urbanization to warming in China
+Agents, cells, and cities: new representational models for simulating multiscale urban dynamics
+25 Volumes of the International Journal of Geographical Information Science
+Modeling urban vertical growth using cellular automatad—Guangzhou as a case study
+Cellular automata models for the simulation of real-world urban processes: A review and analysis
+Recent Trends in IJGISc
+AITSO: A Tool for Spatial Optimization Based on Artificial Immune Systems
+Land use and land cover change in Guangzhou, China, from 1998 to 2003, based on Landsat TM/ETM+ imagery
+Examine urban expansion from remote sensing and GIS a case study in Beijing
+The origin and evolution of arthropods
+Fossilized matazoan embryos from the earliest Cambrian
+Anomalocaridid trunk limb homology revealed by a giant filter-feeder with paired flaps
+The oldest bivalved arthropods from the early Cambrian of East Gondwana: Systematics, biostratigraphy and biogeography
+Expression patterns of neural genes in Euperipatoides kanangrensis suggest divergent evolution of onychophoran and euarthropod neurogenesis 
+The sensory dorsal organ of crustaceans
+Fossils and the evolution of the arthropod brain
+Modern optics in exceptionally preserved eyes of Early Cambrian arthropods from Australia
+On a possible parent crater for Australasian tektites: Geochemical, isotopic, geographical and other constraints
+Drylands extent and environmental issues. A global approach
+Promise and reality of market-based environmental policy in China: Empirical analyses of the ecological restoration program on the Qinghai-Tibetan Plateau
+Growth mechanisms and dune orientation on Titan
+The environmental significance of ventifacts: A critical review
+The physics of wind-blown sand and dust
+Global-scale attribution of anthropogenic and natural dust sources and their emission rates based on MODIS deep blue aerosol products
+Excessive reliance on afforestation in China's arid and semi-arid regions: Lessons in ecological restoration
+Integrating Fossils, Phylogenies, and Niche Models into Biogeography to Reveal Ancient Evolutionary History: The Case of Hypericum (Hypericaceae)
+The enigma of the rise of angiosperms: can we untie theknot?
+Evolutionary diversification of alpine ginger reflects the early uplift of the Himalayan-Tibetan Plateau and rapid extrusion of Indochina
+Climate oscillation during the Quaternary associated with landscape heterogeneity promoted allopatric lineage divergence of a temperate tree Kalopanax septemlobus (Araliaceae) in East Asia
+Geological and ecological factors drive cryptic speciation of yews in a biodiversity hotspot
+Molecular evidence for Pleistocene refugia at the eastern edge of the Tibetan Plateau
+The population genomics of plant adaptation
+Plant molecular phylogeography in China and adjacent regions: Tracing the genetic imprints of Quaternary climate and environmental change in the world's most diverse temperate flora
+Short-lived oxygen diffusion during hot, deep-seated meteoric alteration of anorthosite
+Intermediate alkali-alumino-silicate aqueous solutions released by deeply subducted continental crust: fluid evolution in UHP OH-rich topaz-kyanite quartzites from Donghai (Sulu, China)
+Strengthening the link between geochronology, textures and petrology
+Metamorphic chemical geodynamics of subduction zones
+Geology, Petrology and O and H isotope geochemistry of remarkably 18O depleted Paleoproterozoic rocks of the Belomorian Belt, Karelia, Russia, attributed to global glaciation 2.4 Ga/
+Hafnium isotopes and Zr/Hf of rutile and zircon from lower crustal metapelites (Ivrea–VerbanoZone, Italy): Implications for chemical differentiation of the crust
+Evolution of the African continental crust as recorded by U–Pb, Lu–Hf and O isotopes in detrital zircons from modern rivers
+The realm of ultrahigh-pressure metamorphism
+Recent advances in nanoelectrode architecture for photochemical hydrogen production
+Three-Dimensional Titanium Dioxide Nanomaterials
+Graphitic Carbon Nitride (g-C3N4)-Based Photocatalysts for Artificial Photosynthesis and Environmental Remediation: AreWe a Step Closer To Achievin Sustainability
+Two-dimensional covalent carbon nitride nanosheets: synthesis, functionalization, and applications
+Low-temperature selective catalytic reduction of NOx with NH3 over metal oxide and zeolite catalysts-A review
+Elucidation of intermediates and mechanisms in heterogeneous catalysis using infrared spectroscopy
+Composite titanium dioxide nanomaterials
+Improved low temperature NH3-SCR performance of FeMnTiOx mixed oxide with CTAB-assisted synthesis
+试论火山岩油气藏成藏机理
+Volcanic settings and their reservoir potential: An outcrop analog study on the Miocene Tepoztl¨￠n Formation, Central Mexic
+Volcanic rocks as prolific gas reservoir: A case study from the Qingshen gas field in the Songliao Basin, NE China
+Mineralogical and geochemical constraints on magmatic evolution of Paleocene adakitic andesites from the Yanji area, NE China
+Nature and significance of the Early Cretaceous giant igneous event in eastern China
+The floating astronomical time scale for the terrestrial Late Cretaceous Qingshankou Formation from the Songliao Basin of Northeast China and its stratigraphic and paleoclimate implications
+Stable isotopic evidence for climate and basin evolution of the Late Cretaceous Songliao basin, China
+Early Cretaceous volcanism in the northern Songliao Basin, NE China, and its geodynamic implication
+Giant Mesozoic gold provinces related to the destruction of the North China craton
+Flat slab subduction, trench suction, and craton destruction: Comparison of the North China, Wyoming, and Brazilian cratons
+Petrological and Nd-Sr-Os isotopic constraints on the origin of high-Mg adakitic rocks from the North China Craton: Tectonic implications
+Crust recycling in the sources of two parallel volcanic chains in Shandong, North China
+Seismic receiver functions and the lithosphere–asthenosphere boundary
+The Lithosphere-Asthenosphere Boundary
+A Global View of the Lithosphere-Asthenosphere Boundary
+Assembling North China Craton within the Columbia supercontinent: The role of double-sided subduction
+Low-temperature selective catalytic reduction of NOx with NH3 over metal oxide and zeolite catalysts—A review
+Ceria-based catalysts for low-temperature selective catalytic reduction of NO with NH3
+Mechanism of arsenic poisoning on SCR catalyst of CeW/Ti and its novel efficient regeneration method with hydrogen
+Flame-made WO3/CeOx-TiO2 catalysts for selective catalytic reduction of NOx by NH3
+Unsolved problems in catalysis
+Real-time infrared detection of cyanide flip on silver-alumina NOx removal catalyst
+Development of a detailed surface mechanism for the selective catalytic reduction of NOx with ethanol on silver alumina catalyst
+Catalytic NOx abatement systems for mobile sources: From three-way to lean burn after-treatment technologies
+Zircon U-Pb and Hf isotopic constraints on the onset time of India-Asia Collision
+Geodynamics and metallogeny of the eastern Tethyan metallogenic domain
+Greater India Basin hypothesis and a two-stage Cenozoic collision between India and Asia
+Penetration of crustal melt beyond the Kunlun Fault into northern Tibet
+Partially melted, mica-bearing crust in Central Tibet
+The coupling of Indian subduction and Asian continental tectonics
+Outward-growth of the Tibetan Plateau during the Cenozoic: A review
+Paleomagnetism of early Paleogene marine sediments in southern Tibet, China: Implications to onset of the India–Asia collision and size of Greater India
+Projected response of the Indian Ocean Dipole to greenhouse warming
+Indo-Pacific Climate Interactions in the Absence of an Indonesian Throughflow
+Coherent Tropical Indo-Pacific Interannual Climate Variability
+Indian Ocean Circulation and climate variability
+The dynamics of zonal current variations in the central equatorial Indian Ocean
+Influence of El Nino and Indian Ocean Dipole on sea level variability in the Bay of Bengal
+Numerical study of mean flow patterns in the South China Sea and the Luzon Strait
+A diagnostic calculation of the circulation in the upper and middle layers of the Luzon Strait and the northern South China Sea during March 1992
+Global patterns and substrate-based mechanisms of the terrestrial nitrogen cycle
+Impacts of an anomalously warm year on soil nitrogen availability in experimentally manipulated intact tallgrass prairie ecosystems
+Legacies of precipitation fluctuations on primary production: theory and data synthesis
+Regional scale patterns of fine root lifespan and turnover under current and future climate
+Responses of terrestrial ecosystems to temperature and precipitation change: a meta-analysis of experimental manipulation
+Stochastic community assembly causes higher biodiversity in more productive environments
+Comment on “productivity is a poor predictor of plant species richness”
+Consistent responses of soil microbial communities to elevated nutrient inputs in grasslands across the globe
+Accuracy assessment of interpolation methods in grid DEMsb ased on a variance-scale relation
+A Method of DTM Construction Based on Quadrangular Irregular Networks and Related Error Analysis
+Evidence for a significant urbanization effect on climate in China
+Calibration of Terra/MODIS gross primary production over an irrigated cropland on the North China Plain and an alpine meadow on the Tibetan Plateau
+Effect of climate change over the past half century on the distribution, extent and NPP of ecosystems of Inner Mongolia
+Human population distribution modelling at regional level using very high resolution satellite imagery
+Spatial variation of soil nutrients on sandy-loam soil
+Gardening in the zone of death: an experimental assessment of the absolute elevation limit of vascular plants 
+Pseudo-lignin and pretreatment chemistry
+Pretreatment of lignocellulosic biomass for enhanced biogas production
+Methane production from lignocellulosic agricultural crop wastes: A review in context to second generation of biofuel production
+Challenges and strategies for solid-state anaerobic digestion of lignocellulosic biomass
+Improving biodegradability and biogas production of wheat straw substrates using sodium hydroxide and hydrothermal pretreatments
+Effect of aeration rate, C/N ratio and moisture content on the stability and maturity of compost
+Physical and chemical characterizations of corn stover and poplar solids resulting from leading pretreatment technologies
+Performance and microbial community variations in thermophilic anaerobic digesters treating OTC medicated cow manure under different operational conditions
+Source–sink communication: regulated by hormone, nutrient, and stress cross-signaling
+Non-structural carbohydrate partitioning in grass stems: a target to increase yield stability, stress tolerance, and biofuel production
+Uniconazole-induced starch accumulation in the bioenergy crop duckweed II: transcriptome alterations of pathways involved in carbohydrate metabolism and endogenous hormone crosstalk
+Transcriptome analysis of proliferating Arabidopsis endosperm reveals biological implications for the control of syncytial division, cytokinin signaling, and gene expression regulation
+Combined networks regulating seed maturation
+Senescence, nutrient remobilization, and yield in wheat and barley
+The effect of drought and heat stress on reproductive processes in cereals
+Relationship between carbohydrate partitioning and drought resistance in common bean
+Morphological phylogenetic analysis of pandanales: Testing contrasting hypotheses of floral evolution
+Evolution of dimery, pentamery and the monocarpellary condition in the monocot family Stemonaceae (Pandanales) 
+Five vicarious genera from Gondwana: the Velloziaceae as shown by molecules and morphology
+Polyploidy in the flora of the Hengduan Mountains hotspot, southwestern China
+EVOLUTION OF ANGIOSPERM POLLEN. 3. MONOCOTS
+Profiling of phenylpropanoids in transgenic low-sinapine oilseed rape  (Brassica napus) 
+中国植物区系与其它地区区系的联系及其在世界区系中的地位和作用
+古地中海退却与喜马拉雅－横断山的隆起在中国喜马拉雅成分及高山植物区纱的形成与发展上的意义
+Shaping a better rice plant
+Witchcraft and destruction
+Structure-function analysis identifies highly sensitive strigolactone receptors in Striga
+Probing strigolactone receptors in Striga hermonthica with fluorescence
+Genome-wide association studies coming of age in rice
+Crop genetics: Resequencing sows the seeds
+Evolution of crop species: genetics of domestication and diversification
+Genonics and the contrasting dynamics of annual and perennial domestication
+Pharmacogenetic profiling for cetuximab plus irinotecan therapy in patients with refractory advanced colorectal cancer
+Haplotype phasing: existing methods and new developments
+Chemical Basis of Interactions Between Engineered Nanoparticles and Biological Systems
+Genetic architectures of psychiatric disorders: the emerging picture and its implications
+Effect of variation in CHI3L1 on serum YKL-40 level, risk of asthma, and lung function
+Genome-wide scan supports the existence of a susceptibility locus for schizophrenia and bipolar disorder on chromosome 15q26
+PCOS in 2015: New insights into the genetics of polycystic ovary syndrome
+Overexpression of a DENND1A isoform produces a polycystic ovary syndrome theca phenotype
+Network of proteins involved in antibiotic resistance
+Biotechnology offers revolution to ?sh health management 
+Characterization of extracellular proteins produced by Aeromonas hydrophila AH-1
+Immunoproteomically identified GBAA_0345, alkyl hydroperoxide reductase subunit C is a potential target for multivalent anthrax vaccine
+Kim YH, Kim KA, Kim YR, Choi MK, Kim HK, Choi KJ, Chun JH, Cha K, Hong KJ, Lee NG, Yoo CK, Oh HB, Kim TS, Rhie GE
+After genomics, what proteomics tools could help us understand the antimicrobial resistance of Escherichia coli?
+Proteomics as a tool for studying acterial virulence and antimicrobial resistance
+The outer membrane protein OmpW forms an eight-stranded β- barrel with a hydrophobic channel
+Abundance of natural regeneration and growth comparisons with planted seedlings 10-13 years after commercial thinning in 50-year-old Douglas-fir, Douglas-fir/western hemlock, Oregon Coast Range
+Productivity, water-use efficiency and tolerance to moderate water deficit correlate in 33 poplar genotypes from a Populus deltoides ?áPopulus trichocarpa F1 progen
+Understanding water deficit stress-induced changes in the basic metabolism of higher plants-biotechnologically and sustainably improving agriculture and the ecoenvironment in arid regions of the globe
+Drought tolerance of two black poplar (Populus nigra L.) clones: contribution of carbohydrates and oxidative stress defence
+Mongolian pine plantations enhance soil physico-chemical properties and carbon and nitrogen capacities in semi-arid degraded sandy land in China
+The effects of Acacia tortilis Subsp. raddiana, soil texture and soil depth on soil microbial and biochemical characteristics in arid zones of Tunisa
+Unearthing the roots of ectomycorrhizal symbioses
+Litter decomposition and soil microbial community composition in three Korean pine (Pinus koraiensis) forests along an altitudinal gradient
+Molecular Mechanism for Plant Steroid Receptor Activation by Somatic Embryogenesis Co-Receptor Kinases
+Quantitative variation in maize kernel row number is controlled by the FASCIATED EAR2 locus
+Receptor-mediated exopolysaccharide perception controls bacterial infection
+Fungal Effectors and Plant Susceptibility
+Competitive binding of antagonistic peptides fine-tunes stomatal patterning
+A receptor heteromer mediates the male perception of female attractants in plants
+From Guard to Decoy: A New Model for Perception of Plant Pathogen Effectors
+On the front line: structural insights into plant–pathogen interactions
+Regulation and function of adult neurogenesis: from genes to cognition.
+Effects of Creatine Monohydrate Augmentation on Brain Metabolic and Network Outcome Measures in Women With Major Depressive Disorder.
+P-selectin-mediated monocyte-cerebral endothelium adhesive interactions link peripheral organ inflammation to sickness behaviors.
+Localized GABAergic inhibition of dendritic Ca(2+) signalling.
+Repetitive hypoxia extends endogenous neurovascular protection for stroke.
+Comprehensive overview of the structure and regulation of the glucocorticoid receptor.
+50 years of hurdles and hope in anxiolytic drug discovery.
+Nuclear factor-κB is a critical mediator of stress impaired neurogenesis and depressive behavior.
+气候变化下西藏高寒湿地生态系统研究的意义和特点
+西藏自治区湿地保护分区布局探讨
+The role of ABA and MAPK signaling pathways in plant abiotic stress responses
+Nitric oxide-cold stress signalling cross-talk, evolution of a novel regulatory mechanism
+Competition, facilitation and environmental severity shape the relationship between local and regional species richness in plant communities
+Silicon uptake and accumulation in higher plants
+The rare sugar D-allose acts as a triggering molecule of rice  defence via ROS generation
+Sodium transport in plants: a critical review
+Physical disturbance of an upland grassland in?uences the impact of elevated UV-B radiation on metabolic pro?les of below-ground micro-organisms
+Nitric Oxide Block of Outward-Rectifying K+ Channels Indicates Direct Control by Protein Nitrosylation in Guard Cells
+Darwinian agriculture: when can humans find solutions beyond the reach of natural selection?
+Intraspecific competition and fungal diseases as sources of variation in sunflower yield
+Darwinian Agriculture: How Understanding Evolution Can Improve Agriculture
+Vigorous Crop Root Systems: Form and Function for Improving the Capture of Water and Nutrients
+Differential drought-induced modulation of ozone tolerance in winter wheat species
+Tetraploid Rangpur lime rootstock increases drought tolerance via enhanced constitutive root abscisic acid production
+Dryland Agriculture in China
+Ridge-Furrow Mulching Systems—An Innovative Technique for Boosting Crop Productivity in Semiarid Rain-Fed Environments
+Reversing DNA Methylation: Mechanisms, Genomics, and Biological Functions.
+Histone lysine demethylases as targets for anticancer therapy.
+Advances and challenges in understanding histone demethylase biology.
+DNA methylation pathways and their crosstalk with histone methylation.
+Signalling pathways in UHRF1-dependent regulation of tumor suppressor genes in cancer.
+Readout of Epigenetic Modifications.
+Molecular mechanisms and potential functions of histone demethylases.
+Structural insights into histone lysine demethylation.
+Love is a battlefield: programmed cell death during fertilization
+Only in dying, life: programmed cell death during plant development
+Functions and Regulation of Programmed Cell Death in Plant Development
+The conserved plant sterility gene HAP2 functions after attachment of fusogenic membranes in Chlamydomonas and Plasmodium gametes
+Non-equivalent contributions of maternal and paternal genomes to early plant embryogenesis
+Maternal and paternal genomes contribute equally to the transcriptome of early plant embryos
+Early Embryogenesis in Flowering Plants: Setting Up the Basic Body Pattern
+Regulation and Flexibility of Genomic Imprinting during Seed Development
+The protective role of silicon in the Arabidopsis–powdery mildew pathosystem
+Identification and characterization of maize and barley Lsi2-like silicon efflux transporters reveals a distinct silicon uptake system from that in rice
+Priming of jasmonate-mediated antiherbivore defense responses in rice by silicon
+Overcoming salinity barriers to crop production using traditional methods.
+Silicon: a duo synergy for regulating crop growth and hormonal signaling under abiotic stress conditions
+Improvement of Crops in the Era of Climatic Changes
+Silicon improves the tolerance to water-deficit stress induced by polyethylene glycol in wheat (Triticum aestivum L.) seedlings
+Silicon and Plant Diseases
+Autophagy SEPArates germline and somatic cells
+Degradation of Paternal Mitochondria by Fertilization-Triggered Autophagy in C. elegans Embryos
+Autophagy promotes primary ciliogenesis by removing OFD1 from centriolar satellites
+Autophagy shows its animal side
+Sugar modification inhibits autophagosome-lysosome fusion
+Cell death assays for drug discovery
+Recessive mutations in EPG5 cause Vici syndrome a multisystem disorder with defective autophagy
+De novo mutations in the autophagy gene WDR45 cause static encephalopathy of childhood with neurodegeneration in adulthood
+Can the War on Locusts Be Won? 
+Locust Phase Polyphenism: An Update
+Phenotypic Plasticity of Insects Mechanisms and  Consequences
+Analysis of the chromosome X exome in patients with autism spectrum disorders identified novel candidate genes, including TMLHE
+The Monarch Butterfly Genome Yields Insights into Long-Distance Migration
+Polyphenism in Insects
+Entomopathogenic Fungi: New Insights into Host-Pathogen Interactions
+Towards a piRNA prediction using multiple kernel fusion and support vector machine
+Development and evaluation of the first high-throughput SNP array for common carp (Cyprinus carpio).
+Genus-level supertree of Cyprinidae (Actinopterygii: Cypriniformes), partitioned qualitative clade support and test of macro-evolutionary scenarios.
+Evidence from mitochondrial genomics supports the lower Mesozoic of South Asia as the time and place of basal divergence of cypriniform fishes (Actinopterygii: Ostariophysi).
+Families of Cobitoidea (Teleostei; Cypriniformes) as revealed from nuclear genetic data and the position of the mysterious genera Barbucca, Psilorhynchus, Serpenticobitis and Vaillantella.
+Cladogenesis and phylogeography of the lizard Phrynocephalus vlangalii (Agamidae) on the Tibetan plateau.
+Extensive population expansion of Pedicularis longiflora (Orobanchaceae) on the Qinghai-Tibetan Plateau and its correlation with the Quaternary climate change.
+Diversification of sympatric broadcast-spawning limpets (Cellana spp.) within the Hawaiian archipelago.
+Cryptic diversity in the pen shell Atrina pectinata (Bivalvia: Pinnidae): high divergence and hybridization revealed by molecular and morphological data.
+The ancient Britons: groundwater fauna survived extreme climate change over tens of millions of years across NW Europe
+Known knowns, known unknowns, unknown unknowns and unknown knowns in DNA barcoding: a comment on Down et al.
+The southwestern Carpathians as an ancient centre of diversity of freshwater gammarid amphipods: insights from the Gammarus fossarum species complex
+Life-history specialization was not an evolutionary dead-end in Pyrenean cave beetles
+Three new spider species of the genus Pholcus from the Taihang Mountains of China (Araneae, Pholcidae)
+Mate binding: male adaptation to sexual conflict in the golden orb-web spider (Nephilidae: Nephila pilipes)
+Acylated serine derivatives: a unique class of arthropod pheromones of the Australian redback spider, Latrodectus hasselti
+DNA barcoding of marine Metazoa
+Adenosine   as drug targets--what arethe challenges? 
+The role of transcription independent damage signals in the initiation of epithelial wound healing. 
+Do astrocytes really exocytose neurotransmitters?  
+Intercellular Ca(2+) waves: mechanisms and function. 
+Astrocyte Ca2? signalling: an unexpected complexity.
+Neuroglial Transmission.
+Genetic risk prediction: individualized variability in susceptibility to toxicants.
+JAK-STAT3 pathway regulates spinal astrocyte proliferation and neuropathic pain maintenance in rats.
+LNA-mediated microRNA silencing in non-human primates
+MicroRNA-21 contributes to myocardial disease by stimulating MAP kinase signalling in fibroblasts
+Small non-coding RNAs in animal development
+Tackling heart failure in the twentyfirst century
+A large-scale genome-wide association study of Asian populations uncovers genetic factors influencing eight quantitative traits
+Pervasive roles of microRNAs in cardiovascular biology
+Noncoding RNAs and myocardial fibrosis
+Titin mutations in iPS cells define sarcomere insufficiency as a cause of dilated cardiomyopathy
+Novel Foxo1-dependent transcriptional programs control T reg cell function
+Function and Molecular Mechanism of Acetylation in Autophagy Regulation
+FOXOs: signalling integrators for homeostasis maintenance
+A Role for SIRT2-Dependent Histone H3K18 Deacetylation in Bacterial Infection
+Cytosolic FoxO1: alive and killing
+Tip60-Dependent Acetylation of p53 Modulates the Decision between Cell-Cycle Arrest and Apoptosis
+Histone deacetylase inhibitors reverse gene silencing in Friedreich’s ataxia
+A Werner syndrome stem cell model unveils heterochromatin alterations as a driver of human aging
+Integrin Targeted Delivery of Chemotherapeutics 
+Nanoparticles for Improving Cancer Diagnosis
+Stimuli-responsive nanocarriers for drug delivery
+Nanotechnology—novel therapeutics for CNS disorders
+Mechanisms of drug release in nanotherapeutic delivery systems
+Dendrimer space concept for innovative nanomedicine: A futuristic vision for medicinal chemistry
+Eradication of CD44-variant positive population in head and neck tumors through controlled intracellular navigation of cisplatin-loaded nanomedicines
+Can nanomedicines kill cancer stem cells?
+Unraveling the Genetics of Autoimmunity
+Mechanisms of Disease: Psoriasis
+A20: Linking a Complex Regulator of Ubiquitylation to Immunity and Human Disease
+Genomics and the Multifactorial Nature of Human Autoimmune Disease
+Atopic dermatitis
+Whole-genome sequencing identifies EN1 as a determinant of bone density and fracture
+Integrative analysis of 111 reference human epigenomes
+Genome-wide association study identifies a psoriasis susceptibility locus at TRAF3IP2
+Molecular Mechanisms of Hepatocellular Carcinoma
+Genomic landscape of liver cancer
+HBV protein as a double-barrel shot-gun targets epigenetic landscape in liver cancer
+The conserved scavenger receptor cysteine-rich superfamily in therapy and diagnosis
+An Atypical Oncogene Within the Atypical E2Fs
+Genomics and Signaling Pathways in Hepatocellular Carcinoma
+FAK in cancer-mechanistic findings and clinical applications
+Cancer stem cells in the development of liver cancer
+Cell migration: Calcium flickers at the front / K Baumann
+Cells Turned On by the Flick of a Calcium Switch
+Molecular and genetic basis of sudden cardiac death
+MicroRNA regulation and cardiac calcium signaling role in cardiac disease and therapeutic potential
+Heart disease - Unmasking molecular mechanisms
+Ca(2+) leak in atrial fibrillation: junctophilin-2 stabilizes ryanodine receptor
+The junctophilin family of proteins: from bench to bedside
+Cardiovascular biology: heart fails without pump partner
+Electrochemical Methods for the Analysis of Clinically Relevant Biomolecules
+Soluble CD146 displays angiogenic properties and promotes neovascularization in experimental hind-limb ischemia.
+ CD146: a new partner for VEGFR2.
+Endothelial-binding, proinflammatory T cells identified by MCAM  (CD146) expression: Characterization and role in human
+Targeting CD146 with a 64Cu-labeled antibody enables in vivo immunoPET imaging of high-grade gliomas. 
+Wnt5a Directs Polarized Calcium Gradients by Recruiting Cortical Endoplasmic Reticulum to the Cell Trailing Edge
+Biochemistry, Physiology, and Pathophysiology of NADPH Oxidases in the Cardiovascular System. 
+Melanoma cell adhesion molecule identifies encephalitogenic T lymphocytes and promotes their recruitment to the central nervous system.
+Large-scale characterization of DNA methylation changes in human gastric carcinomas with and without metastasis.
+Apolipoprotein A-I mimetic peptide 4F rescues pulmonary hypertension by inducing microRNA-193-3p.
+Somatic and germline genetics at the JAK2 locus./Campbell PJ.
+Nonviral vector-mediated RNA interference: its gene silencing characteristics and important factors to achieve RNAi-based gene therapy.
+Bio-inspired, bioengineered and biomimetic drug delivery carriers.
+Network medicine: a network-based approach to human disease.
+Sensitive and isothermal electrochemiluminescence gene-sensing of Listeria monocytogenes with hyperbranching rolling circle amplification technology.
+Comparative Screening of Digestion Tract Toxic Genes in Proteus mirabilis.
+Scaffold Proteins: Hubs for Controlling the Flow of Cellular Information. 
+Structure of DDB1 in complex with a paramyxovirus V protein: Viral hijack of a propeller cluster in ubiquitin ligase
+Structural basis for hijacking CBF-beta and CUL5 E3 ligase complex by HIV-1 Vif 
+Evolutionary conflicts between viruses and restriction factors shape immunity. 
+HIV Ringside views
+SAMHD1-mediated HIV-1 restriction in cells does not involve ribonuclease activity
+Ubiquitous L1 Mosaicism in Hippocampal Neurons
+HIV/AIDS in Asia
+Micro RNAome Genome:A Treasure for Cancer Diagnosis and Therapy
+Both mature mi R-17-5p and passenger strand mi R-17-3p target TIMP3 and induce prostate tumor growth and invasion.
+Risk of a Second Primary Cancer after Non-melanoma Skin Cancer in White Men and Women:A Prospective Cohort Study.
+Metabolomics in diagnosis and biomarker discovery of colorectal cancer.
+Deciphering the epigenetic network in colorectal cancer
+Multidimensional Proteomics Reveals a Role of UHRF2 in the Regulation of Epithelial-Mesenchymal Transition (EMT)
+IQGAP1 suppresses TβRII-mediated myofibroblastic activation and metastatic growth in liver.
+Autoantibody signatures involving glycolysis and splicesome proteins precede a diagnosis of breast cancer among postmenopausal women.
+Interactions between innate and adaptive lymphocytes
+Development, Differentiation, and Diversity of Innate Lymphoid Cells
+Tissue residency of innate lymphoid cells in lymphoid and nonlymphoid organs
+Cancer Immunosurveillance by Tissue-Resident Innate Lymphoid Cells and Innate-like T Cells
+Hallmarks of Tissue-Resident Lymphocytes
+Natural Killer Cell Memory
+Natural killer cell memory in infection,inflammation and cancer
+NK cells and type 1 innate lymphoid cells:partners in host defense
+Oxygen Sensing, Homeostasis, and Disease
+Hypoxia-Inducible Factors in Physiology and Medicine
+Genes for High Altitudes
+Ten years of genetics and genomics: what have we achieved and where are we heading?
+Recent human adaptation: genomic approaches, interpretation and insights
+High-Altitude Medicine
+Molecular biology of bladder cancer: new insights into pathogenesis and clinical diversity
+Cancer’s Epigenome
+Lessons from the cancer genome 
+Comprehensive molecular characterization of urothelial bladder carcinoma
+No cohesion for cohesin's role
+Comprehensive molecular characterization of clear cell renal cell carcinoma
+Evolution of the cancer genome
+Cancer genome landscapes 
+Design, Synthesis, and Characterization of Graphene-Nanoparticle Hybrid Materials for Bioapplications
+Stable platinum nanoclusters on genomic DNA-graphene oxide with a high oxygen reduction reaction activity.
+Current Progress on the Chemical Modification of Carbon Nanotubes.
+Carbon nanotube-nanocrystal heterostructures
+Marriage of Scintillator and Semiconductor for Synchronous Radiotherapy and Deep Photodynamic Therapy with Diminished Oxygen Dependence.
+(Intra)Cellular Stability of Inorganic Nanoparticles: Effects on Cytotoxicity, Particle Functionality, and Biomedical Applications.
+Titanium Dioxide in the Service of the Biomedical Revolution.
+Metal nanoclusters: New fluorescent probes for sensors and bioimaging.
+Interrogating Tumor Metabolism and Tumor Microenvironments Using Molecular Positron Emission Tomography Imaging. Theranostic Approaches to Improve Therapeutics
+Switchable Fluorescent Imaging of Intracellular Telomerase Activity Using Telomerase-Responsive Mesoporous Silica  Nanoparticle.
+The delivery of therapeutic oligonucleotides
+Molecular Imaging of MDM2 Messenger RNA with99mTc-Labeled Antisense Oligonucleotides in Experimental Human Breast Cancer Xenografts.
+A Generalizable Strategy for Imaging pre-mRNA Levels in Living Subjects Using Spliceosome-Mediated RNA Trans-Splicing.
+Outstanding JNM Articles for 2007.
+Physics Applications in Nuclear Medicine: 2007
+Tumor delivery of antisense oligomer using trastuzumabwithin a streptavidin nanoparticle.
+Short Stereoselective Synthesis of the Phytophthora Universal Mating Hormone α1 using Lithiation/Borylation Reactions
+Intramolecular Donor-Acceptor Cyclopropane Ring-Opening Cyclizations. 
+2-Azabicyclo[2.2.1]hept-5-en-3-one: Chemical Profile of a Versatile Synthetic Building Block and its Impact on the Development of Therapeutics.
+Chemistry and Biology of Mycotoxins and Related Fungal Metabolites.
+Constructing Molecular Complexity and Diversity: Total Synthesis of Natural Products of Biological and Medicinal Importance.
+Construction of Vicinal All-Carbon Quaternary Stereocenters by Catalytic Asymmetric Alkylation Reaction of 3-Bromooxindoles with 3-Substituted Indoles: Total Synthesis of (+)-Perophoramidine.
+Total Synthesis of (+/-)-Gelsemoxonine. 
+Catalytic Asymmetric Synthesis of Pyrroloindolines via a Rhodium(II)-Catalyzed Annulation of Indoles.
+Bioinorganic chemistry of Alzheimer's disease
+Iron, brain ageing and neurodegenerative disorders.
+Circuit dynamics of adaptive and maladaptive behaviour
+Neuroscience： Spotlight on deep-brain stimulation
+Modeling kinetics of subcellular disposition of chemicals
+Understanding biophysicochemical interactions at the nano-bio interface 
+Structure of the human transferrin receptor-transferrin complex
+Iron on the brain
+Effects of metabolic syndrome on masseter muscle of male Wistar rats
+Recent Advances in Cell Sheet Technology for Periodontal Regeneration
+Pharmacological investigations on cross adaptation in mice subjected to stress immobilization
+Manganese superoxide dismutase is required to maintain osteoclast differentiation and function under static force
+Recent advances in the development of GTR/GBR membranes for periodontal regeneration—A materials perspective
+In situ guided tissue regeneration in musculoskeletal diseases and aging
+Role of nanostructured biopolymers and bioceramics in enamel, dentin and periodontal tissue regeneration
+Arteriogenic Therapy by Intramyocardial Sustained Delivery of a Novel Growth Factor Combination Prevents Chronic Heart Failure
+Aluminium chloride impairs long-term memory and downregulates cAMP-PKA-CREB signalling in rats
+Nanotechnology-Based Drug Delivery Systems for Targeting, Imaging and Diagnosis of Neurodegenerative Diseases
+Necroptosis, in vivo detection in experimental disease models
+ Necroptosis, necrostatins and tissue injury
+Oxidative stress and mitochondrial dysfunction in aluminium neurotoxicity and its amelioration: A review
+Taking aim at Alzheimer’s disease through the mammalian target of rapamycin
+The History, Status, Gaps, and Future Directions of Neurotoxicology in China
+The rhizome of Gastrodiaelata Blume – An ethnopharmacological review
+Integrated online virtual metrology and fault detection in plasma etch tools
+The evolution and future of manufacturing: A review
+Cloud-enabled prognosis for manufacturing
+Degradation-based maintenance decision using stochastic filtering for systems under imperfect maintenance
+Reliability modeling and life estimation using an expectation maximization based Wiener  degradation model for momentum wheels
+Improved PLS focused on key-performance-indicator-related fault diagnosis
+Multispace total projection to latent structures and its application to online process monitoring
+An improved exponential model for predicting remaining useful life of rolling element bearings
+Path loss exponent estimation for wireless sensor network localization
+Data fusion of power and time measurements for mobile terminal location
+Ordinal regression based sub-pixel shift estimation for video superresolution
+Multi-metric learning for multi-sensor fusion based classification
+Robust real-time myocardial border tracking for echocardiography: an information fusion approach
+Multisensor fusion for linear control systems with asynchronous out of sequence and erroneous data
+Decentralized Detection in Sensor Networks
+Distributed compressed sensing based joint detection and tracking for multistatic radar system
+Finite time distributed distance-constrained shape stabilization and flocking control for d-dimensional undirected rigid formations
+Finite-time consensus of multiagent systems with a switching protocol
+Cooperative control of multi-agent systems: optimal and adaptive design approaches
+Distributed control of networked dynamical systems: Static feedback, integral action and consensus
+Reachability properties of single-input continuous-time positive switched systems
+Collective motion
+Multi-agent systems with dynamical topologies: Consensus and applications
+Controllability of complex networks
+An improved LMI-based approach for stability of piecewise affine time-delay systems with uncertainty
+Delay-dependent robust stability and L2-gain analysis of a class of nonlinear time-delay systems
+A less conservative robust stability test for linear uncertain time-delay systems
+Stabilization of a chain of integrators with an unknown delay in the input by adaptive output feedback
+A note on Wirtinger-type integral inequalities for time-delay systems
+New results on stabilization of Markovian jump systems with time delay
+Novel results on generalized dissipativity of two-dimensional digital filters
+Extended dissipative analysis for neural networks with time-varying delays
+Review: Optimization based data mining: theory and applications
+Comparative Issues In Large-Scale Mean-Variance Efficient Frontier Computation
+Multistep Prediction of Physiological Tremor Based on Machine Learning for Robotics Assisted Microsurgery
+Marginal semi-supervised sub-manifold projections with informative constraints for dimensionality reduction and recognition
+Robust Novelty Detection via Worst Case CVaR Minimization
+Spatial probabilistic multi-criteria decision making for assessmentof flood management alternatives
+An exact algorithm for the multicriteria ordered clustering problem
+Boundary properties of the inconsistency of pairwise comparisons in group decisions
+Fractional fuzzy adaptive sliding-mode control of a 2-DOF direct-drive robot arm
+PI adaptive fuzzy control with large and fast disturbance rejection for a class of uncertain nonlinear systems
+Consensus-based distributed cooperative learning control for a group of discrete-time nonlinear multi-agent systems using neural networks
+Dynamic surface control using neural networks for a class of uncertain nonlinear systems with input saturation
+Adaptive neural control of a class of output-constrained nonaffine systems
+An adaptive generalized predictive control method for nonlinear systems based on ANFIS and multiple models
+Improved results on statistic information control with a dynamic neural network identifier
+Approximation-based adaptive tracking control for MIMO nonlinear systems with input saturation
+Sequential Bayesian Sparse Signal Reconstruction Using Array Data
+Key issues in decomposing fMRI during naturalistic and continuous music experience with independent component analysis
+CANDECOMP/PARAFAC model order selection based on Reconstruction Error in the presence of Kronecker structured colored noise
+Unsupervised Spectral Mixture Analysis of Highly Mixed Data With Hopfield Neural Network
+Residual Component Analysis of Hyperspectral Images—Application to Joint Nonlinear Unmixing and Nonlinearity Detection
+Energy-Efficient Cooperative Spectrum Sensing by Optimal Scheduling in Sensor-Aided Cognitive Radio Networks
+Adaptive Laplacian filtering for sensorimotor rhythm-based brain computer interfaces
+Clustering by Nonnegative Matrix Factorization Using Graph Random Walk
+Network-induced constraints in networked control systems-a survey
+A survey of recent results in networked control systems
+Improvement of state feedback controller design for networked control systems
+Robust H-infinity Fuzzy Output-Feedback Control With Multiple Probabilistic Delays and Multiple Missing Measurements
+Recent advances on fuzzy-model-based nonlinear networked control systems:a survey
+State of the art in research on microgrids: a review
+A robust stability framework for LTI systems with time-varying sampling
+On improved robust stabilization of uncertain systems with unknown input delay
+Adaptive Stabilization and Synchronization for Chaotic Lur’e Systems With Time-Varying Delay
+Self-tuning run to run optimization of fed-batch processes using unfold-PLS
+Experimentally supported 2D systems based iterative learning control law design for error convergence and performance 
+Geometric properties of partial least squares for process monitoring
+Survey on data-driven industrial process monitoring and diagnosis
+Monitoring for Nonlinear Multiple Modes Process Based on LL-SVDD-MRDA
+Injection Molding Quality Control by Integrating Weight Feedback into a Cascade Closed-Loop Control System
+Quality control using a multivariate injection molding sensor
+Metamaterial Electromagnetic Wave Absorbers
+Manipulation of terahertz radiation using metamaterials
+Oxide Electronics Utilizing Ultrafast Metal-Insulator Transitions
+Spin–orbit torques in action
+Valence state dependent room-temperature ferromagnetism in Fe-dopedceria nanocrystals 
+Aliovalent doping of CeO2: DFT study of oxidation state and vacancy effects
+Self-rectifying resistive-switching characteristics with ultralow operating  currents in SiOxNy
+Review on advances in porous nanostructured nickel oxides and their composite electrodes for high-performance supercapacitors
+Methods of integrating data to uncover genotype-phenotype interactions
+Feature selection with Intelligent Dynamic Swarm and Rough Set
+Histone deacetylase inhibitors (HDACIs). Structureuactivity relationships: history and new QSAR perspectives
+Proximity-based frameworks for generating embeddings from multi-output data
+MIND-BEST: Web Server for Drugs and Target Discovery; Design, Synthesis, and Assay of MAO-B Inhibitors and Theoretical-Experimental Study of G3PDH Protein from Trichomonas gallinae
+Spectral–Spatial Classification for Hyperspectral Data Using Rotation Forests With Local Feature Extraction and Markov Random Fields
+Essential proteins and possible therapeutic targets of Wolbachia endosymbiont and development of FiloBase-a comprehensive drug target database for Lymphatic filariasis
+Stacked Neural Network Modeling Applied to the Synthesis of Polyacrylamide-Based Multicomponent Hydrogels
+Quadrature compressive sampling for radar signals
+Single image interpolation via adaptive nonlocal sparsity-based modeling
+Efficient dictionary learning with sparseness-enforcing projections
+Learning super-resolution jointly from external and internal examples
+Fenchel duality based dictionary learning for restoration of noisy images
+Geometry-aware neighborhood search for learning local models for image superresolution
+From heuristic optimization to dictionary learning: a review and comprehensive comparison of image denoising algorithms
+Sparse representation for range data restoration
+Data Analysis and Pattern Recognition in Multiple Databases
+Modified Algorithms for Synthesizing High-frequency Rules from Different Data Sources
+Efficient Classification Across Multiple Database Relations: a Crossmine Approach
+Neurodegenerative Disease Diagnosis using Incomplete Multi-modality Data via Matrix Shrinkage and Completion
+An Investigation of Missing Data Methods for Classification Trees Applied to Binary Response Data
+A Survey of Cost-sensitive Decision Tree Induction Algorithms
+Classification of Imbalanced Data: a Review
+Bellwether Analysis: Searching for Cost-Effective Query-Defined Predictors in Large Databases
+Observer-based synchronization for a class of fractional chaotic systems via a scalar signal: Results involving the exact solution of the error dynamics
+Hyperchaos in the fractional-order Rossler system with lowest-order
+Robust synchronization of fractional chaotic systems via adaptive sliding mode control
+Some applications of fractional calculus in suppression of chaotic oscillations
+A general hybrid model for chaos robust synchronization and degradation reduction
+Security analysis of the public key algorithm based on Chebyshev polynomials over the integer ring ZN
+Cryptanalysis of a one round chaos-based substitution permutation network
+DNA computer based algorithm for recyclable waste paper segregation
+Carbon Nanotube-Inorganic Hybrids
+Localized Laser-Based Photohydrothermal Synthesis of Functionalized Metal-Oxides
+Synthesis, optical properties, and chemical–biological sensing applications of one-dimensional inorganic semiconductor nanowires
+ZnO Multipods, Submicron Wires, and Spherical Structures and Their Unique Field Emission Behavior
+Shape Matters: Anisotropy of the Morphology of Inorganic Colloidal Particles – Synthesis and Function
+Zinc Oxide Nanorods Shielded with an Ultrathin Nickel Layer: Tailoring of Physical Properties
+Probing the Optical Property and Electronic Structure of TiO2 Nanomaterials for Renewable Energy Applications
+Intelligent Multifunctional VO2/SiO2/TiO2 Coatings for Self-Cleaning, Energy-Saving Window Panels
+One-Dimensional Conducting Polymer Nanostructures: Bulk Synthesis and Applications
+Inorganic nanotubes
+Phase-engineered low-resistance contacts for ultrathin MoS2 transistors
+Multi-terminal transport measurements of MoS2 using a van der Waals heterostructure device platform
+Proton transport through one-atom-thick crystals
+Charge density wave order in 1D mirror twin boundaries of single-layer MoSe2
+Soft Materials in Neuroengineering for Hard Problems in Neuroscience
+A metal-free bifunctional electrocatalyst for oxygen reduction and oxygen evolution reactions
+Trace Ratio Optimization-Based Semi-Supervised Nonlinear Dimensionality Reduction for Marginal Manifold Visualization/
+On the Role of Correlation and Abstraction in Cross-Modal Multimedia Retrieval
+Automated Extraction and Parameterization of Motions in Large Data Sets
+Integrating Image Clustering and Codebook Learning
+Bypassing synthesis PLS for face recognition with pose, low-resolution and sketch
+Robust and Scalable Graph-Based Semisupervised Learning
+Multimodal Video Indexing and Retrieval Using Directed Information
+Multi-Label Image Categorization With Sparse Factor Representation
+Learning from more than one data source: data fusion techniques for sensorimotor rhythm-based brain-computer interfaces
+Brain-computer interface technology: a review of the Second International Meeting
+Steady-state visually evoked potentials: focus on essential paradigms and future perspectives
+Brain-computer interface after nervous system injury
+Closed-loop brain-machine-body interfaces for noninvasive rehabilitation of movement disorders
+Sparse representation based biomarker selection for schizophrenia with integrated analysis of fMRI and SNPs
+A novel Bayesian framework for Discriminative feature extraction in brain-computer interfaces
+ICA: a potential tool for BCI systems
+Analysis of alternative objective functions for attribute reduction in complete decision tables
+Anonymizing classification data using rough set theory
+Qualitative and quantitative combinations of crisp and rough clustering schemes using dominance relations
+Learning fuzzy rules from fuzzy samples based on rough set technique
+Fuzzy tolerance quotient spaces and fuzzy subsets 
+Fuzzy rough sets hybrid scheme for motion and scene complexity adaptive deinterlacing
+On robust fuzzy rough set models
+Incremental feature selection based on rough set in dynamic incomplete data
+Product platform design and customization: Status and promise
+The impact of supply chain complexity on manufacturing plant performance
+State-of-the-art technologies and methodologies for collaborative product development systems
+Engineering change: an overview and perspective on the literature
+RFID-enabled track and traceability in job-shop scheduling environment
+A bilinear goal programming model and a modified Benders decomposition algorithm for supply chain reconfiguration and supplier selection
+Scalability in manufacturing systems design and operation: State-of-the-art and future developments roadmap
+The application of an artificial immune system-based back-propagation neural network with feature selection to an RFID positioning system
+Organic LEDs: Blue Perfection
+White Organic Light Emitting Diodes
+Influence of the hole blocking layer on blue phosphorescent organic light-emitting devices using 3,6-di(9-carbazolyl)-9-(2-ethylhexyl)carbazole as host material
+Nitrogen heterocycle-containing materials for highly efficient phosphorescent OLEDs with low operating voltage
+Recent advances of the emitters for high performance deep-blue organic light-emitting diodes
+Bisanthracene-Based Donor–Acceptor-type Light-Emitting Dopants: Highly Efficient Deep-Blue Emission in Organic Light-Emitting Devices
+Highly enhanced electron injection in organic light-emitting diodes with an n-type of MnO2 layer
+Nanocrystallized Organic Thin Films as Effective Light Outcoupling Layers for Organic Light-Emitting Diodes
+Mexitl: multimedia in executable interval temporal logic
+Verification and enforcement of access control policies
+Logical foundations for more expressive declarative temporal logic programming languages
+Validating ajax applications using a delay-based mutation technique
+A localized backbone renovating algorithm for wireless ad hoc and sensor networks
+Networked computing in wireless sensor networks for structural health monitoring
+Continuous Fragmented Skylines over Distributed Streams
+A survey of skyline processing in highly distributed environments
+Global convergence rate of recurrently connected neural networks
+A referencemodel approach to stability analysis of neural networks
+Delay-dependent robust H infinity control for T-S fuzzy systems with time delay
+Global exponential stability and global convergence in finite time of delayed neural networks with infinite gain
+Dynamics of periodic delayed neural networks
+Nontrivial global attractors in 2-D multistable attractor neural networks
+Oja's algorithm for graph clustering, Markov spectral decomposition, and risk sensitive control
+Nonlinear dimensionality reduction by locally linear inlaying
+New conditions for global exponential stability of cellular neural networks with delays
+Radial basis probabilistic neural network for differential protection of power transformer
+Two-Stage Orthogonal Least Squares Methods for Neural Network Construction
+Particle swarm optimization aided orthogonal forward regression for unified data modeling
+A complete system for automatic extraction of left ventricular myocardium from CT Images using shape segmentation and contour 
+Achieving near perfect classification for functional data
+A novel strategy for solving the stochastic point location problem using a hierarchical searching scheme
+ A self-configurable systolicarchitecture for face recognition system based on principal component neural network
+Design of machines with compliant bodies for biomimetic locomotion in liquid environments
+Swimming performance of a biomimetic compliant fish-like robot
+Recovery of rectified signals from hotwire/film anemometers due to flow reversal in oscillating flows
+Neural controller design-based adaptive control for nonlinear MIMO systems with unknown hysteresis inputs
+Distributed synchronization in networks of agent systems with nonlinearities and random switchings
+Distributed adaptive tracking control for synchronization of unknown networked Lagrangian systems
+Finite time dual neural networks with a tunable activation function for solving quadratic programming problems and its application
+Dynamic modeling and simulation of a 3-D serial eel-like robot
+Global trends and performances of acupuncture research
+Randomized, Blinded, Sham-Controlled Trial of Acupuncture for the Management of Aromatase Inhibitor–Associated Joint Symptoms in Women With Early-Stage Breast Cancer
+Acupuncture Versus Venlafaxine for the Management of Vasomotor Symptoms in Patients With Hormone Receptor– Positive Breast Cancer: A Randomized Controlled Trial
+Sex similarities and differences in pain-related periaqueductal gray connectivity
+How Has the Internet Reshaped Human Cognition?
+Alterations in brain structure and functional connectivity in prescription opioid-dependent patients
+Functional MRI of migraine
+The dynamic pain connectome
+公开评价
+Gevrey's and trace regularity of a semigroup associated with beam equation and non-monotone boundary conditions
+Eigenvalues and eigenvectors of semigroup generators obtained from diagonal generators by feedback.
+The exterior matrix method for sequentially coupled fourth-order equations
+Well-posedness and regularity of hyperbolic boundary control systems on a one-dimensional spatial domain
+Eliciting harmonics on strings
+Well-posed systems—the LTI case and beyond
+Book Reviews
+Toward jointly optimized design of failure-independent path-protecting p-cycle networks 
+Performance evaluation of impairment-aware routing under single- and double-link failures
+A survey of survivability in multi-domain optical networks
+Diverse routing in networks with probabilistic failures
+Toward a power-efficient backbone network: The state of research 
+Building a low-energy transparent optical wide area network with "multipaths"
+FiWi access networks based on next-generation PON and gigabit-class WLAN technologies: A capacity and delay analysis
+Exploiting wireless connectivity for robustness in WOBAN
+Neural network control of resistive wall modes in tokamaks
+A critical analysis on global convergence of hopfield-type neural networks
+Nonlinear model predictive control with neural network optimization for autonomous autorotation of small unmanned helicopters
+Improved free-weighting matrix approach for stability analysis of discrete-time recurrent neural networks with time-varying delay
+A nonfeasible gradient projection recurrent neural network for equality-constrained optimization problems
+Nonsmooth neural network for convex time-dependent constraint satisfaction problems
+A variational approach to degraded document enhancement
+Lagrange programming neural network for nondifferentiable optimization problems in sparse approximation
+Nonlinear dynamic matrix control based on multiple operating models
+Recent developments in evolutionary computation for manufacturing optimization: problems, solutions, and comparisons
+Linear matrix inequality-based robust model predictive control for time-delayed systems
+LMI-based stability and performance conditions for continuous-time nonlinear systems in Takagi–Sugeno's form
+Stochastic model predictive control of LPV systems via scenario optimization
+Distributed model predictive control: A tutorial review and future research directions
+Distributed model predictive control based on a cooperative game
+Pinto Distributed Linear-quadratic control of serially chained systems, application to a water delivery canal
+Nanoparticles meet electrospinning: recent advances and future prospects
+Self-assembled catalytic DNA nanostructures for synthesis of para-directed polyaniline
+Titanium dioxide nanomaterials for sensor applications
+Fabrication, properties and applications of Janus particles
+Anisotropic growth control of polyaniline nanostructures and their morphology-dependent electrochemical characteristics
+Synthesis, structure, and ethanol gas sensing properties of In2O3 nanorods decorated with Bi2O3 nanoparticles
+Electrospun composite nanofibers and their multifaceted applications
+Preparation of antimicrobial ultrafine cellulose acetate fibers with silver nanoparticles
+Pressure-induced amorphization and polyamorphism: Inorganic and biochemical systems
+Phase separation in metallic glasses
+Relationship between structure,dynamics, and mechanical properties in metallic glass-forming alloys
+Electronic structure inheritance and pressure-induced polyamorphism in Lanthanide-based metallic glasses
+Shear bands in metallic glasses
+Bulk metallic glasses with functional physical properties/
+Glass forming ability and short-range order in a binary bulk metallic glass by ab initio molecular dynamics
+Local atomic structure of Ca-Mg-Zn metallic glasses
+Enhanced thermoelectric performance of rough silicon nanowires 
+Metallization and nanostructuring of semiconductor surfaces by galvanic displacement processes
+Opportunities in nanometer sized Si wires for PV applications
+Inorganic photovoltaics – Planar and nanostructured devices
+Silicon Nanowires for Biosensing, Energy Storage,and Conversion
+Self-selective electroless plating: An approach for fabrication of functional 1D nanomaterials
+Metal-assisted chemical etching for high aspect ratio nanostructures: A review of characteristics and applications in photovoltaics
+Silicon-Based Nanomaterials for Lithium-Ion Batteries A Review
+Very High Density Sensing Arrays
+Holographic Sensors: Three-Dimensional Analyte-Sensitive Nanostructures and Their Applications
+Bio-inspired photonic crystals with superwettability
+A Zipper-Like On/Off-Switchable Molecularly
+Responsive Photonic Crystals 
+Microdroplets in Microfluidics: An Evolving Platform for Discoveries in Chemistry and Biology
+Universal process-inert encoding architecture for polymer microparticles
+Quantitative Characterization of Individual Microdroplets using Surface-Enhanced Resonance Raman Scattering Spectroscopy
+Efficient electrocatalytic oxidation of formic acid using Au@Pt dendrimer-encapsulated nanoparticles
+Structure-Induced Enhancement in Electrooxidation of Trimetallic FePtAu Nanoparticles
+Graphene for energy conversion and storage in fuel cells and supercapacitors
+Scientific aspects of polymer electrolyte fuel cell durability and degradation
+Highly Stable and Active Pt-Cu Oxygen Reduction Electrocatalysts Based on Mesoporous Graphitic Carbon Supports
+Simple Synthesis of Graphitic Ordered Mesoporous Carbon Materials by a Solid-State Method Using Metal Phthalocyanines
+Structural variation and water adsorption of a SnO2 coated carbon nanotube: a nanoscale chemical imaging study
+Chemical reduction of graphene oxide: a synthetic chemistry viewpoint
+Electronic structure and magneto-optical Kerr effect spectra of ferromagnetic shape-memory Ni-Mn-Ga alloys: Experiment and density functional theory calculations
+Critical dependence of magnetostructural coupling and magnetocaloric effect on particle size in Mn-Fe-Ni-Ge compounds
+Martensitic transformation and magnetic field induced effects in Ni42Co8Mn39Sn11 metamagnetic shape memory alloy
+Disentangling the Mn moments on different sublattices in the half-metallic ferrimagnet Mn3.xCoxGa
+Dynamical instability and Fermi surface topology in Ni2FeGa from first principles
+High temperature shape memory alloys
+Magnetomechanical properties of a high-temperature Ni–Mn–Ga magnetic shape memory actuator material
+Banded-like morphology and martensitic transformation of dual-phase Ni–Mn–In magnetic shape memory alloy with enhanced ductility
+Hydrogen Storage in Metal Organic Frameworks
+Hypercrosslinked Aromatic Heterocyclic Microporous Polymers: A New Class of Highly Selective CO2 Capturing Materials
+Metal–organic framework composites
+Review: Carbon nanotube based electrochemical sensors for biomolecules
+An overview of electrode materials in microbial fuel cells
+Preparation,thermal properties and applications of shape-stabilized thermal energy storage materials
+The structure and 233 K electrochemical properties of La0.8LxNdxMg0.2Ni3.1Co0.25Al0.15 (x[0.0–0.4) hydrogen storage alloys 
+A review on hydrogen production using aluminum and aluminum alloys
+TiO2-based superhydrophobic–superhydrophilic pattern with an extremely high wettability contrast
+Superhydrophobic graphene-based materials: surface construction and functional applications
+Superamphiphobic surfaces
+Thermoresponsive colloidal crystals built from core-shell poly(styrene/α-tert-butoxy-ω-vinylbenzylpolyglycidol) microspheres
+A colloidoscope of colloid-based porous materials and their uses
+Implantation of nanomaterials and nanostructures on surface and their applications
+Anisotropic wetting surfaces with one-dimesional and directional structures: fabrication approaches, wetting properties and potential applications
+Synthetic surfaces with robust and tunable underwater superoleophobicity
+Development of functional nanostructures and their applications in catalysis and solar cells.
+Pulsed laser ablation in liquid for micro-/nanostructure generation
+Exploiting Intrinsic Nanoparticle Toxicity: The Pros and Cons of Nanoparticle-Induced Autophagy in Biomedical Research
+Quantum dot-sensitized solar cells—perspective and recent developments: A review of Cd chalcogenide quantum dots as sensitizers
+Reversible Nanodiamond-Carbon Onion Phase Transformations
+A multifunctional core–shell nanoparticle for dendritic cell-based cancer immunotherapy
+Luminescent Carbon Nanodots: Emergent Nanolights
+Carbon nanodots: synthesis, properties and applications
+Friction stir casting modification for enhanced structural efficiency
+Microstructure and tensile behavior of a friction stir processed magnesium alloy
+A new insight into ductile fracture of ultrafine-grained Al-Mg alloys
+Effect of welding motion and pre-/post- annealing of friction stir welded AA5754 joints
+Friction stir welding of dissimilar alloys and materials
+Cryogenic friction-stir processing of ultrafine-grained Al-Mg-TiO2  nanocomposites
+Influence of the concentration and nature of carbon nanotubes on the mechanical properties of AA5083
+A metal matrix composite prepared from electrospun TiO2 nanofibers and an Al 1100 alloy via friction stir processing
+Transition metal-catalyzed living radical polymerization: toward perfection in catalysis and precision polymer synthesis
+Biodegradable synthetic polymers: preparation, functionalization and biomedical application
+Nanofiber micelles from the self-assembly of block copolymers
+Solvent tunable self-assembly of amphiphilic rod-coil block copolymers with chiral, helical polycarbodiimide segments: polymeric nanostructures with variable shapes and sizes
+Selective localization of preformed nanoparticles in morphologically controllable block copolymer aggregates in solution
+Self-assembly of polypeptide-based block copolymer amphiphiles
+Designing degradable hydrogels for orthogonal control of cell microenvironments
+Recent advances in research on carbon nanotube-polymer composites
+A Roadmap for Graphene
+Graphene Oxide as a Chemically Tunable Platform for Optical Applications
+Carbon Nanomaterials for Biological Imaging and Nanomedicinal Therapy
+Graphene-based Nanomaterials for Versatile Imaging studies
+Controlling Upconversion Nanocrystals for Emerging Applications
+Upconversion Nanoparticles: Design, Nanochemistry, and Applications in Theranostics
+In Vivo Photodynamic Therapy using Upconversion Nanoparticles as Remote-controlled Nanotransducers 
+Molecular Interactions in Organic Nanoparticles for Phototheranostic Applications
+Copper-Mediated Living Radical Polymerization (Atom Transfer Radical Polymerization and Copper(0) Mediated Polymerization): From Fundamentals to Bioapplications
+Directed Assembly of Soft Colloids through Rapid Solvent Exchange
+Using the Dynamic Bond to Access Macroscopically Responsive Structurally Dynamic Polymers
+Pillar-Shaped Macrocyclic Hosts Pillar[n]arenes: New Key Players for Supramolecular Chemistry
+Synthetic Self-Assembled Materials in Biological Environments
+Building Nanostructures with Drugs
+Spiropyran-Based Dynamic Materials
+Biological Applications of Supramolecular Assemblies Designed for Excitation Energy Transfer
+Pseudocapacitive oxide materials for high-rate electrochemical energy storage
+Serendipitous Synthesis of Ag1.92Mo3O10?H2O Nanowires from AgNO3?Assisted Etching of Ammonium Phosphomolybdate: A Material with High Adsorption Capacity
+Selective Pulsed Heating for the Synthesis of Semiconductor and Metal Submicrometer Spheres
+Large scale, low temperature hotplate synthesis of germanium dioxide nanowires
+Solution-Dispersible Metal Nanorings with Deliberately Controllable
+Mechanics of hierarchical 3-D nanofoams
+Silicon?Germanium Nanowires: Chemistry and Physics in Play, from Basic Principles to Advanced Applications
+Droplet epitaxy for advanced optoelectronic materials and devices
+TiO2 nanotubes for bone regeneration
+Polyelectrolyte multilayered assemblies in biomedical technologies
+Engineering nanoassemblies of polysaccharides
+Drug releasing polymer thin films: new era of surface- mediated drug delivery
+Stimuli-responsive nanocarriers for drug delivery
+Remotely triggerable drug delivery systems
+Nanostructured polymer assemblies formed at interfaces: applications from immobilization and encapsulation to stimuli- responsive release
+Gated hybrid delivery systems: En route to sensory materials with inherent signal amplification
+Influence of the Filler Nature on the Crystalline Structure of Polylactide-Based Nanocomposites: New Insights into the Nucleating Effect
+Anomalous mechanical anisotropy of beta form polypropylene sheet with N,N dicyclohexyl-2,6-naphthalenedicarboxamide
+Composites of polyamide 6 and silicate nanotubes of the mineral halloysite: Influence of molecular weight on thermal, mechanical and rheological properties
+Precursor of Shish-Kebab in Atactic Polystyrene/Isotactic Polystyrene Blend above Nominal Melting Temperature
+Influence of shear-induced crystallization on the electrical conductivity of high density polyethylene carbon nanotube nanocomposites
+Uneven distribution of nanoparticles in immiscible fluids: Morphology development in polymer blends
+Peculiar morphological transitions induced by nanoparticles in polymeric blends: retarded relaxation or altered interfacial tension?
+Structuration, selective dispersion and compatibilizing effect of (nano)fillers in polymer blends
+Fluorescence Based Explosive Detection: From Mechanisms to Sensory Materials
+Surface-Immobilized Monolayers of Conjugated Oligomers as a Platform for Fluorescent Sensors Design: The Effect of Exciton Delocalization on Chemo-sensing Performance
+Aggregation-Induced Emission: Together We Shine, United We Soar
+Conjugated-polymer Grafting on Inorganic and Organic Substrates: A New Trend in Organic Electronic Materials
+Poly(aryleneethynylene)s (PAE) as Paradigmatic Sensor Cores
+Metal- and Anion-Binding Supra-molecular Gels
+Functional π?Gelators and Their Applications
+Ionic Metal-Organic Frameworks (iMOFs): Design Principles and Applications
+Controlling the Electronic Structure of Bilayer Graphene
+Microporous and Mesoporous Materials
+Structure of narrow-diameter single-wall carbon nanotubes grown in AlPO4-5 zeolite
+Review on the symmetry-related properties of carbon nanotubes
+Electronic and transport properties of nanotubes
+Phonons in carbon nanotubes
+The Fermi Level Dependent Electronic Properties of the Smallest (2,2) Carbon Nanotube
+Solution-Phase Extraction of Ultrathin Inner Shells from Double-Wall Carbon Nanotubes
+Crystalline materials: Twin behaviour and size
+Plasticity in small-sized metallic systems: Intrinsic versus extrinsic size effect
+Nanostructured alloys: large tensile elongation
+Superhard materials are cut out for a tough life
+Influence of length-scales on spatial distribution and interfacial characteristics of B4C in a nanostructured Al matrix
+Integrated modeling of friction stir welding of 6xxx series Al alloys: Process, microstructure and properties
+Combined size and texture-dependent deformation and strengthening mechanisms in Zr/Nb nano-multilayers
+Mechanistic coupling of dislocation and shear transformation zone plasticity in crystalline-amorphous nanolaminates
+Engineered nanomembranes for smart energystorage devices
+Ultrathin spinel LiMn2O4 nanowires as high power cathode materials for Li-ion batteries
+Multifunctional TiO2?C/MnO2 Core?Double-Shell Nanowire Arrays as High-Performance 3D Electrodes for Lithium Ion Batteries
+Nitrogen-Doped Graphene Ribbon Assembled Core–Sheath MnO@Graphene Scrolls as Hierarchically Ordered 3D Porous Electrodes for Fast and Durable Lithium Storage
+Nanostructured Mo-based electrode materials for electrochemical energy storage
+Hybridization of inorganic nanoparticles and polymers to create regular and reversible self-assembly architectures
+Nonstoichiometric Oxides as Low-Cost and Highly-Efficient Oxygen Reduction/Evolution Catalysts for Low-Temperature Electrochemical Devices
+Vanadium-based nanostructure materials for secondary lithium battery applications
+Three dimensional macroporous architectures and aerogels built of carbon nanotubes and/or graphene: synthesis and applications
+An ultrafast rechargeable aluminium-ion battery
+Wafer-Scale Growth of Single-Crystal Monolayer Graphene on Reusable Hydrogen-Terminated Germanium
+Polycrystalline graphene and other two-dimensional materials
+Focusing on energy and optoelectronic applications: A journey for graphene and graphene oxide at large scale
+Impermeable barrier films and protective coatings based on reduced graphene oxide
+Design, synthesis, and characterization of graphene-nanoparticle hybrid materials for bioapplications
+Graphene based materials: Past, present and future
+Continuous Production of Cu2ZnSnS4 Nanocrystals in a Flow Reactor
+Development of alternative photocatalysts to TiO2: Challenges and opportunities
+Niobium-Doped Titania Nanoparticles: Synthesis and Assembly into Mesoporous Films and Electrical Conductivity
+Titanium Dioxide Nanomaterials: Self- Structural Modifications
+TiO2 photocatalysis: Design and applications.
+Five New Chalcohalides, Ba3GaS4X (X = Cl, Br), Ba3MSe4Cl (M = Ga, In), and Ba7In2Se6F8: Syntheses, Crystal Structures, and Optical Properties.
+Physics and chemistry of CdTe/CdS thin film heterojunction photovoltaic devices: fundamental and critical aspects
+Electrochemistry of Graphene and Related Materials
+Oscillatory mass transport in vapor-liquid-solid growth of sapphire nanowires
+Defect-related luminescent materials: synthesis,emission properties and applications
+A review on the progress of polymer nanostructures with modulated morphologies and properties, using nanoporous AAO
+Porous Anodic Aluminum Oxide: Anodization and Templated Synthesis of Functional Nanostructures
+Electrochemical engineering of hollow nanoarchitectures: pulse/step anodization (Si, Al, Ti) and their applications
+Hierarchical Porous Plasmonic Metamaterials forReproducible Ultrasensitive Surface-Enhanced RamanSpectroscopy
+Hierarchically Ordered Arrays of Noncircular Silicon Nanowires Featured by Holographic Lithography Toward a High-Fidelity Sensing Platform
+Hybrid nanostructures of metal/two-dimensianal nanomaterials for plasmon-enhanced applications
+Dendritic growth velocities in an undercooled melt of pure nickel under static magnetic fields: A test of theory with convection
+Strong static magnetic field processing of metallic materials: A review
+Particle size distribution and composition in phase-separated Cu 75 Co 25 alloys under various magnetic fields
+Progress on High Magnetic Field -Controlled Transport Phenomena and Their Effects on Solidifi- cation Microstructure
+Microstructure and performance of solid TC4 titanium alloy subjected to the high pulsed magnetic field treatment
+Interplay Between Melt Flow and the 3D Distribution  and Morphology of Fe-Rich Phases in AlSi Alloys
+Solidification microstructures and solid-state parallels: Recent developments
+Microstructures and properties of high-entropy alloys
+Molecular effects on boundary condition in micro/nanoliquid flows
+Effects of channel scale on slip length of flow in micro/nanochannels 
+Unimpeded permeation of water throughhelium-leak–tight graphene-based membranes
+Microreactor technology and process miniaturization for catalytic reactions-A perspective on recent developments and emerging technologies
+Effect of developing flow and thermal regime on momentum and heat transfer in micro-scale heat sink
+Thermal management of time-varying high heat flux electronic devices
+Time-strip visualization and thermos-hydrodynamics in a Closed Loop Pulsating Heat Pipe
+An active control strategy for reduction of pressure instabilities during flow boiling in a microchannel
+Wear of human teeth: A tribology perspective
+Tooth wear and wear investigations in dentistry
+Human tooth wear in the past and the present: Tribological mechanisms, scoring systems, dental and skeletal compensations
+Ceramic-like wear behaviour of human dental enamel
+A model for predicting wear rates in tooth enamel
+Using occlusal wear information and finite element analysis to investigate stress distributions in human molars
+Nanocrystalline electroplated Cu-Ni: Metallic thin films with enhanced mechanical properties and tunable magnetic behavior
+Hardness, friction and wear studies on hydrogen peroxide treated bovine teeth
+Atmospheric impacts on climatic variability of surface incident solar radiation
+A review of global terrestrial evapotranspiration: Observation, modeling, climatology, and climatic variability
+Climate Change 2007: Impacts, Adaptation and Vulnerability
+A simple framework for relating variations in runoff to variations in climatic conditions and catchment properties
+Climate and vegetation controls on the surface water balance: Synthesis of evapotranspiration measured across a global network of flux towers
+Applying multi-parameter runoff elasticity to assess water availability in a changing climate: an example from Texas, USA
+Attribution for decreasing streamflow of the Haihe River basin, northern China: climate variability or human activities?
+Quantitative assessment of climate change and human impacts on long-term hydrologic response: a case study in a sub-basin of the Yellow River, China
+Non-linear torsion behaviour of concrete filled steel tube columns
+Twenty years for fundamental researches of structural engineering a report from National Natural Science Foundation of China (Keynote paper)
+Numerical analysis of slender elliptical concrete filled columns under axial compression
+Flexural strength analysis of non-post- tensioned and post-tensioned concrete-filled circular steel tubes
+Experimental research on concrete filled steel tube columns under combined compression-bending-torsion cyclic load
+Stress-strain behavior of FRP-confined recycled aggregate concrete
+Simple calculation model for evaluating the fire resistance of unreinforced concrete filled tubular columns
+Test and analysis on the seismic performance of a steel truss-to-circular CFT column sub-assembly
+Predicting emissions of volatile and semivolatile organic compounds from building materials: A review
+Diffusion-controlled reference material for VOC emissions testing: effect of temperature and humidity
+Influence of Temperature on the Emission of Di-(2-ethylhexyl)phthalate (DEHP) from PVC Flooring in the Emission Cell FLEC
+Application and limitations of a mass transfer VOC emission model for a dry building material
+Formaldehyde emission monitoring from a variety of solid wood, plywood, blockboard and flooring products manufactured for building and furnishing materials
+Formaldehyde in the Indoor Environment
+Photocatalytic degradation of two volatile fatty acids in an annular plug-flow reactor; Kinetic modeling and contribution of mass transfer rate
+Evaluation of an air-cleaning unit having photocatalytic sheets to remove acetaldehyde from indoor air
+Analysis, design, and experimentation of a double forward converter with soft switching characteristics for all switches
+Wide ZVS range asymmetric half- bridge converter with clamp switch and diode for high conversion efficiency
+Seamless transfer control strategy for fuel cell uninterruptible power supply system
+A three-level resonant single-stage power factor correction converter: analysis, design and implementation
+Boundary control of full-bridge ZVS: natural switching surface for transient and steady-state operation
+Minimum energy and capacitance requirements for single- phase inverters and rectifiers using a ripple port
+An extended photoelectrothermal theory for LED systems: A tutorial from device characteristic to system design for general lighting
+Efficiency optimization through current-sharing for paralleled dc–dc boost converters with parameter estimation
+An experimental artificial neural network based modeling of magneto rheological fluid dampers
+Pulsive feedback control of a quarter car model forced by a road profile
+Dynamic stiffness matrix development and free vibration analysis of a moving beam
+Dynamic responses of a saturated poroelastic half-space generated by a moving truck on the uneven pavement
+A general solution procedure for the forced vibrations of a continuous system with cubic nonlinearities
+Nonlinear vibrations and stability of an axially moving beam with an intermediate spring support
+An analytical study of controlling chaotic dynamics in a spurgear system
+Multi-pulse heteroclinic orbits and chaotic motions in a parametrically excited viscoelastic moving belt
+Tailoring gadolinium-doped ceria-based solid oxide fuel cells to achieve 2Wcm-2 at 550 oC
+Compositional control of continuously graded anode functional layer
+Glass-based seals for solid oxide fuel and electrolyzer cells – A review
+Joining of engineering ceramics
+Facile one-step forming of NiO and yttrium-stabilized zirconia composite anodes with straight open pores for planar solid oxide fuel cell using phase-inversion tape casting method
+Design and functionality of colloidal- crystal-templated materials-chemical applications of inverse opals
+Current status and future developments in preparation and application of colloidal crystals
+A ternary cathode composed of LSM, YSZ and Ce0.9Mn0.1O2-δ for the intermediate temperature solid oxide fuel cells
+Granular Computing- Perspectives and Challenges
+Neighborhood rough sets based multi-label classification for automatic image annotation
+Fuzzy-Rough Sets for Information Measures and Selection of Relevant Genes From Microarray Data
+Information Granularity in Fuzzy Binary GrC Model
+Class-dependent rough-fuzzy granular space, dispersion index and classification
+On rough sets, their recent extensions and applications
+Fusing Monotonic Decision Trees
+Generating an indicator for pump impeller damage using half and full spectra, fuzzy preference-based rough sets and PCA
+Size effects in manufacturing of metallic components
+The influence of size effect on the ductile fracture in micro-scaled plastic deformation
+Recent developments in microhydroforming
+Instantaneous tool deflection model for micro milling
+A quantitative study of the tribological size effect in microforming with a multi-region FEA model
+Multi-objective optimization using Taguchi based grey relational analysis for micro-milling of Al 7075 material with ball nose end mill
+Experimental and numerical investigation on micro deep drawing process of stainless steel 304 foil using flexible tools
+A review of composite and metallic bipolar plates in proton exchange membrane fuel cell: Materials, fabrication, and material selection
+A strength criterion for frozen sodium sulfate saline soil
+A constitutive framework for the elastoplastic modelling of geomaterials
+岩土塑性力学
+Development of a constitutive model for a bedded argillaceous rock from triaxial and true triaxial tests
+Macroscopic model with anisotropy based on micro-macro information
+Soil-environment interactions in geotechnical engineering
+An insight into the water retention properties of compacted clayey soils
+Hydro-mechanical hypoplastic models for unsaturated soils under isotropic stress conditions
+The arc characteristics and metal transfer behaviour of cold metal transfer and its use in joining aluminium to zinc-coated steel
+Joining of dissimilar materials
+Dissimilar friction stir welding between magnesium and aluminum alloys
+Friction stir welding of aluminium alloys
+Characterisation of microstructure, mechanical properties and corrosion behaviour of an AA2219 friction stir weldment
+On tool stirring action in friction stir welding of work hardenable aluminium alloys
+Surface characterization of titanium hydride powder
+Joining of engineering ceramics
+Catalytic conversion of lignocellulosic biomass to fine chemicals and fuels
+Kinetics and reaction chemistry for slow pyrolysis of enzymatic hydrolysis lignin and organosolv extracted lignin derived from maplewood
+A mechanistic model of fast pyrolysis of glucose-based carbohydrates to predict bio-oil composition 
+Flash pyrolysis of forestry residues from the Portuguese Central Inland Region within the framework of the BioREFINA-Ter project
+Biomass gasification for electricity generation: Review of current technology barriers 
+TG-FTIR analysis of switchgrass pyrolysis 
+Biomass pyrolysis-A review of modelling, process parameters and catalytic studies
+Upgrading of bio-oil from biomass fast pyrolysis in China: A review
+Research on aerosol sources and chemical composition: Past current and emerging issues 
+Oxy-fuel combustion of solid fuels
+Oxy-fuel combustion of pulverized coal: Characterization fundamentals stabilization and CFD modeling
+Formation of fine particles in co-combustion of coal and solid recovered fuel in a pulverized coal-fired power station
+Effects of biomass char structure on its gasification reactivity
+Catalytic Steam Gasification of Biomass: Catalysts, Thermodynamics and Kinetics
+Gas Phase Mercury Oxidation by Halogens (Cl, Br, I) in Combustion Effluents: Influence of Operating Conditions
+Theoretically predicted rate constants for mercury oxidation by hydrogen chloride in coal combustion flue gases
+Deformation, fracture, and fragmentation in brittle geologic solids
+Experimental and numerical investigation of pulse-shaped split Hopkinson pressure bar test
+Origin of pulverized rocks during earthquake fault rupture
+Predicting the Dynamic Compressive Strength of Carbonate Rocks from Quasi-Static Properties
+The Schmidt hammer in rock material characterization
+Development of new laboratory apparatus for the examination of the rotary-percussive penetration in tunnel boring machines
+Investigation of rock material under combined compression and shear dynamic loading: An experimental technique
+A Study on the Vibration Frequency of Blasting Excavation in Highly Stressed Rock Masses
+Review of Numerical Modeling of Wa-ter Waves by Pengzhi Lin
+Random focusing of tsunami waves
+Numerical simulation of swash zone fluid accelerations
+HyPAM: A hybrid continuum-particle model for incompressible free-surface flows
+Experimental investigation of conical bubble structure and acoustic flow structure in ultrasonic field
+Hydroelastic vibration of circular plates immersed in a liquid-filled container with free surface
+Sharp interface immersed-boundary/level-set method for wave–body interactions
+Fluid–structure interaction in partially filled liquid containers: A comparative review of numerical approaches
+Decontamination and disinfection of water by solar photocatalysis: The pilot plants of the Plataforma Solar de Almeria
+Photocatalytic reactors for environmental remediation: a review
+Nanostructured WO3/BiVO4 Photoanodes for Efficient Photoelectrochemical Water Splitting
+Nucleation, Growth, and Repair of a Cobalt-Based Oxygen Evolving Catalyst
+Semiconductor Nanowires–Synthesis, Characterization, and Applications
+Novel photocatalysts based on Cd1-xZnxS/Zn(OH)2 for the hydrogen evolution from water solutions of ethanol
+Tailoring photocatalytic nanostructures for sustainable hydrogen production
+Hetero-nanostructured suspended photocatalysts for solar-to-fuel conversion
+Bifurcations of fuzzy nonlinear dynamical systems
+Stochastic averaging of quasi-integrable and non-resonant Hamiltonian systems under combined Gaussian and Poisson white noise excitations
+Transitions in a genetic transcriptional regulatory system under Levy motion
+Adaptive discontinuous galerkin method for response-excitation pdf equations
+Co-existing responses and stochastic resonance in post-buckled structures: A combined numerical and experimental study
+Synchronization of a class of chaotic systems with fully unknown parameters using adaptive sliding mode approach
+Synchronization of two different non-autonomous chaotic systems using fuzzy disturbance observer
+Noise effects on a birhythmic Josephson junction coupled to a resonator
+Oil Recovery from Water under Environmentally Relevant Conditions Using Magnetic Nanoparticles
+Environmental applications of graphene-based Nanomaterials
+Magnetic nanoparticles: Essential factors for sustainable environmental applications
+Magnetic hydroxyapatite nanoparticles:An efficient adsorbent for the separation and removal of nitrate and nitrite ions from environmental samples
+Batch cadmium(II) biosorption by an industrial residue of macrofungal biomass (Clitopilus scyphoides)
+Effect of chelaters on bioaccumulation of Cd (II), Cu (II), Cr (VI), Pb (II) and Zn (II) in Galerina vittiformis from soil
+Advanced Carbon Electrode Materials for Molecular Electrochemistry
+Gold Nanoparticles in Chemical and Biological Sensing
+Cloud manufacturing: strategic vision and state-of-the-art
+A state-of-the-art survey of cloud manufacturing
+A methodology for module portfolio planning within the service 5 solution layer of a product–service system
+Cloud manufacturing service composition based on QoS with geo-perspective transportation using an improved Artificial Bee Colony optimisation algorithm
+Resource allocation in cloud-based design and manufacturing: a mechanism design approach
+Composition of resource-service chain for cloud manufacturing
+Step ring-based three-dimensional path planning via graphics processing unit simulation for subtractive three-dimensional printing
+A grid-based collaborative supply chain with multi-product multi-period production-distribution
+Thermodynamics and mechanism of demixing in undercooled Cu-Co-Ni alloys
+Thermodynamic properties and microstructure evolution of ternary Al-10%Cu-x%Sn immiscible alloys
+Cellular automaton simulation of three-dimensional dendrite growth in Al-7Si-Mg ternary aluminum alloys
+Effect of environmental oxygen content on the oxide inclusion in laser solid formed AISI 420 stainless steel
+Formation mechanisms of self-organized core/shell and core/shell/corona microstructures in liquid droplets of immiscible alloys
+Mechanisms and Modeling of Bake-Hardening Steels: Part I. Uniaxial Tension
+Phase separation in metallic glasses
+Microstructure morphologies during the transient solidification of hypomonotectic and monotectic Al-Pb alloys
+Ultrahigh Capacity Due to Multi-Electron Conversion Reaction in Reduced Graphene Oxide-Wrapped MoO2 Porous Nanobelts
+Nanocomposites based on polyurethanes and carbon nanoparticles: preparation, properties and application
+Polymer-inorganic supramolecular nanohybrids for red, white, green, and blue applications
+Polymer/montmorillonite nanocomposites with improved thermal properties Part I. Factors influencing thermal stability and mechanisms of thermal stability improvement
+Thermal stability and flame retardancy of polyurethanes
+Polymer/layered silicate (clay) nanocomposites: An overview of flame retardancy
+A review on polymer-layered silicate nanocomposites
+Recent Advances in the Synthesis and Application of Layered Double Hydroxide (LDH) Nanosheets
+坝址地震动输入机制探讨
+考虑横缝影响的拱坝动力分析
+地震波研究
+时域逐步积分算法稳定性与精度的对比分析
+Use of Transmitting Boundary for Loads Having Non-Vanishing Time Average
+Thermoacoustic properties of fibrous materials
+Analysis of Multi-Transmitting Formula for Absorbing Boundary Conditions
+Time-domain simulation of second-order irregular wave diffraction based on a hybrid water wave radiation condition
+Impurity and alloying effects on interfacial reaction layers in Pb-free soldering
+Review of non-reactive and reactive wetting of liquids on surfaces
+Evolution of CuSn intermetallics between molten SnAgCu solder and Cu substrate
+Deformation behavior of tin and some tin alloys
+Microstructure-based modeling of the ageing effect on the deformation behavior of the eutectic micro-constituent in SnAgCu lead-free solder 
+Wetting in Soldering and Microelectronics
+Review of non-reactive and reactive wetting of liquids on surfaces
+The formation of electric circuits with carbon nanotubes and copper using tin solder
+Freezing as a path to build complex composites
+Bioinspired structural materials
+Enhanced thermal shock resistance of ultra-high temperature ceramic by biomimetic surface modification
+The elastic properties, elastic models and elastic perspectives of metallic glasses
+Nanomechanical properties of wing membrane layers in the house cricket (Acheta domesticus Linnaeus)
+Tough, bio-inspired hybrid materials
+Biological materials: Structure and mechanical properties
+On the mechanics of mother-of-pearl: A key feature in the material hierarchical structure
+Modeling and Analysis of Functionally Graded Materials and Structures
+Effect of mono and composite coating on dynamic fracture toughness of metals at different temperatures
+Stochastic characteristics of powder metallurgy processing
+A piecewise exponential model for three-dimensional analysis of sandwich panels with arbitrarily graded core
+Anti-plane crack intersecting the interface in a bonded smart structure with graded magnetoelectroelastic properties
+Dynamic crack interactions in magnetoelectroelastic composite materials
+Transient dynamic crack analysis in linear magnetoelectroelastic solids by a hypersingular time-domain BEM
+Investigation of the behavior of a mixed-mode crack in a functionally graded magneto–electro-elastic material by use of the non-local theory
+Adhesion and friction in mesoscopic graphite contacts
+Towards macroscale superlubricity
+Self-assembly of graphene ribbons by spontaneous self-tearing and peeling from a substrate
+Electromechanical oscillations in bilayer graphene
+Carbon nanotubes for nanorobotics
+Nonlinear mechanical response and rippling of thick multiwalled carbon nanotubes
+Analysis of wave propagation in carbon nanotubes via elastic shell theories
+Tensile and tearing fracture properties of graphene oxide papers intercalated with carbon nanotubes
+The effects of residual stresses and degradation on the response of viscoplastic functionally graded materials
+Finite element analysis of crack closure in two-dimensional bodies subjected to heating
+Self-Standing crystalline TiO2 Nanotubes/CNTs heterojunction membrane: synthesis and characterization
+Investigation of crack propagation behavior of atmospheric plasma sprayed thermal barrier coatings under uniaxial tension using the acoustic emission technique
+Thermal fracture resistance of a functionally graded coating with periodic edge cracks
+Nanoscale room temperature creep of nanocrystalline nickel pillars at low stresses
+A new method to evaluate the fracture toughness of thin films
+Development of a novel alkaline zinc–iron plating bath containing sorbitol and the chemical, physical and morphological characterizatin of the Zn–Fe films
+A Numerical Study of Oscillating Peristaltic Flow of Generalized Maxwell Viscoelastic Fluids Througha Porous Medium
+On oscillating flows in randomly heterogeneous porous media
+The convective instability of Maxwell fluid-saturated porous layer using a thermal non-equilibrium model 
+Thermal instability in a rotating anisotropic porous layer saturated by a viscoelastic fluid
+Periodic unidirectional flows of a viscoelasticfluid with the fractional Maxwell model
+A Fourier method and an extrapolation technique for Stokes’ first problem for a heated generalized second grade fluid with fractional derivative
+Ca2+ waves in the heart
+Superresolution Modeling of Calcium Release in the Heart
+Progress in the application of fractal porous media theory to property analysis and process simulation in melt crystallization
+A multi-level fractal model for the effective thermal conductivity of silica aerogel
+Fractal Models in Exploration Geophysics Applications to Hydrocarbon Reservoirs
+Reticulated Nanoporous Polymers by Controlled Polymerization-Induced Microphase Separation
+Hierarchical Nanostructures Are Crucial To Mitigate Ultrasmall Thermal Point Loads
+The fastest capillary flow under gravity
+Acoustic method for permeability measurement of tissue-engineering scaffold
+A Review of Thermal Conductivity Models for Nanofluids
+Efficient Deterministic Modelling of Three-Dimensional Rarefied Gas Flows
+Convergence Issues in Using High-resolution Schemes and   Lower-Upper Symmetric Gauss-Seidel Method for Steady Shock-Induced Combustion Problems
+A unified gas-kinetic scheme for continuum and rarefied flows
+Numerical simulation of flows from free molecular regime to continuum regime by a DVM with streaming and collision processes
+Graphene growth under Knudsen molecular flow on a confined catalytic metal coil 
+On the application of the BGK kinetic model to the analysis of gas-structure interactions in MEMS
+Implicit unified gas-kinetic scheme for steady state solutions in all flow regimes 
+Asymptotic modelling of flows in microchannel by using Navier-Stokes or Burnett equations and comparison with DSMC simulations
+《非线性随机动力学与控制--Hamilton理论体系框架》评介
+随机动力系统中的概率密度演化方程及其研究进展
+Nonstationary response of nonlinear oscillators with optimal bounded control and broad-band noises
+Use of particle filters in an active control algorithm for noisy nonlinear structural dynamical systems
+Bounded nonlinear stochastic control based on the probability distribution for the sdof oscillator
+Non-linear stochastic controllers for semiactive and regenerative systems with guaranteed quadratic performance bounds-part 1: state feedback control
+A brief review of stochastic control of structures
+Response of nonlinear systems in probability domain using stochastic averaging

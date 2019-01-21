@@ -1,0 +1,354 @@
+Empirical likelihood confidence intervals for response mean with data missing at random||LIUGEN XUE
+Energy concentration for almost harmonic maps and the Willmore functional||Roger Moser
+Topological Degree for a Mean Field Equation on Riemann Surfaces||Chiun-Chuan Chen,Chang-Shou Lin
+Adaptive eigenspace method for inverse scattering problems in the frequency domain||Marcus J Grote,Marie Kray,Uri Nahum
+Wave packet analysis of Schr?dinger equations inanalytic function spaces||Elena Cordero,Fabio Nicola,Luigi Rodino
+Navier–Stokes equations and nonlinear heat equations in modulation spaces with negative derivative indices||Tsukasa Iwabuchi
+Finite Fields: Theory and Computation||Shparlinski Igor E
+LU-factorization versus Wiener-Hopf factorization for Markov chains||Vigon Vincent
+Decay rates for quasi-birth-and-death processes with countably many phases and tridiagonal block generators||Allan J. Motyer,Peter G. Taylor
+Second-order Markov reward models driven by QBD processes||Bean Nigel G,O'Reilly Ma,Gorzata M,Ren Yong
+Relativistic symmetries in nuclei and hadrons||Joseph N. Ginocchio
+Robust multispectral transparency in continuous metal film structures via multiple near-field plasmon coupling by a finite-difference time-domain method||Liu GQ,Hu Y,Liu ZQ,Chen YH,Cai ZJ
+Are Classical Molecular Mechanics Calculations Still useful in Bioinorganic Simulations?||Marc Zimmer
+Unusual thermodynamic properties and nonergodicity in ferroelectric superlattices||Kornev IA,Bellaiche L
+Triangulating the Galaxy||James J. Binney
+Photochromic organic–inorganic hybrid materials||Pardo R,Zayat M,Levy D
+Luminescent Functional Metal-Organic Frameworks||Yuanjing Cui,Yanfeng Yue,Guodong Qian,Banglin Chen
+Defect-related luminescent materials: synthesis, emission properties and applications||Zhang C,Lin J
+Effect of Hydrogen Bonds on pKa Values: Importance of Networking||Shokri A,Abedin A,Fattahi A,Kass SR
+Ruthenium-catalyzed azide alkyne cycloaddition reactions: scope, mechanism, and applications||Johansson JR,BekeSomfai T,Said Stålsmeden A,Kann N
+Chemical Probes for Molecular Imaging and Detection of Hydrogen Sulfide and Reactive Sulfur Species in Biological Systems||Lin VS,Chen W,Xian M,Chang CJ
+Synthesis and Applications of tert-Butanesulfinamide||Robak MT,Herbage MA,Ellman JA
+C2-Symmetric Chiral Bis(oxazoline) Ligands in Asymmetric Catalysis||Giovanni Desimoni,Giuseppe Faita,Karl Anker Joergensen
+Modern Organic Synthesis with α.Diazocarbonyl Compounds||Alan Ford,Hugues Miel,Aoife Ring,Catherine N. Slattery,Anita R. Maguire
+Importance of Ligand Exchanges in Pd(II)-Br?nsted Acid Cooperative Catalytic Approach to Spirocyclic Rings||Garima Jindal,Raghavan B. Sunoj
+Hollow Nanocrystals through the Nanoscale Kirkendall Effect||Wenshou Wang,Michael Dahl,Yadong Yin
+Decamethyldizincocene, a Stable Compound of Zn(I) with a Zn–Zn Bond||Resa I,Carmona E,GutierrezPuebla E,Monge A
+Zinc-Zinc Bonds: A New Frontier||Gerard Parkin
+Au@TiO2 Yolk–shell Hollow Spheres for Plasmon Induced Photocatalytic Reduction of CO2 to Solar Fuel via a Local Electromagnetic Field||Tu W,Zhou Y,Li H,Li P,Zou Z
+Interfacial molecular recognition of non-surface-active species at Langmuir monolayers||D. Vollhardt
+Optical chirality sensing using macrocycles,synthetic and supramolecular oligomers/polymers, and nanoparticle based sensors||Chen Z,Wang Q,Wu X,Li Z,Jiang YB
+Measuring Single Small Molecule Binding via Rupture Force of a Split Aptamer||Nguyen TH,Steinbock LJ,Butt HJ,Helm M,Berger R
+Chemical Design of Nanoparticle Probes for High-Performance Magnetic Resonance Imaging||Jun YW,Lee JH,Cheon J
+Aqueous Synthesis of Glutathione-Capped ZnSe and Zn1–xCdxSe Alloyed Quantum Dots||Zheng Y,Yang Z,Ying J.&thinsp;Y
+Designer Polymer–Quantum Dot Architectures||Nikodem Tomczak,Dominik Jańczewski,Mingyong Han,G. Julius Vancso
+Enantioselective Hydrogenation of Isoquinolines||Zhao D,Glorius F
+Sequential C-H Arylation and Enantioselective Hydrogenation Enables Ideal Asymmetric Entry to the Indenopiperidine Core of an 11β-HSD?1 Inhibitor||Xudong Wei,Bo Qu,Xingzhong Zeng,Jolaine Savoie,Keith R. Fandrick
+Synthesis of Spirocyclic Indolenines||James MJ,O'Brien P,Taylor RJ,Unsworth WP
+Chiral Bronsted acids in enantioselective carbonyl activations - activation modes and applications||Rueping M,Kuenkel A,Atodiresei I
+Chiral Sulfonimide as a Bronsted Acid Organocatalyst for Asymmetric Friedel-Crafts Alkylation of Indoles with Imines||Chen LY,He H,Chan WH,Lee AW
+Tandem Catalysis Utilizing Olefin Metathesis Reactions||Zieliński GK,Grela K
+Biofouling resistance of reverse osmosis membrane modified with polydopamine||Hamed Karkhanechi,Ryosuke Takagi,Hideto Matsuyama
+Synthesis and Characterization of Aminopropyltriethoxysilane-Polydopamine Coatings||Knorr DB,Tran NT,Gaskell KJ,Orlicki JA,Woicik JC
+Graphitic Carbon Nitride (g-C3N4)-Based Photocatalysts for Artificial Photosynthesis and Environmental Remediation: Are We a Step Closer To Achieving Sustainability?||WeeJun Ong,LlingLling Tan,Yun Hau Ng,SiekTing Yong,SiangPiao Chai
+Ionic liquids as amphiphile self-assembly media||Greaves TL,Drummond CJ
+The use of nanoparticles in electroanalysis: a review||Christine M. Welch,Richard G. Compton
+Photogeneration and reactivity of naphthoquinone methides as purine selective DNA alkylating agents||Verga D,Nadai M,Doria F,Percivalle C,Di Antonio M
+Nickel Homeostasis and Nickel Regulation: An Overview||Li Y,Zamble DB
+Do the Structural Changes Defined by the Electron Density Topology Necessarily Affect the Picture of the Bonding?||Robert Ponec,Carlo Gatti
+Statics and Dynamics of Ferroelectric Domains in Diisopropylammonium Bromide||Lu Haidong,Li Tao,Poddar Shashi,Goit Om,Lipatov Alexey
+There’s Room in the Middle||Anthony K. Cheetham,C. N. R. Rao
+Collective In-Plane Molecular Rotator Based on Dibromoiodomesitylene π?Stacks||Junichi Ichikawa,Norihisa Hoshino,Takashi Takeda,Tomoyuki Akutagawa
+Materials-based approaches to minimizing solvent usage in analytical sample preparation||Zhenzhen Huang,Hian Kee Lee
+Separation of Hexane Isomers in a Metal-Organic Framework with Triangular Channels||Herm ZR,Wiers BM,Mason JA,van Baten JM,Hudson MR
+Porous Nanosized Particles: Preparation, Properties, and Applications||Valentin Valtchev,Lubomira Tosheva
+Mn-doped ZnS quantum dots for the determination of acetone by phosphorescence attenuation||Sotelo-Gonzalez E,Fernandez-Argüelles MT,Costa-Fernandez JM,Sanz-Medel A
+Tosylhydrazones: New Uses for Classic Reagents in Palladium-Catalyzed Cross-Coupling and Metal-Free Reactions||Barluenga J,Valdés C
+Acyl-Carbene and Methyl-Carbene Coupling via Migratory Insertion in Palladium Complexes||Isabel Meana,Ana C. Albéniz,Pablo Espinet
+Progress in enzyme immobilization in ordered mesoporous materials and related applications||Zhou Z,Hartmann M
+Semiconductor quantum dots for bioanalysis||Gill R,Zayats M,Willner I
+A genetically targetable near-infrared photosensitizer||He J,Wang Y,Missinato MA,Onuoha E,Perkins LA
+A highly thermally stable ferroelectric metal–organic framework and its thin film with substrate surface nature dependent morphology||Pan C,Nan J,Dong X,Ren XM,Jin W
+True negative thermal expansion in Mn-doped LaCu3Fe4O12 perovskite oxides||Ikuya Yamada,Shohei Marukawa,Makoto Murakami,Shigeo Mori
+One-dimensional nanostructures of ferroelectric perovskites||R&oslash;rvik Per Martin,Grande Tor,Einarsrud Mari‐Ann
+Multi-Scale Systems Engineering for Energy and the Environment: Challenges and Opportunities||Floudas Christodoulos A,Niziolek Alexander M,Onel Onur,Matthews Logan R
+Catalytic steam reforming of biomass tar: Prospects and challenges||Guan GuoQing,Kaewpanha M,Hao XiaoGang,Abudula A
+Effect of pyrolysis temperature on lignite char properties and slurrying ability||Yan Li,Zhi-Hua Wang,Zhen-Yu Huang,Jian-Zhong Liu,Jun-Hu Zhou
+Conjugated polyelectrolytes as fluorescent sensors||Yan Liu,Katsu Ogawa,Kirk S. Schanze
+Recent advances on polyoxometalate-based molecular and composite materials||Song YF,Tsunashima R
+Graphene nanosheet: synthesis, molecular engineering, thin film, hybrids, and energy and analytical applications||Guo S,Dong S
+Diphosphine probe molecules and solid-state NMR investigations of proximity between acidic sites in zeolite HY||Luming Peng,Clare P. Grey
+Soil organic carbon stocks in China and changes from 1980s to 2000s||XIE ZUBIN,ZHU JIANGUO,LIU GANG,CADISCH GEORG,HASEGAWA TOSHIHIRO
+Rainfall-runoff relations for karstic springs. Part I: convolution and spectral analyses||Labat D,Ababou R,Mangin A
+Toward improved identification of hydrological models: A diagnostic evaluation of the “abcd” monthly water balance model for the conterminous United States||Martinez Guillermo F,Gupta Hoshin V
+A novel dispersal algorithm in individual-based, spatially-explicit Population Viability Analysis: A new role for genetic measures in model testing||Mark R. Lethbridge,Jessica C. Strauss
+Ammonia may play an important role in the succession of cyanobacterial blooms and the distribution of common algal species in shallow freshwater lakes||Guo-Zheng Dai,Jin-Long Shang,Bao-Sheng Qiu
+The effect of pressure on sulphur speciation in mid-to deep-crustal arc magmas and implications for the formation of porphyry copper deposits||Vladimir Matjuschkin,Jon D. Blundy
+Global continental and ocean basin reconstructions since 200 Ma||M. Seton,R.D. Müller,S. Zahirovic,C. Gaina,T. Torsvik
+Advances in mass spectrometric characterization of naphthenic acids fraction compounds in oil sands environmental samples and crude oil-a review||Headley JV,Peru KM,Barrow MP
+Uncommon steranes in Brazilian marginal crude oils: Dinoflagellate molecular fossils in the Sergipe-Alagoas Basin, Brazil||Bruno Quirino Ara&uacute;jo,D&eacute;bora de Almeida Azevedo
+Observations of the Mindanao Current during the western equatorial Pacific Ocean circulation study||Roger Lukas,Eric Firing,Peter Hacker,Philip L. Richardson,Curtis A. Collins
+The mean structure and variability of the Mindanao Current at 8N||Susan Wijffels,Eric Firing,John Toole
+Subtleties of human exposure and response to chemical mixtures from spills||Phetxumphou K,Dietrich AM,Shanaiah N,Smiley E,Gallagher DL
+The importance of evaluating the physicochemical and toxicological properties of a contaminant for remediating environments affected by chemical incidents||Wyke S,PeñaFernández A,Brooke N,DuarteDavidson R
+Gold and silver metallogeny of the South China Fold Belt: a consequence of multiple mineralizing events?||Franco Pirajno,Leon Bagas
+Trace-element composition of hydrothermal zircon and the alteration of Hadean zircon from the Jack Hills, Australia||Paul W.O. Hoskin
+Comparative Studies of the Petrochemistry of Sn–W-Mineralized Granitoids: Continent vs. Island Arc||Ishihara Shunso
+Titanium Oxide Nanosheets: Graphene Analogues with Versatile Functionalities||Wang L,Sasaki T
+Photocatalytic Reduction of CO2 on TiO2 and Other Semiconductors||Habisreutinger SN,SchmidtMende L,Stolarczyk JK
+Progress in bismuth vanadate photoanodes for use in solar water oxidation||Park Y,McDonald KJ,Choi KS
+Electrochemical Synthesis of Photoelectrodes and Catalysts for Use in Solar Water Splitting||Kang D,Kim TW,Kubota SR,Cardiel AC,Cha HG
+The global cryosphere: past, present and future||Frederick E. Nelson
+Observed changes in pan-arctic cold-season minimum monthly river discharge||Asa K. Rennermalm,Eric F. Wood,Tara J. Troy
+A review of the challenges in the chemical analysis of the polybrominated diphenyl ethers||Anne P. Vonderheide
+Recent Trends in IJGISc||Brian Lees
+Examine urban expansion from remote sensing and GIS a case study in Beijing||Yichun XIE,Zuojiang FAN
+On a possible parent crater for Australasian tektites: Geochemical, isotopic, geographical and other constraints||Jiří Mizera,Zdeněk Řanda,Jan Kameník
+Drylands extent and environmental issues. A global approach||Remus Pravalie
+The environmental significance of ventifacts: A critical review||Jasper Knight
+Molecular evidence for Pleistocene refugia at the eastern edge of the Tibetan Plateau||XIANGJIANG ZHAN †,YIFANG ZHENG †,FUWEN WEI,MICHAEL W. BRUFORD ‡,CHENXI JIA ‡
+Strengthening the link between geochronology, textures and petrology||Wolfgang Müller
+Recent advances in nanoelectrode architecture for photochemical hydrogen production||Hyung Gyu Park) Institute of Energy Technology Department of Mechanical and Process Engineering Swiss Federal Institute of Technology (ETH,Jason K. Holt
+Graphitic Carbon Nitride (g-C3N4)-Based Photocatalysts for Artificial Photosynthesis and Environmental Remediation: AreWe a Step Closer To Achievin Sustainability||WeeJun Ong,LlingLling Tan,Yun Hau Ng,SiekTing Yong,SiangPiao Chai
+Two-dimensional covalent carbon nitride nanosheets: synthesis, functionalization, and applications||Jinshui Zhang,Yan Chen,Xinchen Wang
+Elucidation of intermediates and mechanisms in heterogeneous catalysis using infrared spectroscopy||Savara A,Weitz E
+Nature and significance of the Early Cretaceous giant igneous event in eastern China||Fu-Yuan Wu,Jing-Qian Lin,Simon A. Wilde,Xiao'Ou Zhang,Jin-Hui Yang
+Early Cretaceous volcanism in the northern Songliao Basin, NE China, and its geodynamic implication||F.Q. Zhang,H.L. Chen,X. Yu,C.W. Dong,S.F. Yang
+Giant Mesozoic gold provinces related to the destruction of the North China craton||Jian-Wei Li,Shi-Jian Bi,David Selby,Lei Chen,Paulo Vasconcelos
+Ceria-based catalysts for low-temperature selective catalytic reduction of NO with NH3||Changjin Tang,Hongliang Zhang,Lin Dong
+Mechanism of arsenic poisoning on SCR catalyst of CeW/Ti and its novel efficient regeneration method with hydrogen||Xiang Li,Junhua Li,Yue Peng,Huazhen Chang,Tao Zhang
+Flame-made WO3/CeOx-TiO2 catalysts for selective catalytic reduction of NOx by NH3||Katarzyna Anna MichalowMauke,Ye Lu,Kazimierz Kowalski,Thomas Graule,Maarten Nachtegaal
+Development of a detailed surface mechanism for the selective catalytic reduction of NOx with ethanol on silver alumina catalyst||Yuk Fai Tham,J.-Y. Chen,Robert W. Dibble
+Catalytic NOx abatement systems for mobile sources: From three-way to lean burn after-treatment technologies||Pascal Granger,Vasile I. Parvulescu
+Zircon U-Pb and Hf isotopic constraints on the onset time of India-Asia Collision||Fu-Yuan Wu,Wei-Qiang Ji,Jian-Gang Wang,Chuan-Zhou Liu,Sun-Lin Chung
+Indian Ocean Circulation and climate variability||Schott Friedrich A,Xie Shang‐Ping,McCreary Julian P
+The dynamics of zonal current variations in the central equatorial Indian Ocean||Nagura Motoki,McPhaden Michael J
+A diagnostic calculation of the circulation in the upper and middle layers of the Luzon Strait and the northern South China Sea during March 1992||Malinowska K,Modranka R,Kubiak K,Klimczak A,Mrowicka M
+Effect of climate change over the past half century on the distribution, extent and NPP of ecosystems of Inner Mongolia||ZHANG GUOGANG,KANG YUMEI,HAN GUODONG,SAKURAI KATSUTOSHI
+Human population distribution modelling at regional level using very high resolution satellite imagery||Tobias Lung,Tillmann Lübker,James K. Ngochoch,Gertrud Schaab
+Source–sink communication: regulated by hormone, nutrient, and stress cross-signaling||Yu SM,Lo SF,Ho TD
+Profiling of phenylpropanoids in transgenic low-sinapine oilseed rape  (Brassica napus)||Karina Wolfram,Jürgen Schmidt,Victor Wray,Carsten Milkowski,Willibald Schliemann
+Shaping a better rice plant||Springer N
+Crop genetics: Resequencing sows the seeds||Flintoft L
+Genonics and the contrasting dynamics of annual and perennial domestication||Gaut BS,Díez CM,Morrell PL
+Biotechnology offers revolution to ?sh health management||Adams A,Thompson KD
+Immunoproteomically identified GBAA_0345, alkyl hydroperoxide reductase subunit C is a potential target for multivalent anthrax vaccine||Kim YH,Kim KA,Kim YR,Choi MK,Kim HK
+The outer membrane protein OmpW forms an eight-stranded β- barrel with a hydrophobic channel||Heedeok Hong,Dimki R. Patel,Lukas K. Tamm,Bert van den Berg
+On the front line: structural insights into plant–pathogen interactions||Wirthmueller L,Maqbool A,Banfield MJ
+Effects of Creatine Monohydrate Augmentation on Brain Metabolic and Network Outcome Measures in Women With Major Depressive Disorder.||Yoon S,Kim JE,Hwang J,Kim TS,Kang HJ
+西藏自治区湿地保护分区布局探讨||桂来庭,罗怀斌,张铁平
+Intraspecific competition and fungal diseases as sources of variation in sunflower yield||V.O. Sadras,N. Trápani,V.R. Pereyra,M. López Pereira,F. Quiroz
+Histone lysine demethylases as targets for anticancer therapy.||Højfeldt JW,Agger K,Helin K
+Advances and challenges in understanding histone demethylase biology.||Nowak RP,Tumber A,Johansson C,Che KH,Brennan P
+Molecular mechanisms and potential functions of histone demethylases.||Kooistra SM,Helin K
+Functions and Regulation of Programmed Cell Death in Plant Development||Daneva A,Gao Z,Van Durme M,Nowack MK
+Sugar modification inhibits autophagosome-lysosome fusion||Mizushima N
+De novo mutations in the autophagy gene WDR45 cause static encephalopathy of childhood with neurodegeneration in adulthood||Saitsu H; Nishimura T; Muramatsu K; Kodera H; Kumada S; Sugai K; Kasai-Yoshida E; Sawaura N; Nishida H; Hoshino A; Ryujin F; Yoshioka S; Nishiyama K; Kondo Y; Tsurusaki Y; Nakashima M; Miyake N; Arakawa H; Kato M; Mizushima N; Matsumoto N
+Can the War on Locusts Be Won?||Martin Enserink
+Locust Phase Polyphenism: An Update||Pener MeirPaul,Simpson StephenJ
+Noncoding RNAs and myocardial fibrosis||Thomas Thum
+FOXOs: signalling integrators for homeostasis maintenance||Eijkelenboom A,Burgering BM
+Cytosolic FoxO1: alive and killing||Medema RH,Jäättelä M
+A Werner syndrome stem cell model unveils heterochromatin alterations as a driver of human aging||Zhang W,Li J,Suzuki K,Qu J,Wang P
+Mechanisms of drug release in nanotherapeutic delivery systems||Wong PT,Choi SK
+Dendrimer space concept for innovative nanomedicine: A futuristic vision for medicinal chemistry||Serge Mignani,Saïd El Kazzouli,Mosto Bousmina,Jean-Pierre Majoral
+Eradication of CD44-variant positive population in head and neck tumors through controlled intracellular navigation of cisplatin-loaded nanomedicines||Ming Wang,Yutaka Miura,Kenji Tsuchihashi,Kazuki Miyano,Osamu Nagano
+Cardiovascular biology: heart fails without pump partner||Shenoy SK,Rockman HA
+Nonviral vector-mediated RNA interference: its gene silencing characteristics and important factors to achieve RNAi-based gene therapy.||Takahashi Y,Nishikawa M,Takakura Y
+Deciphering the epigenetic network in colorectal cancer||Gemma Domínguez
+Interactions between innate and adaptive lymphocytes||Gasteiger G,Rudensky AY
+Tissue residency of innate lymphoid cells in lymphoid and nonlymphoid organs||Georg Gasteiger,Xiying Fan,Stanislav Dikiy,Sue Y. Lee,Alexander Y. Rudensky
+No cohesion for cohesin's role||Sarah Seton-Rogers
+The delivery of therapeutic oligonucleotides||Juliano RL
+Tumor delivery of antisense oligomer using trastuzumabwithin a streptavidin nanoparticle.||Yi Wang,Xinrong Liu,Ling Chen
+Intramolecular Donor-Acceptor Cyclopropane Ring-Opening Cyclizations.||Cavitt MA,Phun LH,France S
+Catalytic Asymmetric Synthesis of Pyrroloindolines via a Rhodium(II)-Catalyzed Annulation of Indoles.||Jillian E. Spangler,Huw M. L. Davies
+Bioinorganic chemistry of Alzheimer's disease||Kepp KP
+Neuroscience： Spotlight on deep-brain stimulation||Benabid AL
+Effects of metabolic syndrome on masseter muscle of male Wistar rats||H Can Tükel,?zlem Alptekin,Belma Turan,Ertan Delilba??
+Recent Advances in Cell Sheet Technology for Periodontal Regeneration||Wang J,Zhang R,Shen Y,Xu C,Qi S
+Pharmacological investigations on cross adaptation in mice subjected to stress immobilization||Chauhan E,Bali A,Singh N,Singh Jaggi A
+Role of nanostructured biopolymers and bioceramics in enamel, dentin and periodontal tissue regeneration||S. Sowmya,Joel D. Bumgardener,Krishna Prasad Chennazhi,Shantikumar V. Nair,R. Jayakumar
+Aluminium chloride impairs long-term memory and downregulates cAMP-PKA-CREB signalling in rats||Zhang L,Jin C,Lu X,Yang J,Wu S
+Nanotechnology-Based Drug Delivery Systems for Targeting, Imaging and Diagnosis of Neurodegenerative Diseases||Pehlivan SB
+Oxidative stress and mitochondrial dysfunction in aluminium neurotoxicity and its amelioration: A review||Kumar V,Gill KD
+The rhizome of Gastrodiaelata Blume – An ethnopharmacological review||Zhan HD,Zhou HY,Du XL,Sui YP,Wang WH
+Integrated online virtual metrology and fault detection in plasma etch tools||Bo Lu,John Stuber,Thomas F. Edgar
+Reliability modeling and life estimation using an expectation maximization based Wiener  degradation model for momentum wheels||Hong Li,Donghui Pan,C. L. Philip Chen
+Improved PLS focused on key-performance-indicator-related fault diagnosis||Shen Yin,Xiangping Zhu,Okyay Kaynak
+Delay-dependent robust stability and L2-gain analysis of a class of nonlinear time-delay systems||Coutinho Daniel F,de Souza Carlos E
+New results on stabilization of Markovian jump systems with time delay||Zhongyang Fei,Huijun Gao,Peng Shi
+Novel results on generalized dissipativity of two-dimensional digital filters||Choon Ki Ahn,Peng Shi,Hamid Reza Karimi
+Extended dissipative analysis for neural networks with time-varying delays||Lee TH,Park MJ,Park JH,Kwon OM,Lee SM
+Robust Novelty Detection via Worst Case CVaR Minimization||Wang Y,Dang C,Wang S
+Dynamic surface control using neural networks for a class of uncertain nonlinear systems with input saturation||Chen M,Tao G,Jiang B
+Improved results on statistic information control with a dynamic neural network identifier||Yang Yi,Wei Xing Zheng,Lei Guo
+Approximation-based adaptive tracking control for MIMO nonlinear systems with input saturation||Zhou Q,Shi P,Tian Y,Wang M
+Network-induced constraints in networked control systems-a survey||Lixian Zhang,Huijun Gao,Okyay Kaynak
+Improvement of state feedback controller design for networked control systems||Bin Tang,Guo-Ping Liu,Wei-Hua Gui
+Recent advances on fuzzy-model-based nonlinear networked control systems:a survey||Jianbin Qiu,Huijun Gao,Steven X. Ding) Institute for Automatic Control and Complex Systems (AKS
+On improved robust stabilization of uncertain systems with unknown input delay||Chen Wu-Hua,Zheng Wei Xing
+Adaptive Stabilization and Synchronization for Chaotic Lur’e Systems With Time-Varying Delay||Jianquan Lu,Jinde Cao,Daniel W. C. Ho
+Survey on data-driven industrial process monitoring and diagnosis||S. Joe Qin
+Monitoring for Nonlinear Multiple Modes Process Based on LL-SVDD-MRDA||Wenli Du,Ying Tian,Feng Qian
+Injection Molding Quality Control by Integrating Weight Feedback into a Cascade Closed-Loop Control System||Zhongbao Chen,Lih-Sheng Turng
+Quality control using a multivariate injection molding sensor||Guthrie Gordon,David O. Kazmer,Xinyao Tang
+Manipulation of terahertz radiation using metamaterials||H.-T. Chen,J.F. O'Hara,A.K. Azad,A.J. Taylor
+Review on advances in porous nanostructured nickel oxides and their composite electrodes for high-performance supercapacitors||Md Moniruzzaman Sk,Chee Yoon Yue,Kalyan Ghosh,Rajeeb Kumar Jena
+Histone deacetylase inhibitors (HDACIs). Structureuactivity relationships: history and new QSAR perspectives||Pontiki Eleni,Hadjipavlou‐Litina Dimitra
+From heuristic optimization to dictionary learning: a review and comprehensive comparison of image denoising algorithms||Ling Shao,Ruomei Yan,Xuelong Li,Yan Liu
+Sparse representation for range data restoration||Mahmoudi M,Sapiro G
+Bellwether Analysis: Searching for Cost-Effective Query-Defined Predictors in Large Databases||Chen Bee-Chung,Ramakrishnan Raghu,Shavlik Jude W,Tamma Pradeep
+Observer-based synchronization for a class of fractional chaotic systems via a scalar signal: Results involving the exact solution of the error dynamics||DONATO CAFAGNA,GIUSEPPE GRASSI
+Hyperchaos in the fractional-order Rossler system with lowest-order||DONATO CAFAGNA,GIUSEPPE GRASSI
+ZnO Multipods, Submicron Wires, and Spherical Structures and Their Unique Field Emission Behavior||Niranjan S. Ramgir †,Dattatray J. Late ‡,Ashok B. Bhise ‡,Mahendra A. More ‡,Imtiaz S. Mulla †
+Probing the Optical Property and Electronic Structure of TiO2 Nanomaterials for Renewable Energy Applications||Kapilashrami M,Zhang Y,Liu YS,Hagfeldt A,Guo J
+Learning from more than one data source: data fusion techniques for sensorimotor rhythm-based brain-computer interfaces||Siamac Fazli,Sven Dähne,Wojciech Samek,Felix Bießmann,Klaus-Robert Müller
+Brain-computer interface after nervous system injury||Burns A,Adeli H,Buford JA
+Learning fuzzy rules from fuzzy samples based on rough set technique||Xizhao Wang,Eric C.C. Tsang,Suyun Zhao,Degang Chen,Daniel S. Yeung
+Engineering change: an overview and perspective on the literature||T. A. W. Jarratt,C. M. Eckert,N. H. M. Caldwell
+RFID-enabled track and traceability in job-shop scheduling environment||Jongsawas Chongwatpol,Ramesh Sharda
+Scalability in manufacturing systems design and operation: State-of-the-art and future developments roadmap||G. Putnik,A. Sluga,H. ElMaraghy,R. Teti,Y. Koren
+The application of an artificial immune system-based back-propagation neural network with feature selection to an RFID positioning system||R. J. Kuo,M. C. Shieh,J. W. Zhang,K. Y. Chen
+White Organic Light Emitting Diodes||R. Coehoorn,H. Boerner
+Nanocrystallized Organic Thin Films as Effective Light Outcoupling Layers for Organic Light-Emitting Diodes||Chen Shuming,Kwok Hoi‐Sing
+Validating ajax applications using a delay-based mutation technique||Maezawa Yuta,Nishiura Kazuki,Washizaki Hironori,Honiden Shinichi
+New conditions for global exponential stability of cellular neural networks with delays||Zhao H,Cao J
+Two-Stage Orthogonal Least Squares Methods for Neural Network Construction||Zhang L,Li K,Bai EW,Irwin GW
+A novel strategy for solving the stochastic point location problem using a hierarchical searching scheme||Yazidi A,Granmo OC,John Oommen B,Goodwin M
+Recovery of rectified signals from hotwire/film anemometers due to flow reversal in oscillating flows||Yingchen Yang,Jones D.L,Chang Liu
+Neural controller design-based adaptive control for nonlinear MIMO systems with unknown hysteresis inputs||Liu YJ,Tong S,Chen CL,Li DJ
+公开评价||
+The exterior matrix method for sequentially coupled fourth-order equations||William H. Paulsen
+Building a low-energy transparent optical wide area network with "multipaths"||Davide Cuda,Raluca-Maria Indre,Esther Le Rouzic,James Roberts
+Exploiting wireless connectivity for robustness in WOBAN||Thota S,Bhaumik P,Chowdhury P,Mukherjee B,Sarkar S
+Neural network control of resistive wall modes in tokamaks||Sun Z,Sen A.K
+Improved free-weighting matrix approach for stability analysis of discrete-time recurrent neural networks with time-varying delay||Min Wu,Fang Liu,Peng Shi,Yong He,Ryuichi Yokoyama
+Lagrange programming neural network for nondifferentiable optimization problems in sparse approximation||Ruibin Feng,Chi-Sing Leung,Anthony G. Constantinides,Wen-Jun Zeng
+Nonlinear dynamic matrix control based on multiple operating models||Zhong Zhao,Xiaohua Xia,Jingchun Wang,Jian Gu,Yihui Jin
+Nanoparticles meet electrospinning: recent advances and future prospects||Zhang CL,Yu SH
+Preparation of antimicrobial ultrafine cellulose acetate fibers with silver nanoparticles||Son Won Keun,Youk Ji Ho,Lee Taek Seung,Park Won Ho
+Phase separation in metallic glasses||D.H. Kim,W.T. Kim,E.S. Park,N. Mattern,J. Eckert
+Relationship between structure,dynamics, and mechanical properties in metallic glass-forming alloys||Cheng Y. Q,Sheng H. W,Ma E
+Electronic structure inheritance and pressure-induced polyamorphism in Lanthanide-based metallic glasses||Li G,Wang YY,Liaw PK,Li YC,Liu RP
+Glass forming ability and short-range order in a binary bulk metallic glass by ab initio molecular dynamics||Jakse N,Pasturel A
+Metallization and nanostructuring of semiconductor surfaces by galvanic displacement processes||Carlo Carraro,Roya Maboudian,Luca Magagnin
+Opportunities in nanometer sized Si wires for PV applications||Jaswinder Kaur Mann,Rufi Kurstjens,Geoffrey Pourtois,Melina Gilbert,Frederic Dross
+Bio-inspired photonic crystals with superwettability||Kuang M,Wang J,Jiang L
+Highly Stable and Active Pt-Cu Oxygen Reduction Electrocatalysts Based on Mesoporous Graphitic Carbon Supports||Gaurav Gupta,Daniel A. Slanac,Pavan Kumar,Jaclyn D. WigginsCamacho,Xiqing Wang
+Structural variation and water adsorption of a SnO2 coated carbon nanotube: a nanoscale chemical imaging study||Jigang Zhou,Jian Wang,Haitao Fang,TsunKong Sham
+Critical dependence of magnetostructural coupling and magnetocaloric effect on particle size in Mn-Fe-Ni-Ge compounds||Wu R,Shen F,Hu F,Wang J,Bao L
+Metal–organic framework composites||Zhu QL,Xu Q
+An overview of electrode materials in microbial fuel cells||Minghua Zhou,Meiling Chi,Jianmei Luo,Huanhuan He,Tao Jin
+Preparation,thermal properties and applications of shape-stabilized thermal energy storage materials||Guiyin Fang,Fang Tang,Lei Cao
+TiO2-based superhydrophobic–superhydrophilic pattern with an extremely high wettability contrast||Shunsuke Nishimoto,Michiaki Becchaku,Yoshikazu Kameshima,Yuki Shirosaki,Satoshi Hayakawa
+Implantation of nanomaterials and nanostructures on surface and their applications||Chunli Bai,Minghua Liu
+Development of functional nanostructures and their applications in catalysis and solar cells.||Zhenhe Xu,Yanlong Liu,Fuqiang Ren,Fan Yang,Dongling Ma
+Friction stir casting modification for enhanced structural efficiency||Saumyadeep Jana,Rajiv Mishra,Glenn Grant
+Effect of welding motion and pre-/post- annealing of friction stir welded AA5754 joints||M. Cabibbo,A. Forcellese,M. Simoncini,M. Pieralisi,D. Ciccarelli
+Cryogenic friction-stir processing of ultrafine-grained Al-Mg-TiO2  nanocomposites||F. Khodabakhshi,A.P. Gerlich,A. Simchi,A.H. Kokabi
+Transition metal-catalyzed living radical polymerization: toward perfection in catalysis and precision polymer synthesis||Ouchi M,Terashima T,Sawamoto M
+Nanofiber micelles from the self-assembly of block copolymers||Jieshu Qian,Meng Zhang,Ian Manners,Mitchell A. Winnik
+Solvent tunable self-assembly of amphiphilic rod-coil block copolymers with chiral, helical polycarbodiimide segments: polymeric nanostructures with variable shapes and sizes||James F. Reuther,Dumindika A. Siriwardane,Raymond Campos,Bruce M. Novak
+Self-assembly of polypeptide-based block copolymer amphiphiles||Autumn Carlsen,Sébastien Lecommandoux
+Recent advances in research on carbon nanotube-polymer composites||Byrne MT,Gun'ko YK
+Pillar-Shaped Macrocyclic Hosts Pillar[n]arenes: New Key Players for Supramolecular Chemistry||Ogoshi T,Yamagishi TA,Nakamoto Y
+Synthetic Self-Assembled Materials in Biological Environments||Versluis F,van Esch JH,Eelkema R
+Serendipitous Synthesis of Ag1.92Mo3O10?H2O Nanowires from AgNO3?Assisted Etching of Ammonium Phosphomolybdate: A Material with High Adsorption Capacity||Chanchal Mondal,Jaya Pal,Kuntal Kumar Pal,Anup Kumar Sasmal,Mainak Ganguly
+Large scale, low temperature hotplate synthesis of germanium dioxide nanowires||Muhammad Farhan,Muhammad A. Khan,Timothy P. Hogan
+Engineering nanoassemblies of polysaccharides||Boddohi S,Kipper MJ
+Remotely triggerable drug delivery systems||Timko BP,Dvir T,Kohane DS
+Gated hybrid delivery systems: En route to sensory materials with inherent signal amplification||Mandy Hecht,Estela Climent,Mustafa Biyikal,Félix Sancenón,Ramón Martínez-Máñez
+Precursor of Shish-Kebab in Atactic Polystyrene/Isotactic Polystyrene Blend above Nominal Melting Temperature||Cong Deng,Tetsuaki Fujiwara,Inga Polec,Go Matsuba,Ling Jin
+Aggregation-Induced Emission: Together We Shine, United We Soar||Mei J,Leung NL,Kwok RT,Lam JW,Tang BZ
+Poly(aryleneethynylene)s (PAE) as Paradigmatic Sensor Cores||Bunz UH,Seehafer K,Bender M,Porz M
+Metal- and Anion-Binding Supra-molecular Gels||MarcOliver M. Piepenbrock,Gareth O. Lloyd,Nigel Clarke,Jonathan W. Steed
+Solution-Phase Extraction of Ultrathin Inner Shells from Double-Wall Carbon Nanotubes||Yasumitsu Miyata,Marie Suzuki,Miho Fujihara,Yuki Asada,Ryo Kitaura
+Crystalline materials: Twin behaviour and size||Kraft O
+Nanostructured alloys: large tensile elongation||Valiev RZ
+Superhard materials are cut out for a tough life||Cordelia Sealy
+Integrated modeling of friction stir welding of 6xxx series Al alloys: Process, microstructure and properties||A. Simar,Y. Bréchet,B. de Meester,A. Denquin,C. Gallais
+Mechanistic coupling of dislocation and shear transformation zone plasticity in crystalline-amorphous nanolaminates||Bin Cheng,Jason R. Trelewicz
+Engineered nanomembranes for smart energystorage devices||Wang X,Chen Y,Schmidt OG,Yan C
+Focusing on energy and optoelectronic applications: A journey for graphene and graphene oxide at large scale||Xiangjian Wan,Yi Huang,Yongsheng Chen
+Electrochemistry of Graphene and Related Materials||Adriano Ambrosi,Chun Kiang Chua,Alessandra Bonanni,Martin Pumera
+Defect-related luminescent materials: synthesis,emission properties and applications||Zhang C,Lin J
+Porous Anodic Aluminum Oxide: Anodization and Templated Synthesis of Functional Nanostructures||Lee W,Park SJ
+Particle size distribution and composition in phase-separated Cu 75 Co 25 alloys under various magnetic fields||Yikun Zhang,Jianrong Gao,Hideyuki Yasuda,Matthias Kolbe,Gerhard Wilde
+Microstructure and performance of solid TC4 titanium alloy subjected to the high pulsed magnetic field treatment||G.R. Li,Y.M. Li,F.F. Wang,H.M. Wang
+Thermal management of time-varying high heat flux electronic devices||T. David,D. Mendler,A. Mosyak,A. Bar-Cohen,G. Hetsroni
+Time-strip visualization and thermos-hydrodynamics in a Closed Loop Pulsating Heat Pipe||Giulia Spinato,Navid Borhani,Brian P. d'Entremont,John R. Thome
+Ceramic-like wear behaviour of human dental enamel||J.A. Arsecularatne,M. Hoffman
+A simple framework for relating variations in runoff to variations in climatic conditions and catchment properties||Michael L. Roderick,Graham D. Farquhar
+Applying multi-parameter runoff elasticity to assess water availability in a changing climate: an example from Texas, USA||Brikowski T. H
+Attribution for decreasing streamflow of the Haihe River basin, northern China: climate variability or human activities?||Zhenxin Bao,Jianyun Zhang,Guoqing Wang,Guobin Fu,Ruimin He
+Non-linear torsion behaviour of concrete filled steel tube columns||Yu-Hang Wang,Xu-Hong Zhou
+Photocatalytic degradation of two volatile fatty acids in an annular plug-flow reactor; Kinetic modeling and contribution of mass transfer rate||PierreFrançois Biard,Abdelkrim Bouzaza and,Dominique Wolbert
+Evaluation of an air-cleaning unit having photocatalytic sheets to remove acetaldehyde from indoor air||M. Sung,S. Kato,F. Kawanami,M. Sudo
+Wide ZVS range asymmetric half- bridge converter with clamp switch and diode for high conversion efficiency||Cheol-O Yeon,Jae-Bum Lee,Il-Oun Lee,Gun-Woo Moon
+Seamless transfer control strategy for fuel cell uninterruptible power supply system||Wenping Zhang,Dehong Xu,Xiao Li,Ren Xie,Haijin Li
+A three-level resonant single-stage power factor correction converter: analysis, design and implementation||Mohammed S. Agamy,Praveen K. Jain
+Boundary control of full-bridge ZVS: natural switching surface for transient and steady-state operation||Germán G. Oggier,Martin Ordonez
+Minimum energy and capacitance requirements for single- phase inverters and rectifiers using a ripple port||Philip T. Krein,Robert S. Balog,Mehran Mirjafari
+Dynamic stiffness matrix development and free vibration analysis of a moving beam||J.R. Banerjee,W.D. Gunawardana
+Dynamic responses of a saturated poroelastic half-space generated by a moving truck on the uneven pavement||Yuanqiang Cai,Yao Chen,Zhigang Cao,Honglei Sun,Lin Guo
+Compositional control of continuously graded anode functional layer||J. McCoppin,I. Barney,S. Mukhopadhyay,R. Miller,T. Reitz
+Glass-based seals for solid oxide fuel and electrolyzer cells – A review||M.K. Mahapatra,K. Lu
+Design and functionality of colloidal- crystal-templated materials-chemical applications of inverse opals||Stein A,Wilson BE,Rudisill SG
+Current status and future developments in preparation and application of colloidal crystals||Cong H,Yu B,Tang J,Li Z,Liu X
+Generating an indicator for pump impeller damage using half and full spectra, fuzzy preference-based rough sets and PCA||Zhao Xiaomin,Zuo Ming J,Patel Tejas H
+The influence of size effect on the ductile fracture in micro-scaled plastic deformation||J.Q. Ran,M.W. Fu,W.L. Chan
+Instantaneous tool deflection model for micro milling||Ali Mamedov,S. Ehsan Layegh K
+A quantitative study of the tribological size effect in microforming with a multi-region FEA model||Hong Seok Kim
+Multi-objective optimization using Taguchi based grey relational analysis for micro-milling of Al 7075 material with ball nose end mill||Emel Kuram,Babur Ozcelik
+A constitutive framework for the elastoplastic modelling of geomaterials||Giuseppe Mortara
+An insight into the water retention properties of compacted clayey soils||E. ROMERO,G. DELLA VECCHIA,C. JOMMI
+Dissimilar friction stir welding between magnesium and aluminum alloys||Y.J. Kwon,I. Shigematsu,N. Saito
+On tool stirring action in friction stir welding of work hardenable aluminium alloys||G Buffa,D Campanella,L Fratini
+Surface characterization of titanium hydride powder||Irena Paulin,Črtomir Donik,Djordje Mandrino,Maja Vončina,Monika Jenko
+TG-FTIR analysis of switchgrass pyrolysis||Lee SeongBeom,Fasina O
+Biomass pyrolysis-A review of modelling, process parameters and catalytic studies||Abhishek Sharma,Vishnu Pareek,Dongke Zhang
+Upgrading of bio-oil from biomass fast pyrolysis in China: A review||Le Zhang,Ronghou Liu,Renzhan Yin,Yuanfei Mei
+Catalytic Steam Gasification of Biomass: Catalysts, Thermodynamics and Kinetics||Hugo de Lasa,Enrique Salaices,Jahirul Mazumder,Rahima Lucky
+Gas Phase Mercury Oxidation by Halogens (Cl, Br, I) in Combustion Effluents: Influence of Operating Conditions||Itsaso AuzmendiMurua,Joseph W. Bozzelli
+Predicting the Dynamic Compressive Strength of Carbonate Rocks from Quasi-Static Properties||H. Yavuz,K. Tufekci,R. Kayacan,H. Cevizci
+A Study on the Vibration Frequency of Blasting Excavation in Highly Stressed Rock Masses||Jianhua Yang,Wenbo Lu,Qinghui Jiang,Chi Yao
+Numerical simulation of swash zone fluid accelerations||Puleo Jack A,Farhadzadeh Ali,Kobayashi Nobuhisa
+Sharp interface immersed-boundary/level-set method for wave–body interactions||Jianming Yang,Frederick Stern
+Fluid–structure interaction in partially filled liquid containers: A comparative review of numerical approaches||S. Rebouillat,D. Liksonov
+Decontamination and disinfection of water by solar photocatalysis: The pilot plants of the Plataforma Solar de Almeria||Sixto Malato,Manuel I. Maldonado,Pilar Fernández-Ibáñez,Isabel Oller,Inmaculada Polo
+Nanostructured WO3/BiVO4 Photoanodes for Efficient Photoelectrochemical Water Splitting||Pihosh Yuriy,Turkevych Ivan,Mawatari Kazuma,Asai Tomohiro,Hisatomi Takashi
+Hetero-nanostructured suspended photocatalysts for solar-to-fuel conversion||YuPeng Yuan,LinWei Ruan,James Barber,Say Chye Joachim Loo,Can Xue
+Bifurcations of fuzzy nonlinear dynamical systems||Ling Hong,Jian-Qiao Sun
+Synchronization of two different non-autonomous chaotic systems using fuzzy disturbance observer||Woojong Yoo,Daehyun Ji,Sangchul Won
+Environmental applications of graphene-based Nanomaterials||Perreault F,Fonseca de Faria A,Elimelech M
+Batch cadmium(II) biosorption by an industrial residue of macrofungal biomass (Clitopilus scyphoides)||S. Moussous,A. Selatnia,A. Merati,G.A. junter
+A methodology for module portfolio planning within the service 5 solution layer of a product–service system||Hao Li,Yangjian Ji,Qifeng Li,Miying Yang,Steve Evens
+Cloud manufacturing service composition based on QoS with geo-perspective transportation using an improved Artificial Bee Colony optimisation algorithm||Jorick Lartigau,Xiaofei Xu,Lanshun Nie,Dechen Zhan
+Resource allocation in cloud-based design and manufacturing: a mechanism design approach||Joseph Thekinen,Jitesh H. Panchal
+Composition of resource-service chain for cloud manufacturing||Haibo Li,Keith C. C. Chan,Mengxia Liang,Xiangyu Luo
+Step ring-based three-dimensional path planning via graphics processing unit simulation for subtractive three-dimensional printing||Zhengkai Wu,Thomas M. Tucker,Chandra Nath,Thomas R. Kurfess,Richard W. Vuduc
+A grid-based collaborative supply chain with multi-product multi-period production-distribution||Mehran Sepehri
+Effect of environmental oxygen content on the oxide inclusion in laser solid formed AISI 420 stainless steel||Menghua Song,Xin Lin,Fenggang Liu,Haiou Yang,Weidong Huang
+Microstructure morphologies during the transient solidification of hypomonotectic and monotectic Al-Pb alloys||Adrina P. Silva,Amauri Garcia,José E. Spinelli
+Nanocomposites based on polyurethanes and carbon nanoparticles: preparation, properties and application||Elmira Badamshina,Yakov Estrin,Margarita Gafurova
+Polymer-inorganic supramolecular nanohybrids for red, white, green, and blue applications||Dae-Hwan Park,Seong-Ju Hwang,Jae-Min Oh,Jae-Hun Yang,Jin-Ho Choy
+Use of Transmitting Boundary for Loads Having Non-Vanishing Time Average||D.S. Shridhar,V.S. Chandrasekaran
+Thermoacoustic properties of fibrous materials||Jensen C,Raspet R
+Review of non-reactive and reactive wetting of liquids on surfaces||Girish Kumar,K. Narayan Prabhu
+Evolution of CuSn intermetallics between molten SnAgCu solder and Cu substrate||Jicheng Gong,Changqing Liu,Paul P. Conway,Vadim V. Silberschmidt
+Deformation behavior of tin and some tin alloys||Fuqian Yang,J. C. M. Li
+Microstructure-based modeling of the ageing effect on the deformation behavior of the eutectic micro-constituent in SnAgCu lead-free solder||Milad Maleki,Joel Cugnoni,John Botsis
+Wetting in Soldering and Microelectronics||T. Matsumoto,K. Nogi
+The formation of electric circuits with carbon nanotubes and copper using tin solder||Jacques Marseille
+Effect of mono and composite coating on dynamic fracture toughness of metals at different temperatures||G.L. Manjunath,S. Surendran
+Stochastic characteristics of powder metallurgy processing||Andrzej Sluzalec
+Anti-plane crack intersecting the interface in a bonded smart structure with graded magnetoelectroelastic properties||Y.D. Li,K.Y. Lee
+Dynamic crack interactions in magnetoelectroelastic composite materials||R. Rojas-Díaz,F. García-Sánchez,A. Sáez,Ch. Zhang
+Transient dynamic crack analysis in linear magnetoelectroelastic solids by a hypersingular time-domain BEM||M. Wünsche,A. Sáez,F. García-Sánchez,Ch. Zhang
+Investigation of the behavior of a mixed-mode crack in a functionally graded magneto–electro-elastic material by use of the non-local theory||N. Jamia,S. El-Borgi,M. Rekik,S. Usman
+Analysis of wave propagation in carbon nanotubes via elastic shell theories||K.M. Liew,Q. Wang
+The effects of residual stresses and degradation on the response of viscoplastic functionally graded materials||Anastasia Muliana
+Finite element analysis of crack closure in two-dimensional bodies subjected to heating||Georgios I. Giannopoulos,Nick K. Anifantis
+Thermal fracture resistance of a functionally graded coating with periodic edge cracks||Z.-H. Jin,Y.Z. Feng
+Development of a novel alkaline zinc–iron plating bath containing sorbitol and the chemical, physical and morphological characterizatin of the Zn–Fe films||L.L. Barbosa,I.A. Carlos
+The convective instability of Maxwell fluid-saturated porous layer using a thermal non-equilibrium model||M.S. Malashetty,Sridhar Kulkarni
+A multi-level fractal model for the effective thermal conductivity of silica aerogel||Zeng-Yao Li,He Liu,Xin-Peng Zhao,Wen-Quan Tao
+Fractal Models in Exploration Geophysics Applications to Hydrocarbon Reservoirs||Dimri V. P,Srivastava R. P,Vedanti Nimisha
+The fastest capillary flow under gravity||Shou Dahua) Centre for Advanced Materials Technology (CAMT,Ye Lin,Fan Jintu
+Asymptotic modelling of flows in microchannel by using Navier-Stokes or Burnett equations and comparison with DSMC simulations||Renée Gatignol
+Nonstationary response of nonlinear oscillators with optimal bounded control and broad-band noises||Luyuan Qi,G.Q. Cai,Wei Xu
+Bounded nonlinear stochastic control based on the probability distribution for the sdof oscillator||Ji-Hun Park,Kyung-Won Min
+A brief review of stochastic control of structures||T. K. Datta
+Response of nonlinear systems in probability domain using stochastic averaging||KUMAR Deepak,DATTA T. K

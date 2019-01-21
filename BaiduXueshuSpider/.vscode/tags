@@ -1,0 +1,75 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+items.py	../../BaiduXueshuSpider/items.py	1;"	kind:file	line:1
+scrapy	../../BaiduXueshuSpider/items.py	/^import scrapy$/;"	kind:namespace	line:8
+BaiduxueshuspiderItem	../../BaiduXueshuSpider/items.py	/^class BaiduxueshuspiderItem(scrapy.Item):$/;"	kind:class	line:11
+thesistitle	../../BaiduXueshuSpider/items.py	/^    thesistitle = scrapy.Field()$/;"	kind:variable	line:14
+thesisauthor	../../BaiduXueshuSpider/items.py	/^    thesisauthor = scrapy.Field()$/;"	kind:variable	line:15
+thesispath	../../BaiduXueshuSpider/items.py	/^    thesispath = scrapy.Field()$/;"	kind:variable	line:16
+middlewares.py	../../BaiduXueshuSpider/middlewares.py	1;"	kind:file	line:1
+signals	../../BaiduXueshuSpider/middlewares.py	/^from scrapy import signals$/;"	kind:namespace	line:8
+BaiduxueshuspiderSpiderMiddleware	../../BaiduXueshuSpider/middlewares.py	/^class BaiduxueshuspiderSpiderMiddleware(object):$/;"	kind:class	line:11
+from_crawler	../../BaiduXueshuSpider/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	kind:member	line:17
+process_spider_input	../../BaiduXueshuSpider/middlewares.py	/^    def process_spider_input(response, spider):$/;"	kind:member	line:23
+process_spider_output	../../BaiduXueshuSpider/middlewares.py	/^    def process_spider_output(response, result, spider):$/;"	kind:member	line:30
+process_spider_exception	../../BaiduXueshuSpider/middlewares.py	/^    def process_spider_exception(response, exception, spider):$/;"	kind:member	line:38
+process_start_requests	../../BaiduXueshuSpider/middlewares.py	/^    def process_start_requests(start_requests, spider):$/;"	kind:member	line:46
+spider_opened	../../BaiduXueshuSpider/middlewares.py	/^    def spider_opened(self, spider):$/;"	kind:member	line:55
+pipelines.py	../../BaiduXueshuSpider/pipelines.py	1;"	kind:file	line:1
+BaiduxueshuspiderPipeline	../../BaiduXueshuSpider/pipelines.py	/^class BaiduxueshuspiderPipeline(object):$/;"	kind:class	line:11
+process_item	../../BaiduXueshuSpider/pipelines.py	/^    def process_item(self, item, spider):$/;"	kind:member	line:13
+settings.py	../../BaiduXueshuSpider/settings.py	1;"	kind:file	line:1
+BOT_NAME	../../BaiduXueshuSpider/settings.py	/^BOT_NAME = 'BaiduXueshuSpider'$/;"	kind:variable	line:12
+SPIDER_MODULES	../../BaiduXueshuSpider/settings.py	/^SPIDER_MODULES = ['BaiduXueshuSpider.spiders']$/;"	kind:variable	line:14
+NEWSPIDER_MODULE	../../BaiduXueshuSpider/settings.py	/^NEWSPIDER_MODULE = 'BaiduXueshuSpider.spiders'$/;"	kind:variable	line:15
+USER_AGENT	../../BaiduXueshuSpider/settings.py	/^USER_AGENT = 'Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko\/20100101 Firefox\/51.0'$/;"	kind:variable	line:20
+ROBOTSTXT_OBEY	../../BaiduXueshuSpider/settings.py	/^ROBOTSTXT_OBEY = False$/;"	kind:variable	line:23
+DOWNLOAD_DELAY	../../BaiduXueshuSpider/settings.py	/^DOWNLOAD_DELAY = 2$/;"	kind:variable	line:31
+EXTENSIONS	../../BaiduXueshuSpider/settings.py	/^EXTENSIONS = {$/;"	kind:variable	line:62
+ITEM_PIPELINES	../../BaiduXueshuSpider/settings.py	/^ITEM_PIPELINES = {$/;"	kind:variable	line:68
+RETRY_ENABLED	../../BaiduXueshuSpider/settings.py	/^RETRY_ENABLED = True$/;"	kind:variable	line:93
+RETRY_TIMES	../../BaiduXueshuSpider/settings.py	/^RETRY_TIMES = 20$/;"	kind:variable	line:94
+DNS_TIMEOUT	../../BaiduXueshuSpider/settings.py	/^DNS_TIMEOUT = 180$/;"	kind:variable	line:96
+DOWNLOAD_TIMEOUT	../../BaiduXueshuSpider/settings.py	/^DOWNLOAD_TIMEOUT = 600$/;"	kind:variable	line:97
+BaiduXueshuSpider.py	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	1;"	kind:file	line:1
+os	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^import os$/;"	kind:namespace	line:2
+re	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^import re$/;"	kind:namespace	line:3
+scrapy	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^import scrapy$/;"	kind:namespace	line:4
+Levenshtein	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^import Levenshtein$/;"	kind:namespace	line:6
+urllib	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^import urllib.parse$/;"	kind:namespace	line:7
+parse	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^import urllib.parse$/;"	kind:namespace	line:7
+CrawlSpider	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^from scrapy.spiders import CrawlSpider$/;"	kind:namespace	line:9
+BaiduXueshuSpider	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^class BaiduXueshuSpider(CrawlSpider):$/;"	kind:class	line:13
+listpath	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    listpath = 'F:\\MyWorkSpace\\PythonWorkspace\\BaiduXueshuSpider\\论文列表汇总.txt'$/;"	kind:variable	line:15
+savepath	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    savepath = 'F:\\MyWorkSpace\\PythonWorkspace\\BaiduXueshuSpider\\pdfs'$/;"	kind:variable	line:18
+thesisauthorpath	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    thesisauthorpath = 'F:\\MyWorkSpace\\PythonWorkspace\\BaiduXueshuSpider\\\\1.论文标题及作者关联表.txt'$/;"	kind:variable	line:21
+disinthesispath	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    disinthesispath = 'F:\\MyWorkSpace\\PythonWorkspace\\BaiduXueshuSpider\\\\2.符合编辑距离的论文列表.txt'$/;"	kind:variable	line:24
+disoutthesispath	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    disoutthesispath = 'F:\\MyWorkSpace\\PythonWorkspace\\BaiduXueshuSpider\\\\3.不符合编辑距离的论文列表.txt'$/;"	kind:variable	line:27
+nulldownthesispath	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    nulldownthesispath = 'F:\\MyWorkSpace\\PythonWorkspace\\BaiduXueshuSpider\\\\4.无免费下载的论文列表.txt'$/;"	kind:variable	line:30
+distance	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    distance = 4$/;"	kind:variable	line:33
+thesislist	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    thesislist = []$/;"	kind:variable	line:36
+start_urls	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    start_urls = []$/;"	kind:variable	line:37
+name	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    name = "BaiduXueshuSpider"$/;"	kind:variable	line:40
+freedownflag	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    freedownflag = "(全网免费下载)"$/;"	kind:variable	line:42
+pdfdownlinkxpath	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    pdfdownlinkxpath = ".\/a\/@href"$/;"	kind:variable	line:52
+authorregex	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    authorregex = "author:\\((.*)\\)"$/;"	kind:variable	line:55
+__init__	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    def __init__(self, name=None, **kwargs):$/;"	kind:member	line:57
+start_requests	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    def start_requests(self):$/;"	kind:member	line:68
+parse	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    def parse(self, response):$/;"	kind:member	line:75
+parsepdf	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    def parsepdf(self, response):$/;"	kind:member	line:108
+extractfirst	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    def extractfirst(self, response, xpath):$/;"	kind:member	line:119
+extractauthors	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    def extractauthors(self, response, xpath):$/;"	kind:member	line:127
+extractdownlinks	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    def extractdownlinks(self, response, xpath):$/;"	kind:member	line:152
+readlist	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    def readlist(self):$/;"	kind:member	line:166
+savethesisauthor	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    def savethesisauthor(self, fd, thesis, diff, author):$/;"	kind:member	line:172
+savethesisauthorbypath	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    def savethesisauthorbypath(self, path, thesis, diff, author):$/;"	kind:member	line:179
+lock	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    def lock(self, fd):$/;"	kind:member	line:187
+unlock	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    def unlock(self, fd):$/;"	kind:member	line:197
+calcdistance	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    def calcdistance(self, src, tar):$/;"	kind:member	line:203
+regexauthor	../../BaiduXueshuSpider/spiders/BaiduXueshuSpider.py	/^    def regexauthor(self, authorlink):$/;"	kind:member	line:209
+__init__.py	../../BaiduXueshuSpider/spiders/__init__.py	1;"	kind:file	line:1
+__init__.py	../../BaiduXueshuSpider/__init__.py	1;"	kind:file	line:1

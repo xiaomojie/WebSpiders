@@ -1,0 +1,264 @@
+Geometry and nonlinear analysis||
+On CIS circulants||
+On the parameterized intractability of motif search problems||
+On the equivalence between the primal-dual schema and the local ratio technique||
+Zbmath review||
+Inclusion relations between L p  -Sobolev and Wiener amalgam spaces||
+Math Review MR2775628||
+Extract correlations||
+Non malleable codes||
+Sparse-graph codes for quantum error correction||
+The art of signaling: Fifty years of coding theory||
+Rational Homotopy Theory||
+Backward Stochastic Differential Equations, Nonlinear Expectaion and Their Applications||
+Mathematical Reviews Item Number MR1982735 (2004d:49072)||
+Mathematical Reviews Item Number MR2550365 (2011f:60110)||
+Mathematical Reviews Item Number MR1972529 (2004a:93095)||
+A stochastic linear–quadratic problem with L′evyprocesses and its application to finance||
+Statistical Analysis of Profile Monitoring||
+Singularity formation in chemotaxis— a conjecture of Nagai||
+PRIMUS: Galaxy Clustering as a Function of Luminosity and Color at 0.2 < z < 1||
+Astrophysics in 2006||
+Half-Quantum Vortices in an Antiferromagnetic Spinor Bose-Einstein Condensate||Observation of half-quantum vortices in an antiferromagnetic spinor Bose-Einstein condensate||Sredzińska K,Galicka A,Brzóska MM,Gindzieński A
+Solitons in nonlinear lattices||
+Synopsis: Dirt and geometry insulate electrons||
+Unexpected mass acquisition of Dirac fermions at the quantum phase transition of a topological||Unexpected mass acquisition of Dirac fermions at the quantum phase transition of a topological insulator||T. Sato,Kouji Segawa,K. Kosaka,S. Souma,K. Nakayama
+Folding Alphabets||
+Designing Protein Energy Landscapes||
+Superconductivity in iron compounds||
+Neutron-Diffraction Measurements of an Antiferromagnetic Semiconducting Phase in the Vicinity of the High- Temperature Superconducting State of KxFe2ySe2||Neutron-Diffraction Measurements of an Antiferromagnetic Semiconducting Phase in the Vicinity of the High-Temperature Superconducting State of K x Fe 2 ...||Jun Zhao,Huibo Cao,E. Bourret-Courchesne,D.-H. Lee,R. J. Birgeneau
+Colloquium: The unexpected properties of alkali metal iron selenide superconductors||The Unexpected Properties of Alkali Metal Iron Selenide Superconductors||Elbio Dagotto
+Memristive devices for computing||
+The Milky Way spiral structure parameters from data on masers||
+The Milky Way disk||
+New concepts and modeling strategies to design and evaluate photo-electro-catalysts based on transition metal oxides||ChemInform Abstract: New Concepts and Modeling Strategies to Design and Evaluate Photo-Electro-Catalysts Based on Transition Metal Oxides||Peilin Liao,Emily A. Carter
+Broad Family of Carbon Nanoallotropes：Classification, Chemistry, and Applications of Fullerenes, Carbon Dots, Nanotubes, Graphene, Nanodiamonds, and Combined Superstructures||Broad family of carbon nanoallotropes: classification, chemistry, and applications of fullerenes, carbon dots, nanotubes, graphene, nanodiamonds, and combi...||Georgakilas V,Perman JA,Tucek J,Zboril R
+Graphdiyne and graphyne: from theoretical predictions to practical construction||ChemInform Abstract: Graphdiyne and Graphyne: From Theoretical Predictions to Practical Construction||Li Yongjun,Xu Liang,Liu Huibiao,Li Yuliang
+《Metal-Organic Frameworks for Photonics Applications》||
+Computational Studies of Synthetically Relevant Homogeneous Organometallic Catalysis Involving Ni, Pd, Ir, and Rh: An Overview of Commonly Employed DFT Methods and Mechanistic Insights||
+The role of organometallic copper(III) complexes in homogeneous catalysis||
+A Free-Radical-Promoted Stereospecific Decarboxylative Silylation of α,β-Unsaturated Acids with Silanes||
+Decarboxylative coupling reactions: a modern strategy for C–C-bond formation||
+Glycodynamers: dynamic polymers bearing oligosaccharides residues-generation, structure, pohysicochemical, component exchange, and Lectin binding properties||
+In vitro Cancer Chemotherapeutic Activity of 1,10-Phenanthroline (phen), [Ag2(phen)3(mal)].2H2O, [Cu(phen)2(mal)].2H2O and [Mn(phen)2(mal)].2H2O (malH2 = malonic acid) Using Human Cancer Cells||
+Molecularly-mediated assemblies of plasmonic nanoparticles for Surface-Enhanced Raman Spectroscopy applications||ChemInform Abstract: Molecularly-Mediated Assemblies of Plasmonic Nanoparticles for Surface-Enhanced Raman Spectroscopy Applications||Luca Guerrini,Duncan Graham
+Nano-Bioelectronics||
+Graphene-based semiconductor photocatalysts||
+Iron (III) Corroles and Porphyrins as Superior Catalysts for the Reactions of Diazoacetates with Nitrogen- or Sulfur-Containing Nucleophilic Substrates: Synthetic Uses and Mechanistic Insights||Iron(III) corroles and porphyrins as superior catalysts for the reactions of diazoacetates with nitrogen- or sulfur-containing nucleophilic substrates: syn...||Aviv I,Gross Z
+Multicomponent reactions: advanced tools for sustainable organic synthesis||
+Complete Field Guide to Asymmetric BINOL-Phosphate Derived Br?sted Acid and Metal Catalysis: History and Classification by Mode of Activation||
+Synergistic catalysis: A powerful synthetic strategy for new reaction development||ChemInform Abstract: Synergistic Catalysis: A Powerful Synthetic Strategy for New Reaction Development||Anna E. Allen,David W. C. MacMillan
+Hollow Micro-/Nanostructures: Synthesis and Applications||
+Chiral recognition at the air–water||Chiral recognition at the air–water interface||Katsuhiko Ariga,Tsuyoshi Michinobu,Takashi Nakanishi,Jonathan P. Hill
+Spontaneous resolution, whence and whither: from enantiomorphic solids to chiral liquid crystals, monolayers and macro- and supra-molecular polymers and assemblies||Spontaneous resolution, whence and whither: from enantiomorphic solids to chiral liquid crystals, monolayers and macro- and supra-molecular polymers and as...||PérezGarcía L,Amabilino DB
+All Wound Up||
+Self-assembling yarn shows its strength||
+Functional Nucleic Acid Sensors||
+PEGylated Inorganic Nanoparticles||
+Highly Enantioselective Hydrogenation of Quinolines Using Phosphine-Free Chiral Cationic Ruthenium Catalysts: Scope, Mechanism, and Origin of Enantioselectivity||
+Asymmetric Dearomatization of Indoles through a Michael/Friedel-Crafts-Type Cascade To Construct Polycyclic Spiroindolines||ChemInform Abstract: Asymmetric Dearomatization of Indoles Through a Michael/Friedel—Crafts‐Type Cascade to Construct Polycyclic Spiroindolines.||Zhao Xiaohu,Liu Xiaohua,Mei Hongjiang,Guo Jing,Lin Lili
+Asymmetric synthesis of N,O-heterocycles via enantioselective iridium-catalysed intramolecular allylic amidation||
+Cu(I)-Catalyzed Asymmetric Multicomponent Cascade Inverse Electron-Demand Aza-Diels?Alder/Nucleophilic Addition/Ring-Opening Reaction Involving 2?Methoxyfurans as Efficient Dienophiles||
+Enantioselective[4 2]Cycloadditions of 2Vinyl1Hindoles with 3Nitro2Hchromenes Catalyzed by a Zn(OTf)2/Bis(oxazoline) Complex: An Efficient Approach to Fused Heterocycles with a Quaternary Stereocenter||
+Organometallics Roundtable 2011||
+Surface-Initiated Polymer Brushes in the Biomedical Field: Applications in Membrane Science, Biosensing, Cell Culture, Regenerative Medicine and Antibacterial Coatings||
+Polymeric Photocatalysts Based on Graphitic Carbon Nitride||
+A fantastic graphitic carbon nitride (g-C3N4) materials: Electronic structure, photocatalytic and photoelectronic properties||A fantastic graphitic carbon nitride (g-C 3 N 4 ) material: Electronic structure, photocatalytic and photoelectronic properties ☆||Guoping Dong,Yuanhao Zhang,Qiwen Pan,Jianrong Qiu
+Isolated fluid polyhedral vesicles||
+Polymer–vesicle association||
+Supercritical or compressed CO2 as a stimulus for tuning surfacatnt aggregates||
+Zero-dimensional, one-dimensional, two-dimensional and||
+Isorecticular synthesis of dissectible molecular bamboo tubes of hexarhenium (I) benzene-1,2,3,4,5,6-hexaolate complexes||
+Daniela Verga, Matteo Nadai, Filippo Doria, Claudia Percivalle, Marco Di Antonio, Manlio Palumbo, Sara N. Richter , and Mauro Freccero*||
+How valence bond theory can help you understand||
+Supramolecular ferroelectrics||
+Ferroelectric Organic Materials Catch Up with Oxides||
+Tuning Molecular Solids||
+Flexible ferroelectric organic crystals||
+Metal-organic framework growth at functional interfaces: thin films and composites for diverse applications||
+Copper-Catalyzed Direct Benzylation or Allylation of 1,3-Azoles with N-Tosylhydrazones||ChemInform Abstract: Copper-Catalyzed Direct Benzylation or Allylation of 1,3-Azoles with N-Tosylhydrazones||Xia Zhao,Guojiao Wu,Yan Zhang,Jianbo Wang
+Mesoscopic-scale structure and dynamics near the morphotropic phase boundary of (1-x)PbTiO3-xBiScO3||Mesoscopic-scale structure and dynamics near the morphotropic phase boundary of ( 1 − x ) PbTiO 3 − x BiScO 3||K. Datta,A. Richter,M. Göbbels,R. B. Neder,B. Mihailova
+Combining coal gasification, natural gas reforming, and external carbonless heat for efficient production of gasoline and diesel with CO2 capture and sequestration||Combining coal gasification, natural gas reforming, and external carbonless heat for efficient production of gasoline and diesel with CO 2  capture and seq...||Yaser Khojasteh Salkuyeh,Thomas A. Adams II
+Thermodynamic and economic analysis of polygeneration system integrating atmospheric pressure coal pyrolysis technology with circulating fluidized bed power plant||Thermodynamic and economic analysis of polygeneration system integrating atmospheric pressure coal pyrolysis technology with circulating fluidized bed powe...||Zhihang Guo,Qinhui Wang,Mengxiang Fang,Zhongyang Luo,Kefa Cen
+The help of epigenetics in differential diagnosis||Genetics: The help of epigenetics in differential diagnosis||M. Teresa Villanueva
+Conjugated Polyelectrolytes: Synthesis, Photophysics, and Applications||
+Ruthenium(II) polypyridyl complexes and DNA—from structural probes to cellular imaging and therapeutics||ChemInform Abstract: Ruthenium(II) Polypyridyl Complexes and DNA — From Structural Probes to Cellular Imaging and Therapeutics||Martin R. Gill,Jim A. Thomas
+Functionalized mesoporous silica materials for controlled drug delivery||
+Spherical silica micro/nanomaterials with hierarchical strucutures: Synthesis and applications||
+Extension of the Stober Method to Construct Mesoporous SiO2 and TiO2 Shells for Uniform Multifunctional Core-Shell Structures||Extension of the St&ouml;ber Method to Construct Mesoporous SiO2 and TiO2 Shells for Uniform Multifunctional Core&ndash;Shell Structures||Li Wei,Zhao Dongyuan
+Magnetic mesoporous silica-based core/shell nanoparticles for biomedical appilcations||
+Structural Stability and Bronsted Acidity of Thermally Treated AlPW12O40 in Comparison with H3PW12O40||
+Synergy between Bronsted acid sites and Lewis acid sites||
+Structural Characterization of Zeolites by Advanced Solid State NMR Spectroscopic Methods||Chapter Four - Structural Characterization of Zeolites by Advanced Solid State NMR Spectroscopic Methods||Luís Mafra,José Alejandro Vidal-Moya,Teresa Blasco
+Siting and Distribution of Framework Aluminium Atoms in Silicon-Rich Zeolites and Impact on Catalysis||ChemInform Abstract: Siting and Distribution of Framework Aluminium Atoms in Silicon-Rich Zeolites and Impact on Catalysis||J. Dedecek,Z. Sobalik,B. Wichterlova
+Dissolved organic matter: biogeochemistry, dynamics, and environmental significance in soils||Chapter One - Dissolved Organic Matter: Biogeochemistry, Dynamics, and Environmental Significance in Soils||Nanthi S. Bolan,Domy C. Adriano,Anitha Kunhikrishnan,Trevor James,Richard McDowell
+Geology, mineralogy, and geochemistry of magnetite-associated Au mineralization of the ultramafic-basalt greenstone hosted Crusader Complex, Agnew Gold Camp, Eastern Yilgarn Craton, Western Australia||
+Activities of 50-80 day subthermocline eddies near the Philippine coast||Activities of 50&ndash;80 day subthermocline eddies near the Philippine coast||Chiang Tzu‐Ling,Wu Chau‐Ron,Qu Tangdong,Hsin Yi‐Chia
+Shear wave tomography of China using joint inversion of body and surface wave constrains||
+Cathode catalysts in bioelectrochemical systems for energy recovery from wastewater||
+Cobalt phosphate-modified barium-doped tantalum nitride nanorod photoanode with 1.5% solar energy conversion efficiency||
+Rapid runoff via shallow throughflow and deeper preferential flow in a boreal catchment underlain by frozen silt||Rapid runoff via shallow throughflow and deeper preferential flow in a boreal catchment underlain by frozen silt (Alaska, USA)||J. C. Koch,S. A. Ewing,R. Striegl,D. M. McKnight
+Funding Earth Science in China||
+Testing models of Tibetan Plateau formation with Cenozoic shortening esGeospheretimates across the Qilian Shan–Nan Shan thrust belt||Testing models of Tibetan Plateau formation with Cenozoic shortening estimates across the Qilian Shan–Nan Shan thrust belt||Zuza Andrew V,Cheng Xiaogan,Yin An
+Typha latifolia (broadleaf cattail) as bioindicator of different types of pollution in aquatic ecosystems—application of self-organizing feature map (neural network)||Typha latifolia (broadleaf cattail) as bioindicator of different types of pollution in aquatic ecosystems-application of self-organizing feature map (neura...||Klink A,Polechońska L,Cegłowska A,Stankiewicz A
+Fossilized matazoan embryos from the earliest Cambrian||
+Growth mechanisms and dune orientation on Titan||
+Climate oscillation during the Quaternary associated with landscape heterogeneity promoted allopatric lineage divergence of a temperate tree Kalopanax septemlobus (Araliaceae) in East Asia||Climate oscillation during the Quaternary associated with landscape heterogeneity promoted allopatric lineage divergence of a temperate tree Kalopanax sept...||SHOTA SAKAGUCHI,YING-XIONG QIU,YI-HUI LIU,XIN-SHUAI QI,SEA-HYUN KIM
+Plant molecular phylogeography in China and adjacent regions: Tracing the genetic imprints of Quaternary climate and environmental change in the world's most diverse temperate flora||Plant molecular phylogeography in China and adjacent regions:Tracing the genetic imprints of Quaternary climate and environmental change in the world's mos...||Ying-Xiong Qiu,Cheng-Xing Fu,Hans Peter Comes
+Intermediate alkali-alumino-silicate aqueous solutions released by deeply subducted continental crust: fluid evolution in UHP OH-rich topaz-kyanite quartzites from Donghai (Sulu, China)||
+Geology, Petrology and O and H isotope geochemistry of remarkably 18O depleted Paleoproterozoic rocks of the Belomorian Belt, Karelia, Russia, attributed to global glaciation 2.4 Ga/||Geology, Petrology and O and H isotope geochemistry of remarkably 18 O depleted Paleoproterozoic rocks of the Belomorian Belt, Karelia, Russia, attributed ...||I.N. Bindeman,N.S. Serebryakov
+Hafnium isotopes and Zr/Hf of rutile and zircon from lower crustal metapelites (Ivrea–VerbanoZone, Italy): Implications for chemical differentiation of the crust||Hafnium isotopes and Zr/Hf of rutile and zircon from lower crustal metapelites (Ivrea–Verbano Zone, Italy): Implications for chemical differentiation of t...||Tanya A. Ewing,Daniela Rubatto,Jörg Hermann
+Low-temperature selective catalytic reduction of NOx with NH3 over metal oxide and zeolite catalysts-A review||Low-temperature selective catalytic reduction of NO x  with NH 3  over metal oxide and zeolite catalysts—A review||Junhua Li,Huazhen Chang,Lei Ma,Jiming Hao,Ralph T. Yang
+Composite titanium dioxide nanomaterials||
+Volcanic settings and their reservoir potential: An outcrop analog study on the Miocene Tepoztl¨￠n Formation, Central Mexic||
+The floating astronomical time scale for the terrestrial Late Cretaceous Qingshankou Formation from the Songliao Basin of Northeast China and its stratigraphic and paleoclimate implications||The floating astronomical time scale for the terrestrial Late Cretaceous Qingshankou Formation from the Songliao Basin of Northeast China and its stratigra...||Huaichun Wu,Shihong Zhang,Ganqing Jiang,Qinghua Huang
+The Lithosphere-Asthenosphere Boundary||
+Unsolved problems in catalysis||
+Accuracy assessment of interpolation methods in grid DEMsb ased on a variance-scale relation||
+Uniconazole-induced starch accumulation in the bioenergy crop duckweed II: transcriptome alterations of pathways involved in carbohydrate metabolism and endogenous hormone crosstalk||
+Transcriptome analysis of proliferating Arabidopsis endosperm reveals biological implications for the control of syncytial division, cytokinin signaling, and gene expression regulation||Transcriptome Analysis of Proliferating Arabidopsis Endosperm Reveals Biological Implications for the Control of Syncytial Division, Cytokinin Signaling, a...||Robert C. Day,Rowan P. Herridge,Barbara A. Ambrose,Richard C. Macknight
+Five vicarious genera from Gondwana: the Velloziaceae as shown by molecules and morphology||Five vicariant genera from Gondwana: the Velloziaceae as shown by molecules and morphology [corrected].||MelloSilva R,Santos DY,Salatino ML,Motta LB,Cattai MB
+Witchcraft and destruction||
+Probing strigolactone receptors in Striga hermonthica with fluorescence||PARASITIC PLANTS. Probing strigolactone receptors in Striga hermonthica with fluorescence.||Tsuchiya Y,Yoshimura M,Sato Y,Kuwata K,Toh S
+Genome-wide association studies coming of age in rice||Genome-wide association studies coming of age in rice. Nat Genet||Clark RM
+Kim YH, Kim KA, Kim YR, Choi MK, Kim HK, Choi KJ, Chun JH, Cha K, Hong KJ, Lee NG, Yoo CK, Oh HB, Kim TS, Rhie GE||
+Abundance of natural regeneration and growth comparisons with planted seedlings 10-13 years after commercial thinning in 50-year-old Douglas-fir, Douglas-fir/western hemlock, Oregon Coast Range||
+Productivity, water-use efficiency and tolerance to moderate water deficit correlate in 33 poplar genotypes from a Populus deltoides ?áPopulus trichocarpa F1 progen||Productivity, water-use efficiency and tolerance to moderate water deficit correlate in 33 poplar genotypes from a Populus deltoides x Populus trichocarpa ...||Monclus R,Villar M,Barbaroux C,Bastien C,Fichot R
+Understanding water deficit stress-induced changes in the basic metabolism of higher plants-biotechnologically and sustainably improving agriculture and the ecoenvironment in arid regions of the globe||
+Localized GABAergic inhibition of dendritic Ca(2 ) signalling.||
+Vigorous Crop Root Systems: Form and Function for Improving the Capture of Water and Nutrients||Chapter 13 - Vigorous Crop Root Systems: Form and Function for Improving the Capture of Water and Nutrients||Michelle Watt
+Dryland Agriculture in China||
+Ridge-Furrow Mulching Systems—An Innovative Technique for Boosting Crop Productivity in Semiarid Rain-Fed Environments||Chapter Seven–Ridge-Furrow Mulching Systems—An Innovative Technique for Boosting Crop Productivity in Semiarid Rain-Fed Environments||Yantai Gan,Kadambot H.M. Siddique,Neil C. Turner,Xiao-Gang Li,Jun-Yi Niu
+Readout of Epigenetic Modifications.||
+Silicon and Plant Diseases||
+Polyphenism in Insects||
+Evidence from mitochondrial genomics supports the lower Mesozoic of South Asia as the time and place of basal divergence of cypriniform fishes (Actinopterygii: Ostariophysi).||Evidence from mitochondrial genomics supports the lower Mesozoic of South Asia as the time and place of basal divergence of cypriniform fishes (Actinoptery...||SAITOH KENJI,SADO TETSUYA,DOOSEY MICHAEL H,BART Jr HENRY L,INOUE JUN G
+Families of Cobitoidea (Teleostei; Cypriniformes) as revealed from nuclear genetic data and the position of the mysterious genera Barbucca, Psilorhynchus, Serpenticobitis and Vaillantella.||Families of Cobitoidea (Teleostei; Cypriniformes) as revealed from nuclear genetic data and the position of the mysterious genera Barbucca, Psilorhynchus, ...||Slechtová V,Bohlen J,Tan HH
+Adenosine   as drug targets--what arethe challenges?||
+Neuroglial Transmission.||
+Histone deacetylase inhibitors reverse gene silencing in Friedreich’s ataxia||Corrigendum: Histone deacetylase inhibitors reverse gene silencing in Friedreich's ataxia||David Herman,Kai Jenssen,Ryan Burnett,Elisabetta Soragni,Susan L Perlman
+Mechanisms of Disease: Psoriasis||
+Atopic dermatitis||
+Whole-genome sequencing identifies EN1 as a determinant of bone density and fracture||Whole[hyphen]genome sequencing identifies EN1 as a determinant of bone density and fracture||Hou‐Feng Zheng,Vincenzo Forgetta,Yi‐Hsiang Hsu,Karol Estrada,Alberto Rosello‐Diez
+Molecular Mechanisms of Hepatocellular Carcinoma||
+Genomics and Signaling Pathways in Hepatocellular Carcinoma||
+Cancer stem cells in the development of liver cancer||
+Cell migration: Calcium flickers at the front / K Baumann||
+Cells Turned On by the Flick of a Calcium Switch||
+Molecular and genetic basis of sudden cardiac death||
+Heart disease - Unmasking molecular mechanisms||
+Endothelial-binding, proinflammatory T cells identified by MCAM  (CD146) expression: Characterization and role in human||Endothelial-binding, Proinflammatory T Cells Identified by MCAM (CD146) Expression: Characterization and Role in Human Autoimmune Diseases.||Dagur PK,McCoy JP Jr
+Apolipoprotein A-I mimetic peptide 4F rescues pulmonary hypertension by inducing microRNA-193-3p.||ApoA-I Mimetic Peptide 4F Rescues Pulmonary Hypertension by Inducing MicroRNA-193-3p||Salil Sharma,Soban Umar,Francois Potus,Andrea Iorga,Gabriel Wong
+Somatic and germline genetics at the JAK2 locus./Campbell PJ.||
+Structural basis for hijacking CBF-beta and CUL5 E3 ligase complex by HIV-1 Vif||Structural basis for hijacking CBF-β and CUL5 E3 ligase complex by HIV-1 Vif.||Yingying Guo,Liyong Dong,Xiaolin Qiu,Yishu Wang,Bailing Zhang
+HIV Ringside views||
+HIV/AIDS in Asia||
+Natural Killer Cell Memory||
+Genes for High Altitudes||
+High-Altitude Medicine||
+Cancer’s Epigenome||
+Evolution of the cancer genome||
+Cancer genome landscapes||
+Carbon nanotube-nanocrystal heterostructures||
+Outstanding JNM Articles for 2007.||
+Construction of Vicinal All-Carbon Quaternary Stereocenters by Catalytic Asymmetric Alkylation Reaction of 3-Bromooxindoles with 3-Substituted Indoles: Total Synthesis of ( )-Perophoramidine.||Construction of vicinal all-carbon quaternary stereocenters by catalytic asymmetric alkylation reaction of 3-bromooxindoles with 3-substituted indoles: tot...||Zhang H,Hong L,Kang H,Wang R
+Total Synthesis of ( /-)-Gelsemoxonine.||Total Synthesis of Gelsemoxonine||Jun Shimokawa,Takaaki Harada,Satoshi Yokoshima,Tohru Fukuyama
+Iron, brain ageing and neurodegenerative disorders.||
+Modeling kinetics of subcellular disposition of chemicals||
+Understanding biophysicochemical interactions at the nano-bio interface||Understanding biophysicochemical interactions at the nano|[ndash]|bio interface||Andre E. Nel,Lutz Mädler,Darrell Velegol,Tian Xia,Eric M. V. Hoek
+Iron on the brain||
+In situ guided tissue regeneration in musculoskeletal diseases and aging||
+Multisensor fusion for linear control systems with asynchronous out of sequence and erroneous data||Multisensor fusion for linear control systems with asynchronous, Out-Of-Sequence and erroneous data ☆||Eva Besada-Portas,Jose A. Lopez-Orozco,Juan Besada,Jesus M. de la Cruz
+Collective motion||
+Controllability of complex networks||
+Review: Optimization based data mining: theory and applications||
+Unsupervised Spectral Mixture Analysis of Highly Mixed Data With Hopfield Neural Network||
+Robust H-infinity Fuzzy Output-Feedback Control With Multiple Probabilistic Delays and Multiple Missing Measurements||
+Metamaterial Electromagnetic Wave Absorbers||
+Self-rectifying resistive-switching characteristics with ultralow operating  currents in SiOxNy||Self-rectifying resistive-switching characteristics with ultralow operating currents in SiOxNy/AlN bilayer devices||Jeong Yong Kwon,Ju Hyun Park,Tae Geun Kim
+MIND-BEST: Web Server for Drugs and Target Discovery; Design, Synthesis, and Assay of MAO-B Inhibitors and Theoretical-Experimental Study of G3PDH Protein from Trichomonas gallinae||MIND-BEST: Web server for drugs and target discovery; design, synthesis, and assay of MAO-B inhibitors and theoretical-experimental study of G3PDH protein ...||González-Díaz H,Prado-Prado F,García-Mera X,Alonso N,Abeijón P
+Quadrature compressive sampling for radar signals||
+Fenchel duality based dictionary learning for restoration of noisy images||
+Data Analysis and Pattern Recognition in Multiple Databases||
+Some applications of fractional calculus in suppression of chaotic oscillations||
+Carbon Nanotube-Inorganic Hybrids||
+Synthesis, optical properties, and chemical–biological sensing applications of one-dimensional inorganic semiconductor nanowires||Synthesis, optical properties, and chemical&ndash;biological sensing applications of one-dimensional inorganic semiconductor nanowires||Kenry,Chwee Teck Lim
+Shape Matters: Anisotropy of the Morphology of Inorganic Colloidal Particles – Synthesis and Function||Shape Matters: Anisotropy of the Morphology of Inorganic Colloidal Particles &ndash; Synthesis and Function||Polarz Sebastian
+One-Dimensional Conducting Polymer Nanostructures: Bulk Synthesis and Applications||
+Inorganic nanotubes||
+Brain-computer interface technology: a review of the Second International Meeting||Guest editorial brain-computer interface technology: a review of the second international meeting||Vaughan T.M
+Organic LEDs: Blue Perfection||
+Influence of the hole blocking layer on blue phosphorescent organic light-emitting devices using 3,6-di(9-carbazolyl)-9-(2-ethylhexyl)carbazole as host material||Influence of the hole blocking layer on blue phosphorescent organic light-emitting devices using 3,6-di(9-carbazolyl)-9-(2-ethylhexyl)carbazole as host mat...||Seidler Nico,Reineke S,Walzer Karsten,Lussem Bjorn,Tomkeviciene A
+Highly enhanced electron injection in organic light-emitting diodes with an n-type of MnO2 layer||Highly enhanced electron injection in organic light-emitting diodes with an n-type semiconducting MnO 2  layer||Hyunbok Lee,Jeihyun Lee,Pyungeun Jeon,Kwangho Jeong,Yeonjin Yi
+Delay-dependent robust H infinity control for T-S fuzzy systems with time delay||
+A complete system for automatic extraction of left ventricular myocardium from CT Images using shape segmentation and contour||A Complete System for Automatic Extraction of Left Ventricular Myocardium From CT Images Using Shape Segmentation and Contour Evolution||Liangjia Zhu,Yi Gao,Vikram Appia,Anthony Yezzi,Chesnal Arepalli
+Randomized, Blinded, Sham-Controlled Trial of Acupuncture for the Management of Aromatase Inhibitor–Associated Joint Symptoms in Women With Early-Stage Breast Cancer||Randomized, Blinded, Sham-Controlled Trial of Acupuncture for the Management of Aromatase Inhibitor–Associated Joint Symptoms in Women With Early-Stage Br...||Katherine D. Crew,Jillian L. Capodice,Heather Greenlee,Lois Brafman,Deborah Fuentes
+Acupuncture Versus Venlafaxine for the Management of Vasomotor Symptoms in Patients With Hormone Receptor– Positive Breast Cancer: A Randomized Controlled Trial||Acupuncture versus venlafaxine for the management of vasomotor symptoms in patients with hormone receptor-positive breast cancer: a randomized controlled t...||Walker EM,Rodriguez AI,Kohn B,Ball RM,Pegg J
+Functional MRI of migraine||
+The dynamic pain connectome||
+Eliciting harmonics on strings||
+Book Reviews||
+FiWi access networks based on next-generation PON and gigabit-class WLAN technologies: A capacity and delay analysis||
+LMI-based stability and performance conditions for continuous-time nonlinear systems in Takagi–Sugeno's form||
+Pinto Distributed Linear-quadratic control of serially chained systems, application to a water delivery canal||
+Titanium dioxide nanomaterials for sensor applications||
+Enhanced thermoelectric performance of rough silicon nanowires||
+Silicon-Based Nanomaterials for Lithium-Ion Batteries A Review||
+A Zipper-Like On/Off-Switchable Molecularly||
+Responsive Photonic Crystals||
+Microdroplets in Microfluidics: An Evolving Platform for Discoveries in Chemistry and Biology||ChemInform Abstract: Microdroplets in Microfluidics: An Evolving Platform for Discoveries in Chemistry and Biology||Theberge AB,Courtois F,Schaerli Y,Fischlechner M,Abell C
+Martensitic transformation and magnetic field induced effects in Ni42Co8Mn39Sn11 metamagnetic shape memory alloy||Martensitic transformation and magnetic field induced effects in Ni 42 Co 8 Mn 39 Sn 11  metamagnetic shape memory alloy||P. Lázpita,M. Sasmaz,E. Cesari,J.M. Barandiarán,J. Gutiérrez
+High temperature shape memory alloys||
+Hydrogen Storage in Metal Organic Frameworks||
+The structure and 233 K electrochemical properties of La0.8LxNdxMg0.2Ni3.1Co0.25Al0.15 (x[0.0–0.4) hydrogen storage alloys||
+Superamphiphobic surfaces||
+Thermoresponsive colloidal crystals built from core-shell poly(styrene/α-tert-butoxy-ω-vinylbenzylpolyglycidol) microspheres||Thermoresponsive colloidal crystals built from core-shell poly(styrene/alpha-tert-butoxy-omega-vinylbenzylpolyglycidol) microspheres.||Griffete N,Dybkowska M,Glebocki B,Basinska T,Connan C
+Influence of the concentration and nature of carbon nanotubes on the mechanical properties of AA5083||
+A Roadmap for Graphene||
+Copper-Mediated Living Radical Polymerization (Atom Transfer Radical Polymerization and Copper(0) Mediated Polymerization): From Fundamentals to Bioapplications||Copper-Mediated Living Radical Polymerization (Atom Transfer Radical Polymerization and Copper(0) Mediated Polymerization): From Fundamentals to Bioapplica...||Boyer C,Corrigan NA,Jung K,Nguyen D,Nguyen TK
+Building Nanostructures with Drugs||
+Spiropyran-Based Dynamic Materials||
+Solution-Dispersible Metal Nanorings with Deliberately Controllable||
+TiO2 nanotubes for bone regeneration||
+Anomalous mechanical anisotropy of beta form polypropylene sheet with N,N dicyclohexyl-2,6-naphthalenedicarboxamide||Anomalous mechanical anisotropy of β form polypropylene sheet with N,N ′-dicyclohexyl-2,6-naphthalenedicarboxamide||Panitha Phulkerd,Shogo Nobukawa,Yohei Uchiyama,Masayuki Yamaguchi
+Surface-Immobilized Monolayers of Conjugated Oligomers as a Platform for Fluorescent Sensors Design: The Effect of Exciton Delocalization on Chemo-sensing Performance||Surface‐Immobilized Monolayers of Conjugated Oligomers as a Platform for Fluorescent Sensors Design: The Effect of Exciton Delocalization on Chemosensing ...||Imsick Brian G,Acharya Jiba Raj,Nesterov Evgueni E
+Microporous and Mesoporous Materials||
+Structure of narrow-diameter single-wall carbon nanotubes grown in AlPO4-5 zeolite||Structure of narrow-diameter single-wall carbon nanotubes grown in Al P O 4 − 5  zeolite||T. Roussel,R. J.-M. Pellenq,C. Bichara
+Phonons in carbon nanotubes||
+Nitrogen-Doped Graphene Ribbon Assembled Core–Sheath MnO@Graphene Scrolls as Hierarchically Ordered 3D Porous Electrodes for Fast and Durable Lithium Storage||Electrodes: Nitrogen‐Doped Graphene Ribbon Assembled Core–Sheath MnO@Graphene Scrolls as Hierarchically Ordered 3D Porous Electrodes for Fast and Durable...||Zhang Yun,Chen Penghui,Gao Xu,Wang Bo,Liu Heng
+Nanostructured Mo-based electrode materials for electrochemical energy storage||
+Hybridization of inorganic nanoparticles and polymers to create regular and reversible self-assembly architectures||ChemInform Abstract: Hybridization of Inorganic Nanoparticles and Polymers to Create Regular and Reversible Self-Assembly Architectures||Hao Zhang,Yi Liu,Dong Yao,Bai Yang
+A review on the progress of polymer nanostructures with modulated morphologies and properties, using nanoporous AAO||A review on the progress of polymer nanostructures with modulated morphologies and properties, using nanoporous AAO templates||Carmen Mijangos,Rebeca Hernández,Jaime Martín
+Hybrid nanostructures of metal/two-dimensianal nanomaterials for plasmon-enhanced applications||
+Progress on High Magnetic Field -Controlled Transport Phenomena and Their Effects on Solidifi- cation Microstructure||
+Solidification microstructures and solid-state parallels: Recent developments||Solidification microstructures and solid-state parallels: Recent developments, future directions||M. Asta,C. Beckermann,A. Karma,W. Kurz,R. Napolitano
+Microreactor technology and process miniaturization for catalytic reactions-A perspective on recent developments and emerging technologies||Microreactor technology and process miniaturization for catalytic reactions&mdash;A perspective on recent developments and emerging technologies||Patrick L. Mills,David J. Quiram,James F. Ryley
+Climate Change 2007: Impacts, Adaptation and Vulnerability||
+Twenty years for fundamental researches of structural engineering a report from National Natural Science Foundation of China (Keynote paper)||
+Efficiency optimization through current-sharing for paralleled dc–dc boost converters with parameter estimation||
+A general solution procedure for the forced vibrations of a continuous system with cubic nonlinearities||A general solution procedure for the forced vibrations of a continuous system with cubic nonlinearities: Primary resonance case||B. Burak Özhan,Mehmet Pakdemirli
+Nonlinear vibrations and stability of an axially moving beam with an intermediate spring support||
+Tailoring gadolinium-doped ceria-based solid oxide fuel cells to achieve 2Wcm-2 at 550 oC||Tailoring gadolinium-doped ceria-based solid oxide fuel cells to achieve 2 W cm−2 at 550 °C||Jin Goo Lee,Jeong Ho Park,Yong Gun Shul
+Joining of engineering ceramics||
+Facile one-step forming of NiO and yttrium-stabilized zirconia composite anodes with straight open pores for planar solid oxide fuel cell using phase-inversion tape casting method||Facile one-step forming of NiO and yttrium-stabilized zirconia composite anodes with straight open pores for planar solid oxide fuel cell using phase-inver...||Hua Huang,Jie Lin,Yunlong Wang,Shaorong Wang,Changrong Xia
+Fusing Monotonic Decision Trees||
+A review of composite and metallic bipolar plates in proton exchange membrane fuel cell: Materials, fabrication, and material selection||
+岩土塑性力学||
+Joining of dissimilar materials||
+Friction stir welding of aluminium alloys||
+Review of Numerical Modeling of Wa-ter Waves by Pengzhi Lin||
+Semiconductor Nanowires–Synthesis, Characterization, and Applications||
+Novel photocatalysts based on Cd1-xZnxS/Zn(OH)2 for the hydrogen evolution from water solutions of ethanol||Novel photocatalysts based on Cd 1− x Zn x S/Zn(OH) 2  for the hydrogen evolution from water solutions of ethanol||Ekaterina A. Kozlova,Dina V. Markovskaya,Svetlana V. Cherepanova,Andrey A. Saraev,Eugeny Yu. Gerasimov
+Stochastic averaging of quasi-integrable and non-resonant Hamiltonian systems under combined Gaussian and Poisson white noise excitations||
+Advanced Carbon Electrode Materials for Molecular Electrochemistry||
+Thermodynamic properties and microstructure evolution of ternary Al-10%Cu-x%Sn immiscible alloys||
+Polymer/montmorillonite nanocomposites with improved thermal properties Part I. Factors influencing thermal stability and mechanisms of thermal stability improvement||
+地震波研究||
+Bioinspired structural materials||
+Adhesion and friction in mesoscopic graphite contacts||
+Towards macroscale superlubricity||
+Tensile and tearing fracture properties of graphene oxide papers intercalated with carbon nanotubes||
+Investigation of crack propagation behavior of atmospheric plasma sprayed thermal barrier coatings under uniaxial tension using the acoustic emission technique||Investigation of Crack Propagation Behavior of Atmospheric Plasma-Sprayed Thermal Barrier Coatings under Uniaxial Tension Using the Acoustic Emission Techn...||L. Wang,C. G. Liu,X. H. Zhong,Y. X. Zhao,H. Y. Zhao
+A unified gas-kinetic scheme for continuum and rarefied flows||
+《非线性随机动力学与控制--Hamilton理论体系框架》评介||
+Non-linear stochastic controllers for semiactive and regenerative systems with guaranteed quadratic performance bounds-part 1: state feedback control||Reliable linear quadratic state feedback control for descriptor systems||Yao Bo,Zhang Qing Ling
